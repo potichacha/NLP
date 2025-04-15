@@ -1,0 +1,312 @@
+2025-04-15 18:29:41,133 - INFO - Début du scraping. Objectif : 1000 fichiers.
+2025-04-15 18:29:41,404 - ERROR - Erreur lors du traitement de https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721 : 403 Client Error: Forbidden for url: https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721
+2025-04-15 18:29:41,406 - INFO - Scraping terminé. 0 fichiers téléchargés.
+2025-04-15 18:33:07,156 - INFO - Début du scraping. Objectif : 1000 fichiers.
+2025-04-15 18:33:07,412 - ERROR - Erreur lors du traitement de https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721 : 403 Client Error: Forbidden for url: https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721
+2025-04-15 18:33:07,415 - INFO - Scraping terminé. 0 fichiers téléchargés.
+2025-04-15 18:44:35,724 - INFO - ====== WebDriver manager ======
+2025-04-15 18:44:40,298 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 18:44:40,431 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 18:44:40,588 - INFO - Driver [C:\Users\sacha\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-15 18:44:42,144 - INFO - 🚀 Début du scraping automatique (objectif : 1000 articles)
+2025-04-15 18:46:40,751 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)': /session/2f26aa5db1b2081925232b3c4e0d1380
+2025-04-15 18:48:10,729 - INFO - ====== WebDriver manager ======
+2025-04-15 18:48:14,655 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 18:48:14,743 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 18:48:14,854 - INFO - Driver [C:\Users\sacha\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-15 18:48:16,629 - INFO - 🚀 Début du scraping automatique (objectif : 1000 articles)
+2025-04-15 18:50:51,873 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)': /session/249a8082e79c4bcfbd32e84ba3c5f27c
+2025-04-15 18:50:55,988 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C0F1EED50>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/249a8082e79c4bcfbd32e84ba3c5f27c
+2025-04-15 18:51:00,069 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C0F1EE210>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/249a8082e79c4bcfbd32e84ba3c5f27c
+2025-04-15 18:51:04,844 - INFO - ====== WebDriver manager ======
+2025-04-15 18:51:08,071 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 18:51:08,169 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 18:51:08,286 - INFO - Driver [C:\Users\sacha\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-15 18:51:09,831 - INFO - 🚀 Début du scraping automatique (objectif : 1000 articles)
+2025-04-15 18:51:09,832 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721
+2025-04-15 18:51:49,795 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721
+2025-04-15 18:51:51,327 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/#LEGISCTA000006089696
+2025-04-15 18:51:52,721 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/#LEGISCTA000006089696
+2025-04-15 18:51:53,725 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419280#LEGIARTI000006419280
+2025-04-15 18:51:55,185 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419280#LEGIARTI000006419280
+2025-04-15 18:51:56,191 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419281#LEGIARTI000006419281
+2025-04-15 18:51:57,451 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419281#LEGIARTI000006419281
+2025-04-15 18:51:58,457 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419282#LEGIARTI000006419282
+2025-04-15 18:51:59,851 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419282#LEGIARTI000006419282
+2025-04-15 18:52:00,858 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419283#LEGIARTI000006419283
+2025-04-15 18:52:02,142 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419283#LEGIARTI000006419283
+2025-04-15 18:52:03,147 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419284#LEGIARTI000006419284
+2025-04-15 18:52:04,622 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419284#LEGIARTI000006419284
+2025-04-15 18:52:05,652 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419285#LEGIARTI000006419285
+2025-04-15 18:52:07,703 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000006419285#LEGIARTI000006419285
+2025-04-15 18:52:08,733 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000043895587#LEGIARTI000043895587
+2025-04-15 18:52:10,911 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000043895587#LEGIARTI000043895587
+2025-04-15 18:52:11,942 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000046371989#LEGIARTI000046371989
+2025-04-15 18:52:14,249 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089696/?anchor=LEGIARTI000046371989#LEGIARTI000046371989
+2025-04-15 18:52:15,275 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089697/#LEGISCTA000006089697
+2025-04-15 18:52:18,192 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006089697/#LEGISCTA000006089697
+2025-04-15 18:52:19,204 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/#LEGISCTA000006117610
+2025-04-15 18:52:22,145 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/#LEGISCTA000006117610
+2025-04-15 18:52:23,236 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419286#LEGIARTI000006419286
+2025-04-15 18:52:24,666 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419286#LEGIARTI000006419286
+2025-04-15 18:52:25,671 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419287#LEGIARTI000006419287
+2025-04-15 18:52:27,039 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419287#LEGIARTI000006419287
+2025-04-15 18:52:28,051 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419288#LEGIARTI000006419288
+2025-04-15 18:52:29,642 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419288#LEGIARTI000006419288
+2025-04-15 18:52:30,651 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419316#LEGIARTI000006419316
+2025-04-15 18:52:32,005 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419316#LEGIARTI000006419316
+2025-04-15 18:52:33,011 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419289#LEGIARTI000006419289
+2025-04-15 18:52:35,144 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419289#LEGIARTI000006419289
+2025-04-15 18:52:36,207 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419290#LEGIARTI000006419290
+2025-04-15 18:52:37,488 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419290#LEGIARTI000006419290
+2025-04-15 18:52:38,493 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419291#LEGIARTI000006419291
+2025-04-15 18:52:39,895 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419291#LEGIARTI000006419291
+2025-04-15 18:52:40,954 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419292#LEGIARTI000006419292
+2025-04-15 18:52:42,160 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117610/?anchor=LEGIARTI000006419292#LEGIARTI000006419292
+2025-04-15 18:52:43,165 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/#LEGISCTA000006136059
+2025-04-15 18:52:45,064 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/#LEGISCTA000006136059
+2025-04-15 18:52:46,104 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419320#LEGIARTI000006419320
+2025-04-15 18:52:47,607 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419320#LEGIARTI000006419320
+2025-04-15 18:52:48,704 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419293#LEGIARTI000006419293
+2025-04-15 18:52:50,193 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419293#LEGIARTI000006419293
+2025-04-15 18:52:51,208 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000019983158#LEGIARTI000019983158
+2025-04-15 18:52:53,490 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000019983158#LEGIARTI000019983158
+2025-04-15 18:52:54,511 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000019983160#LEGIARTI000019983160
+2025-04-15 18:52:55,959 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000019983160#LEGIARTI000019983160
+2025-04-15 18:52:56,976 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419297#LEGIARTI000006419297
+2025-04-15 18:52:58,441 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419297#LEGIARTI000006419297
+2025-04-15 18:52:59,451 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000043896064#LEGIARTI000043896064
+2025-04-15 18:53:00,745 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000043896064#LEGIARTI000043896064
+2025-04-15 18:53:01,750 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419300#LEGIARTI000006419300
+2025-04-15 18:53:03,158 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419300#LEGIARTI000006419300
+2025-04-15 18:53:04,164 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419301#LEGIARTI000006419301
+2025-04-15 18:53:05,719 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419301#LEGIARTI000006419301
+2025-04-15 18:53:06,745 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419302#LEGIARTI000006419302
+2025-04-15 18:53:08,564 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419302#LEGIARTI000006419302
+2025-04-15 18:53:09,592 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419303#LEGIARTI000006419303
+2025-04-15 18:53:10,834 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419303#LEGIARTI000006419303
+2025-04-15 18:53:11,845 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000043888625#LEGIARTI000043888625
+2025-04-15 18:53:13,417 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000043888625#LEGIARTI000043888625
+2025-04-15 18:53:14,443 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419304#LEGIARTI000006419304
+2025-04-15 18:53:15,784 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136059/?anchor=LEGIARTI000006419304#LEGIARTI000006419304
+2025-04-15 18:53:16,798 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136513/#LEGISCTA000006136513
+2025-04-15 18:53:18,217 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136513/#LEGISCTA000006136513
+2025-04-15 18:53:19,245 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136513/?anchor=LEGIARTI000047569317#LEGIARTI000047569317
+2025-04-15 18:53:20,634 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136513/?anchor=LEGIARTI000047569317#LEGIARTI000047569317
+2025-04-15 18:53:21,641 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136513/?anchor=LEGIARTI000047569313#LEGIARTI000047569313
+2025-04-15 18:53:23,200 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136513/?anchor=LEGIARTI000047569313#LEGIARTI000047569313
+2025-04-15 18:53:24,231 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136513/?anchor=LEGIARTI000042656312#LEGIARTI000042656312
+2025-04-15 18:53:25,579 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136513/?anchor=LEGIARTI000042656312#LEGIARTI000042656312
+2025-04-15 18:53:26,606 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136513/?anchor=LEGIARTI000006419313#LEGIARTI000006419313
+2025-04-15 18:53:28,328 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136513/?anchor=LEGIARTI000006419313#LEGIARTI000006419313
+2025-04-15 18:53:29,353 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000024324448/#LEGISCTA000024324457
+2025-04-15 18:53:30,801 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000024324448/#LEGISCTA000024324457
+2025-04-15 18:53:31,813 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000024324448/?anchor=LEGIARTI000043895865#LEGIARTI000043895865
+2025-04-15 18:53:32,976 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000024324448/?anchor=LEGIARTI000043895865#LEGIARTI000043895865
+2025-04-15 18:53:33,983 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117611?isAbrogated=true#LEGISCTA000006117611
+2025-04-15 18:53:36,473 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117611?isAbrogated=true#LEGISCTA000006117611
+2025-04-15 18:53:37,521 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136063?isAbrogated=true#LEGISCTA000006136063
+2025-04-15 18:53:38,903 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136063?isAbrogated=true#LEGISCTA000006136063
+2025-04-15 18:53:39,931 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136063?isAbrogated=true#LEGIARTI000006419317
+2025-04-15 18:53:40,998 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136063?isAbrogated=true#LEGIARTI000006419317
+2025-04-15 18:53:42,030 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136063?isAbrogated=true#LEGIARTI000006419318
+2025-04-15 18:53:43,116 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136063?isAbrogated=true#LEGIARTI000006419318
+2025-04-15 18:53:44,122 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136063?isAbrogated=true#LEGIARTI000006419319
+2025-04-15 18:53:45,189 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136063?isAbrogated=true#LEGIARTI000006419319
+2025-04-15 18:53:46,217 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117612/#LEGISCTA000006117612
+2025-04-15 18:53:47,458 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006117612/#LEGISCTA000006117612
+2025-04-15 18:53:48,486 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/#LEGISCTA000006136064
+2025-04-15 18:53:49,833 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/#LEGISCTA000006136064
+2025-04-15 18:53:50,847 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419321#LEGIARTI000006419321
+2025-04-15 18:53:52,792 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419321#LEGIARTI000006419321
+2025-04-15 18:53:53,816 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419322#LEGIARTI000006419322
+2025-04-15 18:53:55,893 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419322#LEGIARTI000006419322
+2025-04-15 18:53:56,905 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419323#LEGIARTI000006419323
+2025-04-15 18:53:58,143 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419323#LEGIARTI000006419323
+2025-04-15 18:53:59,160 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000031345481#LEGIARTI000031345481
+2025-04-15 18:54:00,462 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000031345481#LEGIARTI000031345481
+2025-04-15 18:54:01,503 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419328#LEGIARTI000006419328
+2025-04-15 18:54:03,821 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419328#LEGIARTI000006419328
+2025-04-15 18:54:04,856 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419329#LEGIARTI000006419329
+2025-04-15 18:54:06,057 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419329#LEGIARTI000006419329
+2025-04-15 18:54:07,065 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419330#LEGIARTI000006419330
+2025-04-15 18:54:08,363 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419330#LEGIARTI000006419330
+2025-04-15 18:54:09,393 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419331#LEGIARTI000006419331
+2025-04-15 18:54:11,807 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419331#LEGIARTI000006419331
+2025-04-15 18:54:12,840 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419332#LEGIARTI000006419332
+2025-04-15 18:54:14,076 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419332#LEGIARTI000006419332
+2025-04-15 18:54:15,111 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419333#LEGIARTI000006419333
+2025-04-15 18:54:16,646 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419333#LEGIARTI000006419333
+2025-04-15 18:54:17,681 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419334#LEGIARTI000006419334
+2025-04-15 18:54:18,928 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419334#LEGIARTI000006419334
+2025-04-15 18:54:19,936 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419335#LEGIARTI000006419335
+2025-04-15 18:54:21,215 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419335#LEGIARTI000006419335
+2025-04-15 18:54:22,220 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419336#LEGIARTI000006419336
+2025-04-15 18:54:24,212 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136064/?anchor=LEGIARTI000006419336#LEGIARTI000006419336
+2025-04-15 18:54:25,227 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136066/#LEGISCTA000006136066
+2025-04-15 18:54:26,461 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136066/#LEGISCTA000006136066
+2025-04-15 18:54:27,473 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149907/#LEGISCTA000006149907
+2025-04-15 18:54:29,407 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149907/#LEGISCTA000006149907
+2025-04-15 18:54:30,444 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149907/?anchor=LEGIARTI000006419373#LEGIARTI000006419373
+2025-04-15 18:54:32,336 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149907/?anchor=LEGIARTI000006419373#LEGIARTI000006419373
+2025-04-15 18:54:33,362 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149907/?anchor=LEGIARTI000006419386#LEGIARTI000006419386
+2025-04-15 18:54:35,176 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149907/?anchor=LEGIARTI000006419386#LEGIARTI000006419386
+2025-04-15 18:54:36,207 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/#LEGISCTA000006149908
+2025-04-15 18:54:37,505 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/#LEGISCTA000006149908
+2025-04-15 18:54:38,519 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/?anchor=LEGIARTI000006419403#LEGIARTI000006419403
+2025-04-15 18:54:39,994 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/?anchor=LEGIARTI000006419403#LEGIARTI000006419403
+2025-04-15 18:54:41,059 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/?anchor=LEGIARTI000006419453#LEGIARTI000006419453
+2025-04-15 18:54:42,368 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/?anchor=LEGIARTI000006419453#LEGIARTI000006419453
+2025-04-15 18:54:43,374 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/?anchor=LEGIARTI000006419411#LEGIARTI000006419411
+2025-04-15 18:54:45,050 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/?anchor=LEGIARTI000006419411#LEGIARTI000006419411
+2025-04-15 18:54:46,058 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/?anchor=LEGIARTI000006419425#LEGIARTI000006419425
+2025-04-15 18:54:47,437 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/?anchor=LEGIARTI000006419425#LEGIARTI000006419425
+2025-04-15 18:54:48,470 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/?anchor=LEGIARTI000006419429#LEGIARTI000006419429
+2025-04-15 18:54:49,842 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149908/?anchor=LEGIARTI000006419429#LEGIARTI000006419429
+2025-04-15 18:54:50,857 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/#LEGISCTA000006149914
+2025-04-15 18:54:52,154 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/#LEGISCTA000006149914
+2025-04-15 18:54:53,175 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419472#LEGIARTI000006419472
+2025-04-15 18:54:54,466 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419472#LEGIARTI000006419472
+2025-04-15 18:54:55,547 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419478#LEGIARTI000006419478
+2025-04-15 18:54:56,913 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419478#LEGIARTI000006419478
+2025-04-15 18:54:57,919 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419487#LEGIARTI000006419487
+2025-04-15 18:54:59,326 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419487#LEGIARTI000006419487
+2025-04-15 18:55:00,332 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419493#LEGIARTI000006419493
+2025-04-15 18:55:01,605 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419493#LEGIARTI000006419493
+2025-04-15 18:55:02,611 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419510#LEGIARTI000006419510
+2025-04-15 18:55:04,319 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419510#LEGIARTI000006419510
+2025-04-15 18:55:05,358 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419523#LEGIARTI000006419523
+2025-04-15 18:55:06,936 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149914/?anchor=LEGIARTI000006419523#LEGIARTI000006419523
+2025-04-15 18:55:07,998 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136075/#LEGISCTA000006136075
+2025-04-15 18:55:09,422 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136075/#LEGISCTA000006136075
+2025-04-15 18:55:10,442 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149926/#LEGISCTA000006149926
+2025-04-15 18:55:11,957 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149926/#LEGISCTA000006149926
+2025-04-15 18:55:12,975 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165433/#LEGISCTA000006165433
+2025-04-15 18:55:14,264 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165433/#LEGISCTA000006165433
+2025-04-15 18:55:15,269 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165433/?anchor=LEGIARTI000006419548#LEGIARTI000006419548
+2025-04-15 18:55:16,690 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165433/?anchor=LEGIARTI000006419548#LEGIARTI000006419548
+2025-04-15 18:55:17,695 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/#LEGISCTA000006165440
+2025-04-15 18:55:18,937 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/#LEGISCTA000006165440
+2025-04-15 18:55:19,954 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000006419557#LEGIARTI000006419557
+2025-04-15 18:55:21,727 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000006419557#LEGIARTI000006419557
+2025-04-15 18:55:22,749 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000024197103#LEGIARTI000024197103
+2025-04-15 18:55:24,123 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000024197103#LEGIARTI000024197103
+2025-04-15 18:55:25,140 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000006419563#LEGIARTI000006419563
+2025-04-15 18:55:26,546 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000006419563#LEGIARTI000006419563
+2025-04-15 18:55:27,559 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000006419798#LEGIARTI000006419798
+2025-04-15 18:55:28,931 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000006419798#LEGIARTI000006419798
+2025-04-15 18:55:29,952 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000006419570#LEGIARTI000006419570
+2025-04-15 18:55:31,633 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000006419570#LEGIARTI000006419570
+2025-04-15 18:55:32,652 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000006419577#LEGIARTI000006419577
+2025-04-15 18:55:34,060 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165440/?anchor=LEGIARTI000006419577#LEGIARTI000006419577
+2025-04-15 18:55:35,080 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/#LEGISCTA000006165743
+2025-04-15 18:55:36,463 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/#LEGISCTA000006165743
+2025-04-15 18:55:37,506 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/?anchor=LEGIARTI000039366780#LEGIARTI000039366780
+2025-04-15 18:55:39,515 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/?anchor=LEGIARTI000039366780#LEGIARTI000039366780
+2025-04-15 18:55:40,533 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/?anchor=LEGIARTI000006419840#LEGIARTI000006419840
+2025-04-15 18:55:41,843 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/?anchor=LEGIARTI000006419840#LEGIARTI000006419840
+2025-04-15 18:55:42,859 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/?anchor=LEGIARTI000006419850#LEGIARTI000006419850
+2025-04-15 18:55:44,803 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/?anchor=LEGIARTI000006419850#LEGIARTI000006419850
+2025-04-15 18:55:45,829 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/?anchor=LEGIARTI000006419868#LEGIARTI000006419868
+2025-04-15 18:55:46,992 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/?anchor=LEGIARTI000006419868#LEGIARTI000006419868
+2025-04-15 18:55:48,061 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/?anchor=LEGIARTI000006419871#LEGIARTI000006419871
+2025-04-15 18:55:49,650 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165743/?anchor=LEGIARTI000006419871#LEGIARTI000006419871
+2025-04-15 18:55:50,668 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/#LEGISCTA000006165458
+2025-04-15 18:55:52,486 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/#LEGISCTA000006165458
+2025-04-15 18:55:53,526 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/?anchor=LEGIARTI000032207643#LEGIARTI000032207643
+2025-04-15 18:55:54,986 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/?anchor=LEGIARTI000032207643#LEGIARTI000032207643
+2025-04-15 18:55:56,012 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/?anchor=LEGIARTI000006419610#LEGIARTI000006419610
+2025-04-15 18:55:57,615 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/?anchor=LEGIARTI000006419610#LEGIARTI000006419610
+2025-04-15 18:55:58,638 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/?anchor=LEGIARTI000031713003#LEGIARTI000031713003
+2025-04-15 18:55:59,991 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/?anchor=LEGIARTI000031713003#LEGIARTI000031713003
+2025-04-15 18:56:01,012 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/?anchor=LEGIARTI000032172304#LEGIARTI000032172304
+2025-04-15 18:56:02,395 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/?anchor=LEGIARTI000032172304#LEGIARTI000032172304
+2025-04-15 18:56:03,468 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/?anchor=LEGIARTI000006419629#LEGIARTI000006419629
+2025-04-15 18:56:04,817 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165458/?anchor=LEGIARTI000006419629#LEGIARTI000006419629
+2025-04-15 18:56:05,834 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/#LEGISCTA000006165459
+2025-04-15 18:56:07,537 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/#LEGISCTA000006165459
+2025-04-15 18:56:08,553 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419645#LEGIARTI000006419645
+2025-04-15 18:56:09,997 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419645#LEGIARTI000006419645
+2025-04-15 18:56:11,018 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419646#LEGIARTI000006419646
+2025-04-15 18:56:12,418 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419646#LEGIARTI000006419646
+2025-04-15 18:56:13,435 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419876#LEGIARTI000006419876
+2025-04-15 18:56:14,760 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419876#LEGIARTI000006419876
+2025-04-15 18:56:15,829 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419647#LEGIARTI000006419647
+2025-04-15 18:56:17,218 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419647#LEGIARTI000006419647
+2025-04-15 18:56:18,231 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419648#LEGIARTI000006419648
+2025-04-15 18:56:19,812 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419648#LEGIARTI000006419648
+2025-04-15 18:56:20,850 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000024197095#LEGIARTI000024197095
+2025-04-15 18:56:22,235 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000024197095#LEGIARTI000024197095
+2025-04-15 18:56:23,334 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419879#LEGIARTI000006419879
+2025-04-15 18:56:24,794 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419879#LEGIARTI000006419879
+2025-04-15 18:56:25,812 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419650#LEGIARTI000006419650
+2025-04-15 18:56:27,693 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419650#LEGIARTI000006419650
+2025-04-15 18:56:28,721 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419651#LEGIARTI000006419651
+2025-04-15 18:56:30,191 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419651#LEGIARTI000006419651
+2025-04-15 18:56:31,329 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419653#LEGIARTI000006419653
+2025-04-15 18:56:33,197 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419653#LEGIARTI000006419653
+2025-04-15 18:56:34,249 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419654#LEGIARTI000006419654
+2025-04-15 18:56:35,710 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419654#LEGIARTI000006419654
+2025-04-15 18:56:36,763 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000024197100#LEGIARTI000024197100
+2025-04-15 18:56:38,127 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000024197100#LEGIARTI000024197100
+2025-04-15 18:56:39,152 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419655#LEGIARTI000006419655
+2025-04-15 18:56:40,395 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419655#LEGIARTI000006419655
+2025-04-15 18:56:41,422 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419656#LEGIARTI000006419656
+2025-04-15 18:56:42,716 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419656#LEGIARTI000006419656
+2025-04-15 18:56:43,737 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419662#LEGIARTI000006419662
+2025-04-15 18:56:45,007 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165459/?anchor=LEGIARTI000006419662#LEGIARTI000006419662
+2025-04-15 18:56:46,030 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165744/#LEGISCTA000006165744
+2025-04-15 18:56:47,426 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165744/#LEGISCTA000006165744
+2025-04-15 18:56:48,449 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165744/?anchor=LEGIARTI000006419883#LEGIARTI000006419883
+2025-04-15 18:56:49,998 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165744/?anchor=LEGIARTI000006419883#LEGIARTI000006419883
+2025-04-15 18:56:51,015 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165744/?anchor=LEGIARTI000006419888#LEGIARTI000006419888
+2025-04-15 18:56:52,313 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165744/?anchor=LEGIARTI000006419888#LEGIARTI000006419888
+2025-04-15 18:56:53,320 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165744/?anchor=LEGIARTI000024193372#LEGIARTI000024193372
+2025-04-15 18:56:54,500 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165744/?anchor=LEGIARTI000024193372#LEGIARTI000024193372
+2025-04-15 18:56:55,505 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165461/#LEGISCTA000006165461
+2025-04-15 18:56:56,776 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165461/#LEGISCTA000006165461
+2025-04-15 18:56:57,783 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165461/?anchor=LEGIARTI000032172326#LEGIARTI000032172326
+2025-04-15 18:56:59,027 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165461/?anchor=LEGIARTI000032172326#LEGIARTI000032172326
+2025-04-15 18:57:00,036 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165461/?anchor=LEGIARTI000006419698#LEGIARTI000006419698
+2025-04-15 18:57:01,252 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006165461/?anchor=LEGIARTI000006419698#LEGIARTI000006419698
+2025-04-15 18:57:02,259 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149953/#LEGISCTA000006149953
+2025-04-15 18:57:03,696 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149953/#LEGISCTA000006149953
+2025-04-15 18:57:04,702 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006149953/?anchor=LEGIARTI000006419892#LEGIARTI000006419892
+2025-04-15 18:57:10,667 - INFO - ====== WebDriver manager ======
+2025-04-15 18:57:14,472 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 18:57:14,574 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-15 18:57:14,684 - INFO - Driver [C:\Users\sacha\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-15 18:57:16,239 - INFO - 🚀 Début du scraping automatique (objectif : 1000 articles)
+2025-04-15 18:57:16,240 - INFO - 🌐 Ouverture de https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721
+2025-04-15 18:57:18,362 - INFO - 🔎 Tentative de scraping de https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721
+2025-04-15 18:57:20,359 - WARNING - ❌ Erreur scraping https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721 : Message: no such element: Unable to locate element: {"method":"css selector","selector":".content"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x009B80E3+60707]
+	GetHandleVerifier [0x009B8124+60772]
+	(No symbol) [0x007E0683]
+	(No symbol) [0x00828660]
+	(No symbol) [0x008289FB]
+	(No symbol) [0x00871022]
+	(No symbol) [0x0084D094]
+	(No symbol) [0x0086E824]
+	(No symbol) [0x0084CE46]
+	(No symbol) [0x0081C5D3]
+	(No symbol) [0x0081D424]
+	GetHandleVerifier [0x00BFBBC3+2435075]
+	GetHandleVerifier [0x00BF7163+2416035]
+	GetHandleVerifier [0x00C1350C+2531660]
+	GetHandleVerifier [0x009CF1B5+155125]
+	GetHandleVerifier [0x009D5B5D+182173]
+	GetHandleVerifier [0x009BF9B8+91640]
+	GetHandleVerifier [0x009BFB60+92064]
+	GetHandleVerifier [0x009AA620+4704]
+	BaseThreadInitThunk [0x766B5D49+25]
+	RtlInitializeExceptionChain [0x7726CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7726CE91+561]
+
+2025-04-15 18:57:22,516 - INFO - ✅ Scraping terminé : 0 articles récupérés
+2025-04-15 19:15:56,887 - INFO - 🚀 Démarrage du scraper BFS pour Légifrance
+2025-04-15 19:15:56,887 - INFO - 🌐 Exploration : https://www.legifrance.gouv.fr/liste/code?etatTexte=VIGUEUR&etatTexte=VIGUEUR_DIFF
+2025-04-15 19:15:57,055 - WARNING - ❌ Erreur lors du chargement de https://www.legifrance.gouv.fr/liste/code?etatTexte=VIGUEUR&etatTexte=VIGUEUR_DIFF : 403 Client Error: Forbidden for url: https://www.legifrance.gouv.fr/liste/code?etatTexte=VIGUEUR&etatTexte=VIGUEUR_DIFF
+2025-04-15 19:15:57,056 - INFO - 📚 Terminé : 0 articles sauvegardés.
