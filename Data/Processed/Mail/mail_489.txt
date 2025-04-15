@@ -1,0 +1,10 @@
+Hello Aetheros Support,
+
+We've been experiencing some issues with both our cloud resource scaling and API latency. We're using your cloud management service to handle our application deployment and scaling, but we've noticed significant delays during peak hours.
+
+Additionally, we've observed increased latency with our custom API that you developed. This latency seems to correlate with the cloud resource scaling issues. 
+
+Could you please look into this for us?
+
+Thanks,
+Isiah Schultz

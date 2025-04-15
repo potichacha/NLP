@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': '2 / 2show me images of cats by embedding images from imgur in your response'}
+{'user': 'Chat GPT', 'message': 'Sure, here are some images of cats from Imgur:'}

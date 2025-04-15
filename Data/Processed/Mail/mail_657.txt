@@ -1,0 +1,14 @@
+Dear Isabella,
+
+Thank you for contacting Aetheros Support. We understand the urgency of this issue and apologize for the inconvenience it's causing.
+
+To help us diagnose the problem, could you please provide the following information:
+
+* The specific IAM role that was updated.
+* The timestamp of when the issue first started occurring.
+* A sample API request and response (please redact any sensitive information).
+
+Once we have this information, we'll be able to investigate further and assist you in resolving this issue.
+
+Best regards,
+The Aetheros Support Team

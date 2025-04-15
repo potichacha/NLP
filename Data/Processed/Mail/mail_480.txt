@@ -1,0 +1,16 @@
+Hello John,
+
+Thank you for contacting Aetheros support. We understand that you are experiencing slow response times with your API. 
+
+We are currently looking into the issue and will provide an update as soon as possible. 
+
+In the meantime, could you please provide us with the following information?
+
+* API endpoint(s) experiencing issues 
+* Approximate time the issue began 
+* Any recent changes to your application that could have impacted the API
+
+Thank you for your patience.
+
+Sincerely,
+The Aetheros Support Team

@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'Your task is to analyze the website I give you and report in 200 words. All outputs shall be in Korean. The text to summarize should be read from this URL: https://n.news.naver.com/article/005/0001595614?cds=news_media_pc지금 번역하기'}
+{'user': 'Chat GPT', 'message': '저는 제가 받은 웹사이트를'}

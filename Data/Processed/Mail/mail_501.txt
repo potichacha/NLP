@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of the situation and the impact this API issue is having on your operations. 
+
+We have escalated your case to our senior engineers. They are currently investigating the root cause of the delay.  We will provide an update with our findings and a plan of action within the next [Time Frame].
+
+In the meantime, please provide us with the following information so we can better assist you:
+* [Specific information request 1]
+* [Specific information request 2]
+
+We appreciate your patience as we work to resolve this issue as quickly as possible.
+
+Sincerely,
+The Aetheros Support Team

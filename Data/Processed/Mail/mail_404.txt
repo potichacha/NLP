@@ -1,0 +1,25 @@
+Hi Support Team,
+
+Please find the requested details below:
+
+**1. User ARN:** arn:aetheros:iam::123456789012:user/deployment-user
+**2. Policy Details:**
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "aetheros:mercury:DeployCode"
+      ],
+      "Resource": "*"
+    }
+  ]
+}
+```
+
+Let me know if you require anything else.
+
+Regards,
+John

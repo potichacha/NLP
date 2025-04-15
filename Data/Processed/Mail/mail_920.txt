@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm having trouble assigning specific roles to users within my organization. I'm trying to give a group of developers access to a particular API, but the role assignment doesn't seem to be working correctly. They are still getting authorization errors. 
+
+Can you help me troubleshoot this?
+
+Thanks,
+John Doe

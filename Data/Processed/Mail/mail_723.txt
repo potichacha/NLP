@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of this issue and are committed to assisting you in resolving it.
+
+To expedite the troubleshooting process, could you please provide us with the following information:
+
+* Version of the Mercury language runtime you were using before the update
+* Specific API endpoints experiencing performance degradation
+* Any relevant error logs or metrics from your API monitoring platform
+
+Our team will begin investigating this issue immediately and provide updates as they become available.
+
+Best regards,
+Aetheros Support Team

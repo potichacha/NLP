@@ -1,0 +1,7 @@
+Thank you for contacting Aetheros support. We understand you are experiencing an urgent issue. To help us diagnose the problem, could you please provide the following information:
+
+* The specific error message you are encountering.
+* The relevant code snippet from your Mercury application.
+* The configuration of the user roles and permissions in the IAM service.
+
+Once we have this information, we will be able to assist you further.

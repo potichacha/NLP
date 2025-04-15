@@ -1,0 +1,14 @@
+Hi John,
+
+Thank you for contacting Aetheros Support.
+
+We understand you're experiencing difficulties deploying your Mercury application to AWS due to a "Resource Limit Exceeded" error. To assist you effectively, could you please provide the following information?
+
+* The specific AWS region you are deploying to.
+* The instance type you are attempting to deploy.
+* A screenshot of the error message.
+
+Once we have this information, we can investigate further and provide a solution.
+
+Best regards,
+The Aetheros Support Team

@@ -1,0 +1,20 @@
+{'user': 'Anonymous', 'message': '你好，你是一位阿拉伯语专家，麻烦帮我打造一个初级学者练习阿拉伯语的100天计划，目标是熟练阅读理解阿拉伯语网页和书籍，这份计划要精确到每天的任务，并且请将该计划分为十个部分，并在提示“请继续”时给出每个部分，这个计划应该包括词汇、语法、句式、听力、口语和复习技巧。请继续。'}
+{'user': 'Chat GPT', 'message': '你好！很高兴能帮助你制定这个阿拉伯语学习计划。以下是第一个部分，每个部分包含10天的任务。请继续关注后续部分。 ： ： ： ： ： ： ： ： ： ： 请继续。'}
+{'user': 'Anonymous', 'message': '请继续'}
+{'user': 'Chat GPT', 'message': '： ： ： ： ： ： ： ： ： ： 请继续。'}
+{'user': 'Anonymous', 'message': '请继续'}
+{'user': 'Chat GPT', 'message': '： ： ： ： ： ： ： ： ： ： 请继续。'}
+{'user': 'Anonymous', 'message': '请继续'}
+{'user': 'Chat GPT', 'message': '： ： ： ： ： ： ： ： ： ： 请继续。'}
+{'user': 'Anonymous', 'message': '请继续'}
+{'user': 'Chat GPT', 'message': '： ： ： ： ： ： ： ： ： ： 请继续。'}
+{'user': 'Anonymous', 'message': '请继续'}
+{'user': 'Chat GPT', 'message': '： ： ： ： ： ： ： ： ： ： 请继续。'}
+{'user': 'Anonymous', 'message': '请继续'}
+{'user': 'Chat GPT', 'message': '： ： ： ： ： ： ： ： ： ： 请继续。'}
+{'user': 'Anonymous', 'message': '请继续'}
+{'user': 'Chat GPT', 'message': '： ： ： ： ： ： ： ： ： ： 请继续。'}
+{'user': 'Anonymous', 'message': '请继续'}
+{'user': 'Chat GPT', 'message': '： ： ： ： ： ： ： ： ： ： 请继续。'}
+{'user': 'Anonymous', 'message': '请继续'}
+{'user': 'Chat GPT', 'message': '： ： ： ： ： ： ： ： ： ： 恭喜你完成了100天的阿拉伯语学习计划！通过这100天的学习，你已经建立了扎实的阿拉'}

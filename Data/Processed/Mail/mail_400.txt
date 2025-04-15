@@ -1,0 +1,16 @@
+Dear John,
+
+Thank you for contacting Aetheros Support.
+
+We understand you are experiencing latency issues with your API gateway. We are currently investigating this issue and will provide an update as soon as possible.
+
+In the meantime, please provide us with the following information so we can better assist you:
+
+* Your Aetheros account ID
+* The name of the affected API gateway
+* A screenshot of the latency metrics from your monitoring platform
+
+Thank you for your patience and understanding.
+
+Sincerely,
+Aetheros Support

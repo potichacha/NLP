@@ -1,0 +1,14 @@
+Dear Isiah,
+
+Thank you for reaching out to Aetheros Support. 
+
+We understand you are experiencing issues with asynchronous calls in Mercury. To best assist you, could you please provide us with the following information:
+
+* Version of Mercury you are using
+* Snippet of your code demonstrating the asynchronous calls
+* Screenshots of the inconsistent data you're observing in your application
+
+Once we have this information, we can investigate further and provide you with a solution.
+
+Best Regards,
+Aetheros Support Team

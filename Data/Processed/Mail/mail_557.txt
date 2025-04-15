@@ -1,0 +1,11 @@
+Hi Aetheros Support,
+
+I'm having trouble deploying a function written in Mercury Language. It seems to be getting stuck in the 'Deploying' state, and I'm not seeing any error messages in the logs.
+
+Can you help me troubleshoot this?
+
+Function name: processOrder
+Environment: Production
+
+Thanks,
+John Doe

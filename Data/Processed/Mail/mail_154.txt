@@ -1,0 +1,16 @@
+Hi Aetheros Support,
+
+We are experiencing a critical issue with deploying our Mercury code to production. We are consistently getting a 502 error, and our API is completely down as a result.
+
+This is a high-priority issue as it's impacting our live application and causing significant disruption to our users. We need this resolved as soon as possible.
+
+Here are the details:
+
+* **Mercury version:** 2.3.1
+* **Deployment environment:** AWS
+* **Error message:** "502 Bad Gateway"
+
+We have checked our server logs and haven't been able to identify the root cause of this error.  Please advise on how to troubleshoot and resolve this issue immediately.
+
+Thanks,
+John Doe

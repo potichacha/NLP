@@ -1,0 +1,13 @@
+Aetheros Support,
+
+Here's the information you requested:
+
+* Account ID: [Redacted - Example Account ID]
+* API Endpoints: Primarily affecting `/api/v2/processOrder` and `/api/v2/getUserData`
+* Screenshots: [Attached Screenshots]
+
+We're also noticing some unusual behavior with our Mercury language scripts used in these API endpoints. We suspect there might be a connection. 
+
+Please let us know if you need anything else.
+
+John

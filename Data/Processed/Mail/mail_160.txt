@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+Thanks for the quick response and for considering our suggestion. We understand development takes time and appreciate you adding it to your roadmap.
+
+On a slightly related note, are there any plans to improve the API documentation for the IAM service? We've found some areas could benefit from more detailed examples, particularly around user and role management.
+
+Best regards,
+Isiah

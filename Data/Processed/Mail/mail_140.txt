@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+We're trying to integrate Mercury Language with our existing API, which we also developed using Aetheros's API development services. We're encountering some compatibility issues and were hoping you could shed some light on how to resolve them. 
+
+Specifically, we're facing problems with [mention specific issue related to data type compatibility or function calls].
+
+We've already gone through the documentation and tried a few workarounds but haven't had any luck. 
+
+Could you please advise on how to proceed?
+
+Thanks,
+John Doe

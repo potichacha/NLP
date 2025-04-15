@@ -1,0 +1,1 @@
+Issue first occurred around 02:00 AM UTC.  We updated IAM roles at around 10:00 PM UTC yesterday following your documentation for restricting access to specific cloud resources. Since then everything was working fine until the outage. We are seeing error messages related to unauthorized access when trying to access our resources via the CLI and also in deployment logs.

@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of this issue and are committed to resolving it as quickly as possible.
+
+We have escalated your case to our senior engineers, and they are currently investigating the root cause of the slow API response times. We will keep you updated on our progress and provide a timeline for resolution as soon as we have more information.
+
+In the meantime, please let us know if you have any further questions or concerns.
+
+Sincerely,
+Aetheros Support Team

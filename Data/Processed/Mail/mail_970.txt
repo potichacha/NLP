@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand your production environment is facing an outage and are treating this with high priority.
+
+Our engineers are currently investigating the issue. We will provide an update shortly.
+
+Sincerely,
+The Aetheros Support Team

@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We are experiencing difficulties deploying our new Mercury application to the cloud environment managed by Aetheros. 
+
+We are encountering error messages related to resource allocation and the deployment is consistently failing.  We have reviewed our code and the deployment configuration, but we haven't been able to pinpoint the exact cause of the issue.
+
+Could you please provide urgent assistance to resolve this deployment issue?
+
+Best regards,
+John Smith

@@ -1,0 +1,16 @@
+Dear John,
+
+Thank you for providing the details. Upon reviewing the information, it seems you are encountering resource constraints in your cloud environment. The deployment failures are due to exceeding your allocated vCPU quota. 
+
+Regarding the API latency, we need to investigate this separately. To help us understand the issue better, please provide the following:
+
+* Specific API endpoints experiencing latency.
+* Timeframe when you observed the latency spikes.
+* Any error messages or logs related to the latency.
+
+For the deployment issue, we recommend considering a quota increase for your vCPU resources. You can submit a request through the Aetheros Cloud Management console, or we can guide you through the process. 
+
+Let me know how you would like to proceed.
+
+Regards,
+Aetheros Support

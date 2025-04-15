@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for your email and your valuable suggestion regarding our API monitoring service. We appreciate you taking the time to share your feedback with us.
+
+We understand the importance of a customizable alerting system and agree that it would greatly enhance our platform's functionality. Your suggestion has been forwarded to our product development team for further consideration and prioritization in our roadmap.
+
+While we cannot provide a specific timeline for implementation at this time, we will keep you informed of any developments regarding this feature.
+
+In the meantime, if you have any further suggestions or questions, please don't hesitate to contact us.
+
+Sincerely,
+Aetheros Support

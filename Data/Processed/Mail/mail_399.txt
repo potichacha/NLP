@@ -1,0 +1,11 @@
+We are experiencing significant latency with our API gateway managed by Aetheros. This is impacting our production environment and causing major disruptions for our customers. 
+
+We have observed response times exceeding several seconds for API calls that normally take milliseconds. This issue started appearing around [mention approximate time issue began].
+
+We are using the following:
+* Aetheros API Gateway
+* Cloud Management platform (for the infrastructure hosting the gateway)
+
+We have already checked our application code and confirmed it's not the source of the problem. 
+
+Please advise on how to resolve this issue as soon as possible.

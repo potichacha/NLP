@@ -1,0 +1,10 @@
+Dear John,
+
+Aetheros provides a robust role-based access control (RBAC) system as part of our IAM service. You can define roles and assign permissions to those roles, such as read, write, or execute permissions for specific API endpoints.
+
+Once you define your roles and permissions, you can assign users to those roles. When a user tries to access an API endpoint, our IAM service verifies the user's role and permissions and grants or denies access based on your configured policies.
+
+Please let me know if you have further questions.
+
+Sincerely,
+The Aetheros Support Team

@@ -1,0 +1,10 @@
+Hi John,
+
+Thank you for reaching out. We can see the increased latency you're experiencing with API key 'adk-789xyz123'. 
+
+Our team is currently investigating the issue to identify the root cause. We will keep you updated on our progress and provide an estimated resolution time as soon as possible.
+
+In the meantime, please let us know if you have any further questions.
+
+Best regards,
+Aetheros Support

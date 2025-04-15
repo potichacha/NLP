@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+I've gathered the information you requested:
+
+1. **Error Message:**  "Invalid or expired token" - this is consistent across all attempts.
+2. **Code Snippet:** I've attached a separate file containing the relevant code snippet.  Please note that due to security policies, I cannot share our complete codebase.
+3. **Mercury SDK Version:** 2.3.5
+
+We are hoping for a prompt resolution as this is impacting our production timeline.
+
+Thank you,
+John Doe

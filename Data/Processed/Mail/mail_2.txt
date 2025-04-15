@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support. We understand you are experiencing difficulties finding the correct documentation for custom error handling in Mercury.
+
+We are currently updating our documentation portal and apologize for any inconvenience this may cause. In the meantime, could you please provide us with the version of Mercury you are using? This will help us direct you to the most relevant information.
+
+Sincerely,
+The Aetheros Support Team

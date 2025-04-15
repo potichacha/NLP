@@ -1,0 +1,5 @@
+Dear Nathaniel,
+
+We apologize for the extended downtime and the impact it is having on your operations. Our engineering team has identified the issue and is currently implementing a fix. We expect the API services to be fully restored within the next hour.
+
+We will keep you updated on the progress. Thank you for your continued patience.

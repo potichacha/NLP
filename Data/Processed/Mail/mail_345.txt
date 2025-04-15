@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+I'm evaluating Mercury for a new API project and had a question about its integration capabilities. Is it possible to use Mercury to build an API that interacts with an existing RESTful API built with a different technology?
+
+Thanks,
+John Doe

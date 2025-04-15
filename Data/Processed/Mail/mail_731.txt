@@ -1,0 +1,16 @@
+Dear John,
+
+You're welcome! We're glad to hear that the instance sizing and autoscaling changes have improved your application's performance.
+
+Regarding the unusual spikes in API latency during off-peak hours, it's worth investigating further. While it's possible they are related to the recent changes, there could be other factors involved.
+
+To help us pinpoint the cause, could you please provide us with the following information:
+
+* The approximate time these spikes occurred.
+* The specific API endpoints affected.
+* Any relevant logs or error messages from the affected time frame.
+
+Once we have more information, we can analyze the situation and determine the root cause of these latency spikes.
+
+Best regards,
+Aetheros Support

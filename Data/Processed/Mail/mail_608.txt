@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We're facing a critical issue with our API integration using the Mercury language. The documentation seems outdated, and we're encountering errors we can't debug. 
+
+Furthermore, our API monitoring dashboard shows inconsistent data compared to what we're experiencing in real-time. This discrepancy is causing major issues in understanding our API performance.
+
+Could you please provide urgent assistance?
+
+Thanks,
+Kenneth

@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support.
+
+We apologize for the difficulty you are experiencing with linking IAM roles within the Mercury language. To assist you effectively, could you please provide us with the following information:
+
+* A code snippet showcasing your role definition in IAM and your attempt to implement it within the Mercury code.
+* The specific version of the Mercury language you are currently utilizing.
+* Any error messages you encounter during compilation or runtime.
+
+Once we receive this information, we will gladly investigate and provide a solution. 
+
+Sincerely,
+Aetheros Support Team

@@ -1,0 +1,12 @@
+Hi Aetheros Support Team,
+
+We are experiencing significant latency issues with our new API hosted on the Aetheros platform. This started around [mention approximate time] and is impacting our live application.
+
+We are seeing response times of over [mention specific high response time] for [mention specific API endpoints or actions affected]. Our application requires a response time of under [mention your expected response time] to function properly.
+
+We have already reviewed our code and confirmed that the issue is not on our end. We suspect it might be related to the API gateway configuration or load balancing.
+
+Could you please investigate this issue urgently and provide an update as soon as possible?
+
+Thank you,
+John Doe

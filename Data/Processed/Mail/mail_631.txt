@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support.
+
+To answer your question, yes, if you revoke a permission from a parent role, that change will also apply to any child roles that inherit from it. Inheritance in our IAM service is dynamic, meaning that child roles always reflect the current state of their parent roles.
+
+Let me know if you have any other questions or need further clarification.
+
+Sincerely,
+The Aetheros Support Team

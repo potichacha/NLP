@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for your email and for your suggestion regarding the API Monitoring dashboard. We appreciate your feedback and value your input.
+
+We understand the importance of having a comprehensive view of API performance, and we agree that displaying the minimum and maximum response times would be a valuable addition to the dashboard.
+
+We have forwarded your suggestion to our product team for consideration in future updates.
+
+In the meantime, please let us know if you have any other questions or feedback.
+
+Best regards,
+The Aetheros Support Team

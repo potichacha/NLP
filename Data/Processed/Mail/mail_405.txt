@@ -1,0 +1,25 @@
+Hi John,
+
+Thank you for providing the details. We've identified the issue. The 'aetheros:mercury:DeployCode' action in your policy should be 'aetheros:deploy'.
+
+Please update your 'MercuryDeployer' role's policy to include the correct action:
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "aetheros:deploy"
+      ],
+      "Resource": "*"
+    }
+  ]
+}
+```
+
+Once you've updated the policy, please attempt the deployment again. It should now succeed. Let us know if you face any further issues.
+
+Best regards,
+The Aetheros Support Team

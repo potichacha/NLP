@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of the situation and have escalated your case to our senior engineers. 
+
+We are currently analyzing the API logs and your cloud environment performance metrics to pinpoint the source of the issue. We will provide an update within the next hour.
+
+Best regards,
+Aetheros Support Team

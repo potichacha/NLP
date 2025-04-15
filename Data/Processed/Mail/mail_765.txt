@@ -1,0 +1,15 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the severity of this issue and apologize for the disruption it's causing to your service.
+
+We've received your report and our team is actively investigating the root cause of the API gateway latency. We'll provide updates as soon as we have more information.
+
+In the meantime, could you please provide us with the following:
+
+* Timestamps of recent occurrences 
+* Any recent changes made to your API or cloud infrastructure
+
+This information will help us expedite the troubleshooting process.
+
+Best Regards,
+Aetheros Support Team

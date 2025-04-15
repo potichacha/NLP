@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'Please make a linux tip. I would like to share it with the Twitter Tech Community.'}
+{'user': 'Chat GPT', 'message': '"Want to quickly see the top 10 largest files in a directory? Use the command  du -h --max-depth=1 | sort -hr | head -n 10  to list the files in human-readable format, sorted by size in descending order, and limit the output to the top 10." #LinuxTip'}

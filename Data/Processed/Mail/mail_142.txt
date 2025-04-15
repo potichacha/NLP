@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We've been experiencing some performance issues related to scaling our cloud resources during peak hours. We believe there might be room for optimization in how our instances are configured.
+
+Could you please provide guidance or recommendations on optimizing our instance setup for better scaling and performance?  We are particularly interested in strategies for [Specific service or resource they are having issues with].
+
+Thank you,
+John Doe

@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+I'm working on a project using Mercury and I have a couple of questions.
+
+Firstly, I'm having a hard time understanding how to implement custom rate limiting for an API endpoint defined in Mercury. Is there specific documentation or examples I could refer to?
+
+Secondly, is it possible to view real-time API usage metrics within the IAM service dashboard? I need to track which users are making the most requests.
+
+Thanks in advance for your help!
+
+Best,
+Miguel Rodriguez

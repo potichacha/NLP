@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for your interest in Aetheros! We're happy to provide more information about our API development and IAM services.
+
+You can find detailed documentation on our website about how to integrate our IAM service with custom APIs. We also have several pre-built connectors and libraries that can simplify the integration process. 
+
+Let me know if you have other questions.
+
+Best regards,
+The Aetheros Support Team

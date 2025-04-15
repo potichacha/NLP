@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+I'm working with the Mercury language for a new API project, and I'm having trouble finding clear documentation on how to implement rate limiting within the language itself. Is there a specific library or module I should be using, or is this handled through a different Aetheros service?
+
+Thanks,
+John Doe

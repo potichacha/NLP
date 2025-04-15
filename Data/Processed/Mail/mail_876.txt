@@ -1,0 +1,1 @@
+We are facing a critical issue with our Aetheros implementation. We are unable to successfully call our custom API using the Mercury language.  The error message indicates a permissions issue, but we have confirmed the user roles and permissions in the IAM service are correctly configured. This is blocking a major product launch and needs immediate attention.

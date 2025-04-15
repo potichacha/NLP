@@ -1,0 +1,8 @@
+Aetheros Support Team,
+
+I've attached the error logs and one of the problematic scripts. We've noticed a spike in memory usage just before the crashes occur. However, we are unsure what within the Mercury script is causing this excessive memory consumption.
+
+Please advise on how to proceed. This issue is now severely impacting our production environment.
+
+Regards,
+John Doe

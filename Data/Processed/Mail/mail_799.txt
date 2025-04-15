@@ -1,0 +1,10 @@
+Hi John,
+
+Thank you for providing the additional information. Our team has investigated the latency spikes and identified the root cause as an issue with our load balancing configuration.
+
+We have implemented a fix, and the monitoring dashboard should now reflect normal latency levels. Please monitor your API performance and let us know if you encounter any further issues.
+
+We apologize for any inconvenience this may have caused.
+
+Best regards,
+Aetheros Support

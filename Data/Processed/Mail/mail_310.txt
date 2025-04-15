@@ -1,0 +1,14 @@
+Hi Isabella,
+
+Thank you for reaching out to us. We understand you're looking for information on integrating Mercury language with our IAM service for authorization.
+
+We're currently working on compiling more detailed documentation and examples for this specific use case. In the meantime, you can find our general API documentation here: [link to general API documentation]
+
+This documentation should provide some helpful information on how to interact with our IAM service using API calls. You can then use this information to incorporate the necessary authorization logic within your Mercury API functions.
+
+We will be in touch as soon as the more specific documentation and examples are available.
+
+Let us know if you have any further questions.
+
+Best regards,
+The Aetheros Support Team

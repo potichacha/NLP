@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm working on integrating your IAM service with a new API we're developing using Aetheros API development services. I'm a bit confused about how to define roles that grant access to specific API endpoints. 
+
+Could you please provide some documentation or examples on how to set granular permissions for different user roles within the IAM system when it comes to API access? 
+
+Thanks,
+John Doe

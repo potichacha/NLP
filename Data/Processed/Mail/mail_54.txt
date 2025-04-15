@@ -1,0 +1,8 @@
+Hi John,
+
+This is to inform you that our engineers have identified the root cause of the latency spikes and implemented a fix. The API monitoring platform should now be performing normally.
+
+Please don't hesitate to contact us if you experience any further issues.
+
+Best regards,
+Aetheros Support

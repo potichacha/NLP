@@ -1,0 +1,1 @@
+Our API monitoring dashboard has been down for the past hour. We're completely blind to what's happening in our production environment. This is a critical issue impacting our business operations. Please provide an ETA for resolution ASAP.

@@ -1,0 +1,13 @@
+Hi Aetheros Support,
+
+Please find the requested information below:
+
+* Approximate time the issue began: Around 08:00 AM UTC
+* Any recent changes made to our system or the API calls: No recent changes on our end.
+* Error messages or codes: We are receiving intermittent "504 Gateway Timeout" errors.
+* Screenshots or logs: I have attached relevant server logs for your review.
+
+Please let us know if you require any further information.
+
+Thanks,
+John Doe

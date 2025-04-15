@@ -1,0 +1,4 @@
+{'user': 'Anonymous', 'message': '請給我50種描述人類情緒的詞彙'}
+{'user': 'Chat GPT', 'message': '以下是50種描述人類情緒的詞彙：'}
+{'user': 'Anonymous', 'message': '請問你現在的情緒'}
+{'user': 'Chat GPT', 'message': '我這個人工智能沒有情緒，我只是根據您的提問提供相應的回答。請問有什麼我可以幫您解答的問題嗎？'}

@@ -1,0 +1,8 @@
+{'user': 'Anonymous', 'message': 'does t-test requires normal distribution?'}
+{'user': 'Chat GPT', 'message': 'The t-test assumes normality of the population for the data being analyzed, but does not require it for the sample data. If the sample size is large enough (typically n >= 30), the t-test can still provide accurate results even if the data is not normally distributed.'}
+{'user': 'Anonymous', 'message': 'what if the sample is small?'}
+{'user': 'Chat GPT', 'message': "If the sample size is small (typically n < 30), the t-test assumes normality of the population, and violation of this assumption can lead to inaccurate results. In this case, it's recommended to use a non-parametric test or transform the data to meet the normality assumption before using the t-test."}
+{'user': 'Anonymous', 'message': 'can you provide a few examples?'}
+{'user': 'Chat GPT', 'message': 'Yes, a few examples of non-parametric tests that can be used when the normality assumption is violated are: Wilcoxon Signed-Rank Test: This test is used to compare the median of two paired or related samples. Mann-Whitney U Test: This test is used to compare the median of two independent samples. Kruskal-Wallis H Test: This test is used to compare the median of more than two independent samples. Friedman Test: This test is used to compare the median of more than two related or paired samples.'}
+{'user': 'Anonymous', 'message': 'are these test implemented in MS Excel?'}
+{'user': 'Chat GPT', 'message': 'No, these non-parametric tests are not directly implemented in Microsoft Excel, but you can use Excel to perform the calculations needed for these tests and then interpret the results. You can also use other software like R or SAS that have implementations of these tests.'}

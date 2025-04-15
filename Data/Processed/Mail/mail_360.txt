@@ -1,0 +1,6 @@
+Dear John,
+
+We have identified the issue and our engineers are working on resolving it.  It appears there was a database cluster issue that impacted multiple clients. We will provide another update shortly.
+
+Best regards,
+Aetheros Support Team

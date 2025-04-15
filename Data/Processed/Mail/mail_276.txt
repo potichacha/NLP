@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm encountering some unexpected behavior when using async calls in the Mercury language.  I'm trying to make a series of API requests concurrently, but the responses are not returning in the order I expect. 
+
+Could you provide some guidance on how to ensure order when making concurrent requests using async/await in Mercury?  
+
+Thanks,
+John Doe

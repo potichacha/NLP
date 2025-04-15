@@ -1,0 +1,10 @@
+{'user': 'Anonymous', 'message': 'write a meme about self-encouragement'}
+{'user': 'Chat GPT', 'message': 'Image: A person looking at a mirror and cheering themselves on with a determined expression. Caption: "When you\'re your own hype squad because self-encouragement is the best encouragement!"'}
+{'user': 'Anonymous', 'message': 'write some affirmations for female entrepreneurs'}
+{'user': 'Chat GPT', 'message': 'Sure, here are some affirmations for female entrepreneurs:'}
+{'user': 'Anonymous', 'message': 'write a meme about celebrating yourself'}
+{'user': 'Chat GPT', 'message': 'Image: A person standing in front of a mirror, holding a party hat and a glass of champagne, with a big smile on their face. Caption: "When you realize that celebrating yourself is the best party you\'ll ever attend!"'}
+{'user': 'Anonymous', 'message': 'write another one'}
+{'user': 'Chat GPT', 'message': 'Image: A person standing on a pedestal, holding a trophy and a microphone, with a confident expression. Caption: "When you celebrate yourself, you become your own champion!"'}
+{'user': 'Anonymous', 'message': 'write one about resilience'}
+{'user': 'Chat GPT', 'message': 'Image: A plant growing out of a crack in the concrete. Caption: "Resilience is when you bloom in the toughest conditions."'}

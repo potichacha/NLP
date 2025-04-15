@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+We're experiencing two critical issues with your services:
+
+1. **Cloud Resources Scaling:** Our application is experiencing intermittent performance degradation, and we suspect it's due to inadequate scaling of our cloud resources. We need immediate assistance in diagnosing and resolving this issue to avoid further service disruptions.
+
+2. **IAM Role Inconsistency:** We're facing difficulties with user permissions. Some users with the appropriate roles are unable to access specific resources. We need help verifying and potentially adjusting our IAM roles to ensure proper access control.
+
+Please advise on the next steps to address these urgent matters.
+
+Thanks,
+John Doe

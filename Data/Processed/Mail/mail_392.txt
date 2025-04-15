@@ -1,0 +1,8 @@
+Hi,
+
+Yes, we did update a Mercury script for data validation within Project Phoenix API yesterday. It's possible that this might be causing the latency issues.
+
+We'll revert the script changes for now and monitor the API performance. Please let us know if you have any further findings on your end.
+
+Regards,
+Isabella

@@ -1,0 +1,10 @@
+Hi John,
+
+We've reviewed the information you provided and identified the issue. There's currently a temporary restriction on new t2.medium instances in us-east-1. 
+
+We recommend trying a different instance type, such as t3.medium, or deploying to an alternative region.  We apologize for the inconvenience.
+
+Please let us know if you have any further questions.
+
+Sincerely,
+The Aetheros Support Team

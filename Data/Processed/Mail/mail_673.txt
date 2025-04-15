@@ -1,0 +1,24 @@
+Hi Aetheros Support,
+
+Thanks for the quick response.
+
+Here is the information you requested:
+
+* **Mercury compiler version:** 1.2.3
+* **Operating system:** Ubuntu 20.04.4 LTS
+* **Code snippet:** 
+
+```mercury
+import Http from "@aetheros/http"
+
+function main() {
+  // Code using Http module
+}
+```
+
+This is a simplified example, but it replicates the issue we are facing. We are confident the error lies within the latest compiler update, as this code worked seamlessly before the upgrade.
+
+Please advise on any potential solutions or workarounds. Our production environment remains down, and we're eager to get it back up and running.
+
+Best regards,
+John

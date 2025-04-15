@@ -1,0 +1,15 @@
+Hi Aetheros Support,
+
+We are facing a critical issue with deploying our Mercury application on AWS using Aetheros Cloud Management. The deployment process is failing consistently, and we are seeing errors related to resource provisioning. 
+
+We are on a tight deadline and this is severely impacting our operations. Could you please look into this urgently?
+
+Here are the details:
+- Aetheros Account ID: 857-329-541
+- Application Name: phoenix-app
+- Error Message: "Resource limit exceeded for instance type"
+
+We have tried adjusting resource limits in our AWS console, but the issue persists. Any help would be greatly appreciated.
+
+Regards,
+John Doe

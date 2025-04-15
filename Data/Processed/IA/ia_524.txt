@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': '想將 http://test-ob02-admin.emkcp.com/login http://test-admin.emkcp.com/login http://fat-kai-admin.emkcp.com/ http://fat-bob-admin.emkcp.com/login http://fat-kai-admin.emkcp.com/  綁定到windwos 10 host. 172.18.3.138Share Prompt'}
+{'user': 'Chat GPT', 'message': '要將這些網址綁定到 Windows 10 主機的 IP 位址，您需要編輯主機檔案。請按照以下步驟執行： 現在，當您在瀏覽器中輸入這些網址時，它們將被轉發到指定的 IP 位址，也就是您的 Windows 10 主機。請注意，如果您已經有其他網站綁定到相同的 IP 位址，請務必確保您已經添加了一個唯一的主機名稱，以避免重複。'}

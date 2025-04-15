@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm having some trouble figuring out how to best handle data type conversions in Mercury. Specifically, I'm trying to convert a string representation of a date and time to a format I can use for calculations. 
+
+Could you point me to any relevant documentation or examples? 
+
+Thanks,
+John Doe

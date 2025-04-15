@@ -1,0 +1,12 @@
+Hi,
+
+Here's the information you requested:
+
+* Account ID: 87654321
+* Slowdowns typically occur between 7 PM and 9 PM UTC
+* We recently deployed a new version of our application, but the scaling issues persist even with the previous version.
+
+Let me know if you need any further details.
+
+Regards,
+John

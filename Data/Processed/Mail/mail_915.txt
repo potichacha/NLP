@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support.
+
+We understand you are experiencing difficulties integrating IAM roles within your Mercury script. To better assist you, could you please provide us with the following information:
+
+* A snippet of your Mercury code where you are attempting to implement the role-based permissions.
+* The specific error message or unexpected behavior you are encountering.
+* The versions of the Mercury language and IAM service you are currently using.
+
+Once we have this information, we can investigate the issue further and provide you with a solution.
+
+Sincerely,
+Aetheros Support Team

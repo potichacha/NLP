@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We are experiencing a critical issue with our API monitoring dashboard. It hasn't updated in the last hour, and we're also unable to access our main cloud instance. This is causing a major disruption to our services.
+
+We suspect a potential issue with IAM permissions following a recent role update. Could you please investigate this urgently?
+
+Best,
+John Doe

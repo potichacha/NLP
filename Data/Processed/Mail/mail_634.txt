@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+I'm having some trouble understanding how role inheritance works with your IAM service. Specifically, if I have a role called "editor" that inherits permissions from a role called "viewer", will the "editor" role also inherit any future permissions that are assigned to the "viewer" role?
+
+Thanks,
+John Doe

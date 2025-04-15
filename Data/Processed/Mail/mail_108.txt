@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm having trouble setting up specific user roles within the IAM service. I want to give certain team members read-only access to a specific API, but I can't seem to find the correct combination of permissions to make that happen.
+
+Could you please advise on how to achieve this?
+
+Thanks,
+John Doe

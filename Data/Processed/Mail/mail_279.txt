@@ -1,0 +1,3 @@
+We're experiencing severe latency issues with the API you developed for us. Our system is virtually unusable, causing major disruptions to our operations and impacting our customers. We need this resolved immediately.
+
+Can you provide an ETA for a fix? We have already tried restarting our servers and checking our network, but the issue persists.

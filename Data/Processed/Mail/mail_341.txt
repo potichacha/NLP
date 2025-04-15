@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you're experiencing issues with the asynchronous functionality in Mercury.
+
+To help us diagnose the problem, could you please provide us with the following information:
+
+* What version of Mercury are you currently using?
+* Could you share a more complete code example that demonstrates the issue?
+* Are there any specific error messages or logs that you are seeing?
+
+Once we have this information, we'll be able to assist you further.
+
+Best regards,
+Aetheros Support Team

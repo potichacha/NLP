@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you are experiencing a critical issue with your production environment on our Cloud Management platform.
+
+We are currently investigating the issue and will provide an update as soon as possible. In the meantime, could you please provide us with your account ID and a brief description of any recent changes made to your environment?
+
+Sincerely,
+Aetheros Support Team

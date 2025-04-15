@@ -1,0 +1,13 @@
+Hi John,
+
+Thank you for reaching out.  We'd be happy to help investigate these latency spikes.
+
+To assist us, could you please provide the following information:
+* The approximate times these spikes occurred.
+* The specific API endpoint(s) affected.
+* Whether you're seeing any errors or timeouts during these spikes.
+
+Once we have this information, we can look into this further for you.
+
+Best regards,
+The Aetheros Support Team

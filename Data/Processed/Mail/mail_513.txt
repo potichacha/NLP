@@ -1,0 +1,10 @@
+Hi Aetheros Support Team,
+
+We are experiencing critical issues with our cloud deployment managed through your Cloud Management service. Our application instances are failing to scale automatically to meet the current demand. This is causing significant performance issues and downtime.
+
+We have checked our configurations and they seem to be in order, based on the documentation provided. 
+
+Could you please investigate this issue as a matter of urgency and provide a solution?
+
+Thank you,
+John Doe

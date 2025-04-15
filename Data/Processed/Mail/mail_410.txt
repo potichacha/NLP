@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We're experiencing a critical issue with the IAM service. We've set up specific roles and permissions, but they don't seem to be applying correctly. Users are either getting access denied errors or accessing resources they shouldn't have access to.
+
+This is a high-priority issue as it's impacting our production environment. We need this resolved as soon as possible.
+
+Please advise on next steps.
+
+Thanks,
+John Doe

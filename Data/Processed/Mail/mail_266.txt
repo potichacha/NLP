@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We've been experiencing issues deploying our API gateway to the Aetheros Cloud platform. The deployments consistently fail with error code 502, and we haven't been able to identify the root cause. 
+
+We are using the API development toolkit provided by Aetheros, and our cloud environment is managed through your platform. We've checked the API configurations multiple times, and they seem to be correct according to the documentation.
+
+Could you please help us troubleshoot this issue? We need to get this API gateway deployed as soon as possible.
+
+Thanks,
+John Doe

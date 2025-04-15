@@ -1,0 +1,14 @@
+Hi John,
+
+Thank you for reaching out to us. We understand you're experiencing issues adding users to a group in our IAM service. 
+
+To help us troubleshoot this issue, could you please provide us with the following information?
+
+* The name of the group you're trying to add users to.
+* The usernames of the users you're trying to add.
+* A screenshot of the error message you're receiving.
+
+Once we have this information, we'll be able to assist you further.
+
+Best regards,
+Aetheros Support Team

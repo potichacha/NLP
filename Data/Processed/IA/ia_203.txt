@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': '2 / 2I have txt file with currency rates and want to parse it to mysql database. How to do it in php? This is the text file: 07.02.2023 #27 země|měna|množství|kód|kurz Austrálie|dolar|1|AUD|15,405 Brazílie|real|1|BRL|4,316 Bulharsko|lev|1|BGN|12,182 Čína|žen-min-pi|1|CNY|3,283'}
+{'user': 'Chat GPT', 'message': 'Here is an example of how you can parse the text file and insert the data into a MySQL database in PHP: This is a basic example and you may want to modify it according to your specific requirements.'}

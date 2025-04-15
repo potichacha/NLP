@@ -1,0 +1,8 @@
+Thanks for the reply. I understand that rate limiting is not currently supported within Cloud Management itself. 
+
+Can you please elaborate on how I can use the API monitoring features to set up alerts for potential rate limiting scenarios? Ideally, I'd like to be notified if API requests from a specific origin exceed a certain threshold within a given timeframe.
+
+Is this something that can be configured through the API monitoring dashboard, or would it require a more custom solution?
+
+Thanks again,
+Isiah

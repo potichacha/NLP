@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We're experiencing an urgent issue where our custom role assignments in Mercury code are not reflecting correctly within the IAM service. This is causing authorization failures for our application.
+
+Specifically, we're using the `assignRole` function in Mercury with the correct role ID and user ID, but the user is still denied access based on those roles.
+
+We've checked our code thoroughly and everything seems to be in order. Could you please investigate this issue as soon as possible?
+
+Thanks,
+John Doe

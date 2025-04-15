@@ -1,0 +1,14 @@
+Hi,
+
+Thanks for the quick response. 
+
+The endpoint experiencing the issue is: `/api/v2/processOrder`
+
+I've attached the relevant API logs. 
+
+We haven't made any recent changes to our code, but we did update our AWS load balancer configuration yesterday.
+
+Let me know if you need any further information.
+
+Thanks,
+John

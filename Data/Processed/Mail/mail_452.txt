@@ -1,0 +1,14 @@
+Hi John,
+
+Thank you for reaching out to Aetheros Support. 
+
+We understand you're experiencing difficulties integrating Mercury Language with your web application. To better assist you, could you please provide us with the following information:
+
+* The version of Mercury Language you are using
+* The specific code snippet where the error occurs
+* Any relevant logs or error messages
+
+Once we have this information, we can investigate the issue further and provide a solution.
+
+Best regards,
+The Aetheros Support Team

@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for providing the additional information.  We have identified a known issue with Mercury Language version 1.2.5 where IAM roles are not consistently enforced. 
+
+Our engineers are currently working on a fix, and we expect to release it within the next 48 hours. In the meantime, we recommend upgrading to the latest version of the Mercury Language (1.2.6), which includes a workaround for this issue.
+
+We apologize for any inconvenience this may cause and appreciate your patience as we work to resolve this.
+
+Best Regards,
+Aetheros Support Team

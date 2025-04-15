@@ -1,0 +1,3 @@
+We are experiencing critical issues with the Mercury language compiler in our production environment. Our entire development team is at a standstill because of compilation errors that are nonsensical and we cannot trace. This is a major blocker for us and we need immediate assistance. We have tried restarting services, reinstalling the compiler, and checking for any code conflicts but nothing has resolved the issue.
+
+Please advise on how to proceed urgently. Project 'Orion' is completely halted until this is resolved.

@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm working on a project using Mercury Language and I'm having some trouble understanding the best practices for error handling. Specifically, I'm unsure about how to implement custom error types and handle them gracefully within my API endpoints.
+
+Could you provide some guidance or point me to relevant documentation on this topic?
+
+Thanks,
+Isabella Jones

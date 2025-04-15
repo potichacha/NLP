@@ -1,0 +1,10 @@
+Dear John,
+
+We have identified the issue. It seems there was a temporary glitch in our monitoring system. This has been resolved now. 
+
+We apologize for the inconvenience caused.
+
+Please let us know if you face any further issues.
+
+Best regards,
+Aetheros Support

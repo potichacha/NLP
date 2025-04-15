@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for providing the additional details. 
+
+We have escalated your request to our senior engineers and they are currently working on a solution tailored for integrating Auth0 with Mercury Language for your authorization flow. 
+
+We will keep you updated on our progress and will reach out to you directly as soon as we have a solution or need further clarification.
+
+Thank you for your patience and understanding.
+
+Sincerely,
+Aetheros Support Team

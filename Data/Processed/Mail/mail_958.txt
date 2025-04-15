@@ -1,0 +1,8 @@
+Hello Aetheros Support,
+
+I'm having trouble finding clear documentation on how to implement custom error handling in Mercury Language. The examples in the current documentation seem to be outdated and don't work with the latest version I'm using.
+
+Could you please point me to the correct resources or provide some updated examples?
+
+Thanks,
+John Doe

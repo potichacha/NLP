@@ -1,0 +1,8 @@
+Aetheros Support,
+
+The security group issue is resolved, thank you. However, we still haven't received an update on the IAM issue, and this is significantly impacting our operations. 
+
+Please provide an ETA for the resolution.
+
+Regards,
+John Doe

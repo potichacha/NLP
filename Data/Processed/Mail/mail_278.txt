@@ -1,0 +1,30 @@
+Hi,
+
+Here's the code snippet showing the async calls I'm making:
+
+```mercury
+async function fetchData(url) {
+  const response = await fetch(url);
+  return await response.json();
+}
+
+const urls = [
+  'https://api.example.com/data1',
+  'https://api.example.com/data2',
+  'https://api.example.com/data3'
+];
+
+async function main() {
+  const results = await Promise.all(urls.map(fetchData));
+  console.log(results);
+}
+
+main();
+```
+
+As you can see, I'm using `Promise.all` to handle the concurrent requests. However, the `results` array doesn't always reflect the order of the URLs in the `urls` array.
+
+Any help would be appreciated!
+
+Regards,
+John

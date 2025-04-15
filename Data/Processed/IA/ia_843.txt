@@ -1,0 +1,4 @@
+{'user': 'Anonymous', 'message': 'quiero hacer un arroz con pollo para el almuerzo para 3 personas y cuento con los siguientes ingredientes: Vainita, zanahoria, camote, pollo, ajo, sal, agua, arroz, aceite y tomate. Dame una receta detallada y concisa.'}
+{'user': 'Chat GPT', 'message': '¡Claro que sí! Aquí te dejo una receta para preparar arroz con pollo para 3 personas: Ingredientes: Instrucciones: Espero que esta receta te sea útil y puedas disfrutar de una deliciosa comida con tus seres queridos. ¡Buen provecho!'}
+{'user': 'Anonymous', 'message': 'dame otra receta sin el camote'}
+{'user': 'Chat GPT', 'message': '¡Claro que sí! Aquí te dejo otra receta para preparar arroz con pollo para 3 personas sin camote: Ingredientes: Instrucciones: Espero que disfrutes de esta receta. ¡Buen provecho!'}

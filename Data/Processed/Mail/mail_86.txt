@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We're facing critical issues with our recent cloud deployment. We're getting consistent "504 Gateway Timeout" errors from our main API gateway.  This is completely blocking our production traffic.
+
+We're using your Cloud Management platform for deployment and scaling. We suspect an issue with the load balancer configuration or possibly an issue with the API code itself, which we developed using your API development services.
+
+We need this resolved urgently. Please advise on the next steps and estimated resolution time.
+
+Regards,
+John Doe

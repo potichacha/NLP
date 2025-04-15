@@ -1,0 +1,10 @@
+Dear John,
+
+We have identified the issue. You are attempting to assign a role while your account only has permissions to manage users.  
+
+To resolve this, please contact your account administrator to request the necessary permissions to manage roles within IAM.
+
+Let us know if you have any further questions.
+
+Sincerely,
+Aetheros Support Team

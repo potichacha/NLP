@@ -1,0 +1,12 @@
+Hi,
+
+Please find the information you requested below:
+
+* **API endpoint affected:** https://api.example.com/v1/users
+* **Screenshot of the error message:** [Attached screenshot]
+* **Relevant logs from our API monitoring dashboard:** [Attached log file]
+
+Let me know if you need anything else.
+
+Regards,
+John

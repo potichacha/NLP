@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We are experiencing urgent issues deploying our Mercury code to production. We are consistently getting a 502 error, and our API monitoring dashboard is showing a spike in errors.
+
+This is causing a major outage for our services. We have checked our code and cannot identify the issue. Can you please investigate ASAP?
+
+Thanks,
+John Doe

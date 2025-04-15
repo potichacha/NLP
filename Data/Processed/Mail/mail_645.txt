@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for reaching out to us and for your valuable suggestion regarding role inheritance in our IAM service. We appreciate you taking the time to share your thoughts on how we can improve.
+
+We understand the benefits role inheritance would bring, especially in terms of simplifying role management and reducing redundancy. Our team will definitely take your suggestion into consideration as we plan future updates to our IAM service.
+
+While we can't promise a specific timeline for this feature implementation, we'll be sure to keep you updated on any developments.
+
+In the meantime, please let us know if you have any other questions or feedback. 
+
+Best regards,
+The Aetheros Support Team

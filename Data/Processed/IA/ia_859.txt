@@ -1,0 +1,14 @@
+{'user': 'Anonymous', 'message': 'Give me a list of trend youtube shorts ideaShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Here are some trend YouTube Shorts ideas:'}
+{'user': 'Anonymous', 'message': 'Give me 30 videos idea about inspiring stories or personal experiencesShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Sure! Here are 30 YouTube video ideas about inspiring stories or personal experiences:'}
+{'user': 'Anonymous', 'message': 'MorShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Sure, here are 10 more YouTube video ideas about inspiring stories or personal experiences:'}
+{'user': 'Anonymous', 'message': 'Give me 30 viral video ideas about quick tips on how to improve productivity or motivationShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Here are 30 viral video ideas about quick tips on how to improve productivity or motivation:'}
+{'user': 'Anonymous', 'message': 'Give me 30 viral video ideas on self helpShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Here are 30 viral video ideas on self-help:'}
+{'user': 'Anonymous', 'message': 'Give me 30 viral youtube shorts niches Share Prompt'}
+{'user': 'Chat GPT', 'message': 'Here are 30 viral YouTube Shorts niches:'}
+{'user': 'Anonymous', 'message': 'Give me 30 viral video ideas aboutInspirational and motivational videosShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Here are 30 viral video ideas about inspirational and motivational videos:'}

@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+I'm working on an application that uses your API development services. I'm a bit confused about the rate limits. Can you please clarify what the default rate limit is for API calls?
+
+Thanks,
+John Doe

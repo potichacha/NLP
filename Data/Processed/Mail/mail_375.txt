@@ -1,0 +1,3 @@
+Our team is experiencing a critical issue with API monitoring. We are not seeing any data populate in the dashboard since approximately 8:00 AM UTC. This is impacting our ability to monitor our live API performance. 
+
+We need this resolved urgently. Please advise on the situation and estimated time for resolution.

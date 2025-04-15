@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand that you are experiencing an issue with your production server instance "prod-app-server-01".
+
+We have escalated this issue to our Cloud Management team, and they are currently investigating the cause of the outage. We will keep you updated on the progress and provide an estimated time of resolution as soon as possible.
+
+In the meantime, if you have any further information or questions, please do not hesitate to contact us.
+
+Sincerely,
+Aetheros Support

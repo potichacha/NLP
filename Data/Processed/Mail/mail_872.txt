@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm working on a project using Mercury and having some trouble understanding the best practices for error handling. Specifically, I'm unsure how to implement a try-catch equivalent in my code. 
+
+Could you point me to some documentation or examples on how to handle errors gracefully in Mercury?
+
+Thanks,
+John Doe

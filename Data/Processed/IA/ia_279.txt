@@ -1,0 +1,6 @@
+{'user': 'Anonymous', 'message': '請給我21個繁體中文姓名，三個字的姓名，台灣人的風格，用換行分隔，一行一個名字以外，沒有其他文字'}
+{'user': 'Chat GPT', 'message': '陳靜 黃志明 李玉珍 張怡君 劉家瑋 吳志明 陳玉蓮 蔡玉芬 王志強 林玉珠 許美靜 周玉珍 鄭怡君 賴志明 徐玉珠 邱美靜 江玉蓮 陳怡君 張玉珍 蔡志明'}
+{'user': 'Anonymous', 'message': '再給我兩個'}
+{'user': 'Chat GPT', 'message': '趙靜 鄒玉'}
+{'user': 'Anonymous', 'message': '三個字的兩個'}
+{'user': 'Chat GPT', 'message': '曾志強 許玉芬'}

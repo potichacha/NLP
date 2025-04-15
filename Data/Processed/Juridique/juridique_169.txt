@@ -1,0 +1,653 @@
+.
+
+
+
+PAYS
+
+POURCENTAGE
+
+
+
+AFGHANISTAN
+
+- 9,47 %
+
+
+
+AFRIQUE DU SUD (autres villes)
+
+- 5,37 %
+
+
+
+AFRIQUE DU SUD (Johannesburg, Pretoria)
+
+- 5,37 %
+
+
+
+ALBANIE
+
+- 7,71 %
+
+
+
+ALGERIE (Annaba)
+
+- 2,89 %
+
+
+
+ALGERIE (autres villes)
+
+- 2,89 %
+
+
+
+ALLEMAGNE (autres villes)
+
+2,20 %
+
+
+
+ALLEMAGNE (Hambourg)
+
+2,20 %
+
+
+
+ANDORRE
+
+0,00 %
+
+
+
+ANGOLA
+
+0,26 %
+
+
+
+ANTIGUA-ET-BARBUDA
+
+- 3,36 %
+
+
+
+ARABIE SAOUDITE
+
+- 3,45 %
+
+
+
+ARGENTINE
+
+- 1,94 %
+
+
+
+ARMENIE
+
+- 3,91 %
+
+
+
+AUSTRALIE (autres villes)
+
+- 8,90 %
+
+
+
+AUSTRALIE (Sydney)
+
+- 8,90 %
+
+
+
+AUTRICHE
+
+0,41 %
+
+
+
+AUTRICHE RP (Vienne - ONU)
+
+0,41 %
+
+
+
+AZERBAIDJAN
+
+- 0,55 %
+
+
+
+BAHREIN
+
+- 3,33 %
+
+
+
+BANGLADESH
+
+- 0,77 %
+
+
+
+BARBADE
+
+- 3,36 %
+
+
+
+BELGIQUE
+
+0,25 %
+
+
+
+BELGIQUE RP (Bruxelles - OTAN-COPS)
+
+0,25 %
+
+
+
+BELGIQUE RP (Bruxelles - UE)
+
+0,25 %
+
+
+
+BELIZE
+
+0,49 %
+
+
+
+BENIN
+
+- 0,56 %
+
+
+
+BHOUTAN
+
+- 1,05 %
+
+
+
+BIELORUSSIE
+
+- 4,38 %
+
+
+
+BIRMANIE
+
+- 3,58 %
+
+
+
+BOLIVIE
+
+- 3,21 %
+
+
+
+BOSNIE-HERZEGOVINE
+
+- 1,11 %
+
+
+
+BOTSWANA
+
+0,11 %
+
+
+
+BRESIL (autres villes)
+
+- 8,20 %
+
+
+
+BRESIL (Brasilia)
+
+- 8,20 %
+
+
+
+BRESIL (Rio de Janeiro)
+
+- 6,40 %
+
+
+
+BRESIL (São Paulo)
+
+- 8,20 %
+
+
+
+BRUNEI
+
+0,18 %
+
+
+
+BULGARIE
+
+- 1,73 %
+
+
+
+BURKINA FASO
+
+- 0,35 %
+
+
+
+BURUNDI
+
+6,74 %
+
+
+
+CAMBODGE
+
+- 4,28 %
+
+
+
+CAMEROUN (autres villes)
+
+2,89 %
+
+
+
+CAMEROUN (Douala, Garoua)
+
+2,89 %
+
+
+
+CANADA (autres villes)
+
+- 5,99 %
+
+
+
+CANADA (Ottawa)
+
+- 5,99 %
+
+
+
+CANADA (Toronto)
+
+- 5,99 %
+
+
+
+CANADA (Vancouver)
+
+- 5,99 %
+
+
+
+CANADA RP (Montréal DFRA)
+
+- 5,99 %
+
+
+
+CAP-VERT
+
+6,05 %
+
+
+
+CHILI
+
+- 9,21 %
+
+
+
+CHINE (autres villes)
+
+- 3,73 %
+
+
+
+CHINE (Hong-Kong)
+
+- 2,56 %
+
+
+
+CHINE (Pékin)
+
+- 3,73 %
+
+
+
+CHINE (Shanghai)
+
+- 3,73 %
+
+
+
+CHYPRE
+
+- 0,57 %
+
+
+
+COLOMBIE
+
+- 8,20 %
+
+
+
+COMORES
+
+- 2,57 %
+
+
+
+CONGO
+
+1,48 %
+
+
+
+CONGO RDC
+
+- 0,57 %
+
+
+
+COREE DU NORD
+
+- 7,06 %
+
+
+
+COREE DU SUD
+
+- 6,12 %
+
+
+
+COSTA RICA
+
+- 3,14 %
+
+
+
+COTE D'IVOIRE
+
+- 3,37 %
+
+
+
+CROATIE
+
+- 3,13 %
+
+
+
+CUBA
+
+- 0,39 %
+
+
+
+DANEMARK
+
+- 0,20 %
+
+
+
+DJIBOUTI
+
+- 2,37 %
+
+
+
+DOMINIQUE
+
+- 4,35 %
+
+
+
+EGYPTE
+
+0,00 %
+
+
+
+EMIRATS ARABES UNIS (Abu-Dhabi)
+
+- 2,34 %
+
+
+
+EMIRATS ARABES UNIS (autres villes)
+
+- 2,34 %
+
+
+
+EQUATEUR
+
+- 3,74 %
+
+
+
+ERYTHREE
+
+5,28 %
+
+
+
+ESPAGNE
+
+1,10 %
+
+
+
+ESTONIE
+
+- 1,81 %
+
+
+
+ETATS-UNIS (Atlanta)
+
+- 1,56 %
+
+
+
+ETATS-UNIS (autres villes)
+
+- 3,55 %
+
+
+
+ETATS-UNIS (Boston)
+
+- 0,57 %
+
+
+
+ETATS-UNIS (Chicago)
+
+- 1,56 %
+
+
+
+ETATS-UNIS (Hawaï)
+
+- 0,57 %
+
+
+
+ETATS-UNIS (Houston)
+
+- 1,56 %
+
+
+
+ETATS-UNIS (Los Angeles)
+
+- 0,57 %
+
+
+
+ETATS-UNIS (Miami, Gaith., Phil.)
+
+- 1,56 %
+
+
+
+ETATS-UNIS (New York)
+
+- 0,57 %
+
+
+
+ETATS-UNIS (Porto Rico)
+
+- 2,56 %
+
+
+
+ETATS-UNIS (San Francisco)
+
+4,40 %
+
+
+
+ETATS-UNIS (Washington, Norfolk)
+
+- 0,57 %
+
+
+
+ETATS-UNIS RP (New York - ONU)
+
+- 0,57 %
+
+
+
+ETATS-UNIS RP (Washington - OEA)
+
+- 0,57 %
+
+
+
+ETHIOPIE
+
+- 9,00 %
+
+
+
+FIDJI
+
+- 4,48 %
+
+
+
+FINLANDE
+
+- 0,55 %
+
+
+
+GABON
+
+- 0,42 %
+
+
+
+GAMBIE
+
+3,20 %
+
+
+
+GEORGIE
+
+- 1,43 %
+
+
+
+GHANA
+
+2,30 %
+
+
+
+GRECE
+
+- 2,13 %
+
+
+
+GRENADE
+
+- 3,36 %
+
+
+
+GUATEMALA
+
+- 4,53 %
+
+
+
+GUINEE
+
+- 2,69 %
+
+
+
+GUINEE EQUATORIALE
+
+1,00 %
+
+
+
+GUINEE-BISSAO
+
+7,83 %
+
+
+
+GUYANA
+
+- 1,81 %
+
+
+
+HAITI
+
+- 7,67 %
+
+
+
+HONDURAS
+
+4,59 %
+
+
+
+HONGRIE
+
+2,13 %
+
+
+
+INDE

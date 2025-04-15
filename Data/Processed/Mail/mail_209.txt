@@ -1,0 +1,19 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of this issue and are here to help.
+
+To assist us in diagnosing the problem, could you please provide the following information:
+
+*  The specific version of the Mercury Language SDK you are using.
+*  A code snippet demonstrating how you are integrating Mercury with the IAM service.
+*  The relevant IAM role configurations and permissions.
+
+Once we have this information, we can investigate further and provide a solution. 
+
+In the meantime, you can refer to our documentation on Mercury Language and IAM integration here: [link to documentation]
+
+We will keep you updated on the progress.
+
+Best regards,
+
+Aetheros Support Team

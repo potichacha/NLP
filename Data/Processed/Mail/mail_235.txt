@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm having some trouble setting up specific API access permissions for different user roles within our organization. We are using your IAM service and have defined custom roles, but it seems like there are limitations to how granular we can get with restricting access to certain API endpoints based on roles.
+
+Is it possible to achieve fine-grained API endpoint access control based on user roles with the Aetheros IAM service?  If so, could you point me to any documentation or examples?
+
+Thanks,
+John Doe

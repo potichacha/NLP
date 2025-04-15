@@ -1,0 +1,14 @@
+Dear Isabella,
+
+Thank you for your interest in Aetheros! We'd be happy to provide more information about our IAM service and how it can be used to manage access to your custom APIs.
+
+You can achieve granular role-based access control (RBAC) with Aetheros by defining roles that permit access to specific API endpoints or methods. You can specify these permissions down to the HTTP method level (GET, POST, PUT, DELETE, etc.).
+
+Aetheros also allows you to leverage user attributes and other contextual information when defining access control policies. This enables you to create dynamic rules that adapt to different situations.
+
+Regarding role inheritance and conflicts, Aetheros uses a least privilege model. This means that users are only granted the permissions explicitly assigned to their roles. Inheritance is handled hierarchically, and any conflicts are resolved in favor of the most restrictive permission.
+
+We are confident that Aetheros can provide the flexible and robust IAM solution you need. Please let us know if you have any further questions or would like to schedule a demo.
+
+Best Regards,
+The Aetheros Support Team

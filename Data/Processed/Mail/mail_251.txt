@@ -1,0 +1,14 @@
+Hi,
+
+Here's the information you requested:
+
+* **Affected Users:**
+    * jane.doe@example.com - Unable to access marketing dashboards
+    * peter.pan@example.com - Unable to modify server configurations
+* **Screenshots:** [Link to screenshot]
+* **Issue First Noticed:** Around 10:00 AM UTC on October 26th.
+
+Let me know if you require anything else.
+
+Thanks,
+John

@@ -1,0 +1,16 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you are experiencing a critical outage with your API monitoring dashboard.
+
+We are currently investigating the issue and will provide an update as soon as possible.
+
+In the meantime, please provide us with the following information so we can assist you more effectively:
+
+* Your Aetheros account ID
+* The approximate time the issue began
+* Any recent changes made to your API or cloud infrastructure
+
+We will keep you updated on the situation. 
+
+Sincerely,
+Aetheros Support

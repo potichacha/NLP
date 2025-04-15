@@ -1,0 +1,5 @@
+We are experiencing a critical issue with deploying our Mercury application for Project Phoenix to our production environment managed through Aetheros Cloud. The deployment process consistently fails with error code M104, which the documentation doesn't clarify. 
+
+This is a high-priority issue as it's preventing a major release. We need immediate assistance to resolve this. 
+
+Please advise on the meaning of error code M104 and provide troubleshooting steps. Our team is standing by to provide any information needed.

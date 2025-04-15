@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'do you believe aliens exists?'}
+{'user': 'Chat GPT', 'message': "As an AI, I don't have personal beliefs. However, there is no evidence one way or the other to confirm or deny the existence of aliens. Some scientists believe that it is possible that there may be other life forms in the universe, but there is no conclusive evidence to support this. It is an interesting question that has yet to be answered."}

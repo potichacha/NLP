@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you're facing critical scaling issues with your application 'Foodie Reviews'. We've escalated your case and one of our engineers will be in touch shortly to help diagnose and resolve the issue. 
+
+In the meantime, could you please provide us with your Application ID and the approximate time the issues began? This will help us expedite the troubleshooting process.
+
+Best regards,
+Aetheros Support

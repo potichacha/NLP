@@ -1,0 +1,12 @@
+Hi John,
+
+Thank you for providing the additional context. 
+
+While Aetheros provides tools and integration capabilities, ensuring proper role validation within your application often involves specific configurations and code implementations. This ensures that your application logic aligns with your intended security policies.
+
+We recommend reviewing our documentation and examples on integrating Mercury with Aetheros IAM, specifically focusing on how to fetch and utilize user roles within your API endpoints. This will allow you to implement robust role-based access control.
+
+Should you encounter further issues or require more specific guidance, feel free to provide detailed code snippets and configuration examples. This will enable us to assist you more effectively.
+
+Best regards,
+Aetheros Support Team

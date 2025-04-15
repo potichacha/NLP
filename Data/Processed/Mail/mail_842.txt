@@ -1,0 +1,21 @@
+Hello John,
+
+Thank you for reaching out to Aetheros Support.
+
+Yes, you can definitely achieve that level of granularity with our IAM service. You can create custom roles and assign specific permissions for viewing API analytics without granting access to edit API configurations.
+
+To do this, you can follow these steps:
+
+1. Log in to your Aetheros dashboard and navigate to the IAM service.
+2. Go to the "Roles" section and click "Create Role."
+3. Give your role a descriptive name, like "API Viewer."
+4. In the permissions list, find and select the permission for "View API Analytics."
+5. Make sure to deselect any permissions related to editing API configurations.
+6. Save your new role.
+
+Once you've created this role, you can assign it to any user who needs to view API analytics but not edit the configurations.
+
+Please let us know if you have any further questions.
+
+Best regards,
+Aetheros Support

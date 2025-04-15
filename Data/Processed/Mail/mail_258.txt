@@ -1,0 +1,13 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you're facing challenges deploying your Mercury application. To assist you effectively, could you please provide the following information?
+
+* Error messages you're encountering.
+* Relevant sections from your deployment configuration.
+* Timestamps of the failed deployment attempts.
+* Have you made any recent changes to your cloud resource settings?
+
+Once we have this information, we can investigate further and provide a solution. 
+
+Sincerely,
+Aetheros Support

@@ -1,0 +1,12 @@
+Aetheros Support,
+
+Here is the information you requested:
+
+* **IAM roles updated:** We updated the 'Data Analyst' role to restrict access to certain API endpoints.
+* **Error messages:** We are getting a '403 Forbidden' error with the message 'Invalid API credentials' on all API calls made by users with the 'Data Analyst' role.
+* **Time issue began:** Approximately 18:00 UTC yesterday.
+
+This is bringing our operations to a standstill. We need a resolution to this issue very quickly. 
+
+Thanks,
+John Doe

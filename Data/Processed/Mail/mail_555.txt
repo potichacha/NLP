@@ -1,0 +1,17 @@
+Dear John,
+
+Thank you for contacting Aetheros Support.
+
+We understand you are experiencing latency issues with your API. We are currently investigating the issue and will provide an update within 24 hours.
+
+In the meantime, could you please provide us with the following information to help us troubleshoot the issue:
+
+* API name
+* Affected endpoints
+* Timeframe when the issue started
+* Any recent changes made to your API or infrastructure
+
+Thank you for your patience and cooperation.
+
+Sincerely,
+Aetheros Support Team

@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you're facing issues with asynchronous function calls in Mercury. 
+
+We've reviewed your code snippet and identified a minor syntax error that's preventing the async functionality from working as intended.  
+
+To resolve this, could you please change [previous code snippet] to [corrected code snippet]? This should ensure your functions execute asynchronously. 
+
+Please let us know if you have any further questions.
+
+Best regards,
+The Aetheros Support Team

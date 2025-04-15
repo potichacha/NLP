@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of the situation and are actively investigating the reported latency spikes affecting your API Monitoring service.
+
+To assist us in resolving this issue quickly, could you please provide the following information:
+
+* **Affected API endpoints:** Please list the specific endpoints experiencing these latency spikes.
+* **Timeframe:** When did you first notice these issues?
+* **Screenshots:** If possible, share screenshots of the latency spikes from your monitoring dashboards.
+
+Our team is committed to identifying the root cause and restoring your service to normal operation as soon as possible.
+
+Best regards,
+Aetheros Support Team

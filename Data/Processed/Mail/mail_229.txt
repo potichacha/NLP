@@ -1,0 +1,14 @@
+Hi Aetheros Support,
+
+We're facing critical issues with both your IAM service and Mercury language deployment on your cloud platform.
+
+**IAM Issue:**
+We're unable to assign specific pre-defined roles to users in our organization. Trying to assign these roles results in an error with no clear message. This is preventing our team from accessing crucial resources.
+
+**Mercury Deployment:**
+We're experiencing persistent failures when trying to deploy a new microservice built with Mercury. The deployment process gets stuck and eventually times out. We've reviewed our code and environment configurations multiple times, but haven't been able to pinpoint the cause.
+
+We need urgent assistance resolving these issues as they are severely impacting our operations. Please advise on the next steps.
+
+Regards,
+John Doe

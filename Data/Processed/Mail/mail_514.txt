@@ -1,0 +1,15 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support. We understand the urgency of the situation and are actively investigating the issue with your cloud instance scaling.
+
+To assist us in resolving this issue quickly, could you please provide the following information?
+
+* Your Aetheros account ID
+* The specific instance type experiencing the issue
+* The approximate time the issue began
+* Any recent changes made to your cloud configuration
+
+We will keep you updated on our progress. 
+
+Sincerely,
+The Aetheros Support Team

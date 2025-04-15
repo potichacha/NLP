@@ -1,0 +1,13 @@
+Hi,
+
+Here is the information you requested:
+
+* **IAM Role Names:** DevTeam_ReadAccess, DevTeam_Deployment
+* **Cloud Resources:** Primarily S3 buckets and EC2 instances in our us-west-2 region.
+* **Error Messages:** Access Denied errors when attempting to list buckets or connect to instances.
+* **Timeline:** Started around 8:00 AM UTC today.
+
+We need a resolution as quickly as possible. Please advise if there are any workarounds in the meantime.
+
+Thanks,
+John

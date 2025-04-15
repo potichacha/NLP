@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We've been experiencing intermittent latency spikes on our staging server hosted on your cloud platform over the past few days. The spikes are sporadic and don't seem to follow a pattern. 
+
+We've checked our application logs and haven't found anything conclusive.
+
+Could you please investigate this issue and provide assistance in resolving it?
+
+Thanks,
+John Doe

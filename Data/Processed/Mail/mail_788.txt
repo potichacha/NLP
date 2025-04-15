@@ -1,0 +1,7 @@
+Our production environment is experiencing a major outage. We are unable to connect to our database cluster managed through your Cloud Management platform. 
+
+We have checked our network configurations and firewall settings, but the issue persists. Our monitoring tools indicate that the database instances are completely offline.
+
+This outage is severely impacting our operations. We need immediate assistance to resolve this issue.
+
+Please provide an update as soon as possible.

@@ -1,0 +1,6 @@
+Dear John,
+
+We have identified the issue and our engineers are working on implementing a fix. We apologize for the prolonged downtime and appreciate your patience. We will update you as soon as the fix is deployed.
+
+Sincerely,
+Aetheros Support Team

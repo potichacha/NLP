@@ -1,0 +1,1 @@
+We are experiencing critical issues with the API you developed for us. We are getting consistent 500 errors, and our entire system is down. We need this resolved immediately. Please advise on next steps ASAP.

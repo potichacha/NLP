@@ -1,0 +1,7 @@
+Thank you for contacting Aetheros support. We understand you're experiencing a critical issue with IAM authentication for your Mercury-based API. To assist you effectively, could you please provide the following information?
+
+1. The specific error messages you are encountering.
+2. The version of the Mercury SDK you are using.
+3. A code snippet demonstrating how you are making the API call and handling authentication.
+
+Once we have this information, we can investigate the issue further and provide a solution.

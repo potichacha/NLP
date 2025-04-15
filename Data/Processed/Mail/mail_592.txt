@@ -1,0 +1,5 @@
+We are using Mercury Language version 2.3.1 and IAM service version 1.5.2. Unfortunately, due to the sensitive nature of the issue, we cannot share our codebase. 
+
+However, we can confirm that the vulnerability exists when defining custom roles with specific resource permissions and then utilizing the `AuthorizeUser` function in our Mercury code.  We have run extensive tests and can replicate this issue consistently. 
+
+We need a solution or workaround urgently as this vulnerability poses a significant risk to our application and data.

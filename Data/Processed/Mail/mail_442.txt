@@ -1,0 +1,12 @@
+Hi John,
+
+We apologize for the delay.  You are correct, the current version of our IAM service does not support restricting roles to specific regions. This is a feature we are planning to implement in the near future. 
+
+In the meantime, you can achieve a similar level of control by using resource tagging and then configuring your cloud management policies to enforce restrictions based on those tags.
+
+We understand this might not be ideal, and we appreciate your patience while we work on implementing the region-specific role functionality.
+
+Please let us know if you have any further questions.
+
+Best regards,
+Aetheros Support Team

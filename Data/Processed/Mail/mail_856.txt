@@ -1,0 +1,8 @@
+Hello John,
+
+We have identified the issue. It seems there is an incompatibility between Mercury 1.2.5 and the instance type you are selecting. Please upgrade your Mercury version to 1.2.6, and try deploying again. This should resolve the issue.
+
+Please let us know if you face any further problems.
+
+Best regards,
+Aetheros Support Team

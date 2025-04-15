@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you're facing scaling challenges with your cloud resources. To help us pinpoint the root cause, could you please provide us with the following information?
+
+*  Your Aetheros account ID
+*  The approximate times you experience slowdowns
+*  Any recent changes made to your application or cloud configuration
+
+Once we have this information, we can investigate further and provide a solution.
+
+Sincerely,
+Aetheros Support Team

@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+Here's the information you requested:
+
+* **API Endpoints:** Primarily affecting `/users` and `/products` endpoints.
+* **Time Frame:**  The spikes started appearing yesterday around 2 PM UTC and are recurring intermittently.
+* **Recent Changes:** We deployed a minor update to our authentication service yesterday around 1 PM UTC.
+
+Let me know if you need any further details.
+
+Regards,
+John

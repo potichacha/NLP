@@ -1,0 +1,8 @@
+Dear John,
+
+This is to confirm that the issue has been resolved and all services are back online. We've conducted thorough checks to ensure stability.  We will publish a post-mortem analysis of the incident within the next 24 hours on our status page. 
+
+Again, we apologize for the disruption this caused. 
+
+Sincerely,
+Aetheros Support

@@ -1,0 +1,14 @@
+Hi John,
+
+Thank you for contacting Aetheros Support. We understand you're facing issues with user permissions in your production environment.
+
+To help us troubleshoot effectively, could you please provide the following information:
+
+*  A list of affected users and the resources they're unable to access.
+*  Screenshots of the error messages encountered.
+*  The time and date when you first noticed the issue.
+
+Once we have this information, we can investigate further and provide a solution.
+
+Best regards,
+Aetheros Support

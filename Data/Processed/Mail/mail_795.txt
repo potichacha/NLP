@@ -1,0 +1,1 @@
+Thanks for the information. One more question - We are also considering your Cloud Management service.  How well does the IAM service integrate with that for managing permissions within our cloud infrastructure?

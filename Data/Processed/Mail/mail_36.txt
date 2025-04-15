@@ -1,0 +1,10 @@
+Dear Isiah,
+
+Thank you for reaching out and providing this valuable feedback on our Mercury documentation. We greatly appreciate you taking the time to share your suggestions.
+
+We agree that expanding the error handling and IAM role sections would be incredibly beneficial for our users. Your points are well-taken, and we've added these topics to our documentation roadmap for prioritization. 
+
+We'll keep you updated on the progress of incorporating these improvements. In the meantime, please don't hesitate to reach out if you have any further questions or suggestions.
+
+Sincerely,
+The Aetheros Support Team

@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We're experiencing a critical issue with IAM role assignment.  We can't assign the necessary permissions to our new DevOps engineer, which is blocking our deployment process entirely.
+
+We've tried reassigning the role, but we're still encountering the same error.  We need this resolved ASAP as it's impacting our production environment.
+
+Please advise on how to proceed.
+
+Thanks,
+John Doe

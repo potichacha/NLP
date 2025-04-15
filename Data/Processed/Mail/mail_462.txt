@@ -1,0 +1,16 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support.
+
+We understand you are experiencing difficulties deploying your Mercury language application to AWS using our Cloud Management service.
+
+To help us investigate this issue further, could you please provide us with the following information:
+
+* The specific error message you are encountering
+* The steps you have taken to try and resolve the issue
+* Your Aetheros account ID
+
+Once we have this information, we will be able to assist you further.
+
+Best regards,
+Aetheros Support Team

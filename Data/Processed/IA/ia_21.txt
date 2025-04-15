@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'Tensorflow 2.0 kullanarak örnek bir CNN-LSTM kodu hazırlar mısın?'}
+{'user': 'Chat GPT', 'message': 'Evet, tabii. TensorFlow 2.0 ile bir CNN-LSTM modeli oluşturmak için aşağıdaki adımları izleyebilirsiniz:'}

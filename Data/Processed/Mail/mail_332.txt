@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm having trouble assigning a specific role to a user in my application. I'm using your IAM service and have defined custom roles. However, when I try to assign one of these roles, it doesn't seem to be applying the correct permissions.
+
+Could you please help me understand what might be going wrong?
+
+Thanks,
+John Doe

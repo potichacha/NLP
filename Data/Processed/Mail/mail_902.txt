@@ -1,0 +1,14 @@
+Hi Aetheros Support,
+
+Here's the information you requested:
+
+* **Approximate times and dates of latency spikes:**
+    * 2023-10-25 between 14:00 and 18:00 UTC
+    * 2023-10-26 between 02:00 and 06:00 UTC
+* **Screenshots of latency spikes:** [Attached]
+* **Error messages:** No specific error messages encountered. The requests simply timed out during those periods.
+
+Please let me know if you require anything else.
+
+Thanks,
+John Doe

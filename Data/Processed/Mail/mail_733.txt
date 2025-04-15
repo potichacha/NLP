@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for reaching out to us. We understand that you're experiencing latency issues on your staging server, and we're here to help.
+
+To better assist you, could you please provide us with the following information?
+
+* Approximate times and dates when the latency spikes occurred
+* Any error messages or logs you've encountered
+* Details about your staging environment (e.g., instance size, region)
+
+Once we have this information, we can investigate further and provide a solution.
+
+Best regards,
+Aetheros Support Team

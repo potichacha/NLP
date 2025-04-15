@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+I'm having a bit of trouble understanding how to set up granular permissions for different user roles within the IAM service. Specifically, I want to allow certain users to view API analytics but not edit API configurations. Is this possible with the current role-based access control system?
+
+Thanks,
+John Doe

@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand that you are experiencing issues with API monitoring. We are currently investigating the issue and will provide an update as soon as possible. 
+
+In the meantime, could you please provide us with the following information:
+
+* Your Aetheros Account ID
+* The approximate time you first noticed the issue
+* Any recent changes made to your API configuration
+
+This information will help us to diagnose the issue more efficiently.
+
+Sincerely,
+Aetheros Support Team

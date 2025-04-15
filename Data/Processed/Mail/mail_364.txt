@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for reaching out and providing this valuable feedback on Mercury! We appreciate you taking the time to share your thoughts on how we can improve the error handling in the language.
+
+We understand that clear and informative error messages are crucial for efficient debugging. Our team is currently exploring ways to enhance the error reporting in Mercury to make it more developer-friendly.
+
+We'll keep you updated on any progress made in this area. In the meantime, if you encounter any specific error messages that you find particularly challenging, please feel free to share them with us, and we'll be happy to provide further assistance.
+
+Best regards,
+The Aetheros Support Team

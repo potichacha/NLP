@@ -1,0 +1,5 @@
+We are experiencing critical issues with our latest cloud deployment. We are using Aetheros Cloud Management and API Gateway. Deployments are consistently failing with a timeout error related to API Gateway provisioning. 
+
+This is causing a complete outage for our production environment. We need this resolved urgently.
+
+Please advise on next steps.

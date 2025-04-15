@@ -1,0 +1,6 @@
+Hi Aetheros Support Team,
+
+I'm writing to suggest an improvement to your API development process.  Currently, the documentation for error codes returned by the APIs seems a bit sparse. It would be incredibly helpful if you could provide more detailed explanations of each error code, including potential causes and suggested solutions. This would greatly expedite troubleshooting and integration.
+
+Thanks,
+Isabella Garcia

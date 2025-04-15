@@ -1,0 +1,11 @@
+Hi Aetheros Support,
+
+We're receiving alerts from your API Monitoring platform indicating significant downtime for our application's main API. However, our internal monitoring and user activity suggest everything is functioning as expected.
+
+Could you please investigate this discrepancy urgently as we rely heavily on your monitoring for accurate outage detection?
+
+Application Name: MyWebApp
+API Endpoint: https://api.mywebapp.com/v1
+
+Thanks,
+John Doe

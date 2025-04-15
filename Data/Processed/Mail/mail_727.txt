@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support. We understand you are experiencing performance issues during peak hours and would be happy to assist with optimizing your cloud resources.
+
+To better understand your needs, could you please provide us with the following information:
+
+* What specific performance metrics are you seeing degrade (e.g., latency, error rates)?
+* What type of instances are you currently using?
+* Have you configured any autoscaling policies?
+
+Once we have a clearer picture of your current setup, we can provide more tailored recommendations.
+
+Best regards,
+Aetheros Support

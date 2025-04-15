@@ -1,0 +1,21 @@
+Dear John,
+
+Thank you for contacting Aetheros Support.
+
+We understand the urgency of the issues you're facing with our IAM service and Mercury deployment. We have escalated your case to our senior engineers.
+
+To help us diagnose the problem more effectively, could you please provide us with the following information:
+
+* **For the IAM issue:**
+    * The specific roles you are trying to assign.
+    * The error message you are receiving.
+    * Screenshots of the steps you are taking to assign the roles.
+* **For the Mercury deployment issue:**
+    * The version of Mercury you are using.
+    * The deployment logs from your most recent attempt.
+    * Your cloud environment configuration files (if possible).
+
+Once we have received this information, we will investigate further and provide an update as soon as possible.
+
+Sincerely,
+Aetheros Support Team

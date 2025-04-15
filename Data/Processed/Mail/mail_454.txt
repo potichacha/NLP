@@ -1,0 +1,12 @@
+Hi John,
+
+Thank you for reaching out to Aetheros Support. We're happy to help clarify how auto-scaling works with our Cloud Management service.
+
+By default, the system monitors CPU utilization, memory usage, and network traffic to determine when to scale your resources up or down. You have the ability to configure these thresholds and even define custom metrics based on your application's specific needs within the Cloud Management dashboard. 
+
+You can find more detailed information and step-by-step instructions on setting up and customizing auto-scaling in our documentation: [Link to documentation]
+
+Please let us know if you have any further questions or require additional assistance.
+
+Best regards,
+The Aetheros Support Team

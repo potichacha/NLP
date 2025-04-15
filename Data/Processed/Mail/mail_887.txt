@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+We're using your IAM service and are a bit confused about how user role inheritance works. Specifically, if a user is assigned to a role that inherits permissions from another role, but then we directly deny one of those inherited permissions to the user, will that take precedence?
+
+Thanks,
+John Doe

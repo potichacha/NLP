@@ -1,0 +1,15 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand that you are experiencing issues with your production API. 
+
+To help us diagnose the issue, could you please provide us with the following information:
+
+* API endpoint(s) affected
+* Timestamps of when the issue began
+* Error logs
+* Any recent changes made to the API
+
+Once we have this information, we will be able to investigate further.
+
+Best regards,
+Aetheros Support Team

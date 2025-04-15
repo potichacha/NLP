@@ -1,0 +1,4 @@
+{'user': 'Anonymous', 'message': '請告訴我這本書 "The Encyclopedia of Ancient Giants in North America" 作者為 Fritz Zimmerman'}
+{'user': 'Chat GPT', 'message': '沃！《The Encyclopedia of Ancient Giants in North America》的作者確實是Fritz Zimmerman。這本書探討了北美洲古代巨人的傳說和證據，包括在考古學和文化傳統中發現的巨人化石和藝術品。 Zimmerman 這位作者從事過考古學和歷史研究，他的研究也受到了一些批評，但他的書籍對於一些人來說仍然是一個有趣和引人入勝的探索古代傳說和神秘的資源。'}
+{'user': 'Anonymous', 'message': '那裏可以參考?'}
+{'user': 'Chat GPT', 'message': '您可以在網上找到許多有關這本書的信息和評論，以下是一些可能會對您有幫助的資源： 希望這些資源能幫助到您！'}

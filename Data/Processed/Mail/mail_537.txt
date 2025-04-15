@@ -1,0 +1,8 @@
+Hi John,
+
+Thank you for reaching out to Aetheros Support.
+
+You can find information on asynchronous API calls within the "Advanced Concepts" section of the Mercury Language documentation: [Link to documentation]. We are constantly working to improve our documentation, so please let us know if you have any further questions or need further assistance.
+
+Best regards,
+Aetheros Support Team

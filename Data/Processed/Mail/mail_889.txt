@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm experiencing some irregular latency spikes with my API being monitored through your platform.  Most of the time, response times are great, but I'm seeing intermittent spikes up to several seconds. 
+
+Could you help me investigate what might be causing this?
+
+Thanks,
+John Doe

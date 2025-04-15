@@ -1,0 +1,12 @@
+Hi Aetheros Support Team,
+
+We've been experiencing severe issues with our API performance since approximately 9:30 AM EST today. Our Aetheros API monitoring dashboard shows a massive spike in latency and error rates across all our endpoints.
+
+This is causing significant disruption to our services, and we need urgent assistance in identifying and resolving the issue. 
+
+We've already checked our own infrastructure and haven't found any problems on our end.
+
+Please advise as soon as possible.
+
+Thanks,
+John Doe

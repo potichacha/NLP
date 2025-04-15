@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of this issue and are committed to helping you resolve it.
+
+To assist us in diagnosing the problem, could you please provide the following information:
+
+* Your Aetheros account ID
+* The specific APIs experiencing rate limiting
+* Timestamps of when the issue began and any error messages received
+
+Once we have this information, we will investigate further and keep you updated on our progress.
+
+Sincerely,
+Aetheros Support

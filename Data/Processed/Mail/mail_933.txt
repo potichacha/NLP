@@ -1,0 +1,7 @@
+We have identified the issue in your Mercury script that was causing the permission errors. There was a syntax error in the role update function. We have provided a corrected version of your script below:
+
+```mercury
+[Corrected code snippet]
+```
+
+Please implement this updated script in your IAM configuration. This should resolve the permission errors you have been experiencing. We apologize for the inconvenience caused by this issue.

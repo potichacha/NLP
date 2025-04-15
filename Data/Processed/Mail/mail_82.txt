@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support. We understand you're interested in how our Cloud Management and API Development services work together. We're happy to provide some information.
+
+Our Cloud Management platform is designed to seamlessly integrate with APIs developed using Aetheros. You can easily deploy, manage, and scale your APIs using our intuitive dashboard.
+
+We're currently working on compiling more detailed documentation and resources specifically addressing the integration points you mentioned. We'll be sure to share these with you as soon as they're available.
+
+In the meantime, please let us know if you have any other questions.
+
+Best regards,
+Aetheros Support

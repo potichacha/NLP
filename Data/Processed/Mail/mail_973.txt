@@ -1,0 +1,6 @@
+Hi Support Team,
+
+Thanks for getting back to me. Turns out I was using an outdated syntax for the role implementation. I found the updated documentation, and it's working correctly now.
+
+Thanks for your time, though!
+John

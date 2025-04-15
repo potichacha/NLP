@@ -1,0 +1,16 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support. We understand the urgency of your situation regarding the Mercury language integration issues.
+
+To help us diagnose the problem effectively, could you please provide us with the following information:
+
+* Complete error logs from the time of the crashes.
+* The specific Mercury scripts that seem to trigger the issue.
+* Details about your server's resource usage (CPU, Memory, etc.) during the crashes.
+
+Once we have this information, we can investigate further and assist you in resolving this issue. 
+
+We appreciate your patience and cooperation.
+
+Sincerely,
+Aetheros Support Team

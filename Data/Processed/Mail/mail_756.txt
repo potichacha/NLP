@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+We're experiencing difficulties integrating Mercury language with our existing cloud infrastructure managed by Aetheros. Specifically, we're encountering issues with deployment pipelines when using Mercury alongside your cloud management tools. Could you please provide some guidance on how to resolve this?
+
+Thanks,
+John Doe

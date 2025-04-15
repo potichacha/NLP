@@ -1,0 +1,22 @@
+Hi Support Team,
+
+Thanks for the quick response.
+
+Here's the information you requested:
+
+* **Relevant Code Snippet:**
+
+```mercury
+  api.post("/users", {
+    "name": "John Doe",
+    "email": "john.doe@example.com""
+  })
+```
+
+* **Mercury SDK Version:** 2.3.1
+* **API Endpoint:** `/users` (This is a custom endpoint for my application)
+
+I believe the issue might be related to how I'm formatting the JSON payload within the `api.post()` function.  Could there be a syntax error there?
+
+Thanks,
+Isiah

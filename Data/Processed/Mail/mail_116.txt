@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support. We apologize for the delay in our response.
+
+We understand you're having trouble with asynchronous requests in Mercury. Could you please provide a code snippet of what you're trying to achieve? This will help us understand your issue better and provide a more accurate solution.
+
+Best Regards,
+The Aetheros Support Team

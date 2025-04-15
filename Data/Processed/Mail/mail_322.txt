@@ -1,0 +1,8 @@
+Aetheros Support, 
+
+The issue seems to be resolved now. Our API calls are authenticating successfully.
+
+However, this outage was highly disruptive to our operations. We rely heavily on your services, and such incidents are unacceptable. We expect a thorough post-mortem on this bug and preventative measures to avoid such occurrences in the future.
+
+Regards,
+John Doe

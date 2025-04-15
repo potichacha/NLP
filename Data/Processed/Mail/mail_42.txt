@@ -1,0 +1,8 @@
+Dear John,
+
+We apologize for the delay. Our team has investigated and found that the latency spikes were due to a temporary issue on our end. This issue has now been resolved. 
+
+Please let us know if you experience any further problems.
+
+Sincerely,
+Aetheros Support Team

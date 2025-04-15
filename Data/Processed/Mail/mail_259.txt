@@ -1,0 +1,13 @@
+Hi Aetheros Support,
+
+Here's the information you requested:
+
+* Error messages: "Resource Limit Exceeded: vCPU quota exceeded" and "Deployment Failed: Unable to provision instances." 
+* Deployment configuration: I've attached the relevant section. 
+* Timestamps: Most recent attempt failed at 2023-10-26T12:00:00Z. Several attempts yesterday between 14:00Z and 18:00Z also failed. 
+* Cloud resource changes: No recent changes have been made.
+
+We are also experiencing some latency spikes in our API. Could this be related to the deployment issue?
+
+Thank you,
+John Smith

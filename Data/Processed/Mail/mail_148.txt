@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+I'm having some trouble understanding the role permissions for the API Monitoring platform.  Specifically, I'm trying to create a role that can view dashboards but not edit them. Is this possible with the current setup?
+
+Thanks,
+John Doe

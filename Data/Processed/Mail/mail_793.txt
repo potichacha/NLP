@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+I'm evaluating your IAM service for our web application and had a question about role inheritance. 
+
+Specifically, if we define a parent role with certain permissions, can we create child roles that inherit those permissions and also have additional, specific permissions?
+
+Could you please provide some documentation or examples of how this works in practice?
+
+Thanks,
+Isiah Rippin

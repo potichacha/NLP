@@ -1,0 +1,3 @@
+We are experiencing severe performance issues with our APIs and our monitoring dashboards are showing massive spikes in latency and error rates since approximately 9:45 AM EST.  This is causing major disruptions to our services. 
+
+We need immediate assistance to identify the root cause and resolve this issue as quickly as possible. We are using the Aetheros API Monitoring service (account ID:  acct_1234567890).

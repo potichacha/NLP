@@ -1,0 +1,3 @@
+We are experiencing a critical issue with our IAM integration.  Users are unable to access the resources they need. This is causing a major disruption to our operations. We need immediate assistance to resolve this.
+
+Specifically, users are getting 'access denied' errors when trying to access resources they should have permissions for. We have not made any recent changes to our IAM configuration.

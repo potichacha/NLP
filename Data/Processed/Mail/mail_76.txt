@@ -1,0 +1,15 @@
+Hi John,
+
+Thank you for reaching out to Aetheros Support.
+
+We understand you're experiencing difficulties deploying a Mercury lambda function to your managed cloud environment. To assist you effectively, could you please provide the following information:
+
+* The approximate time and date of the failed deployments.
+* The region where your cloud environment is located.
+* The error message you received, if any.
+* A code snippet of your Mercury lambda function (if possible).
+
+Once we have this information, we can investigate further and provide a solution.
+
+Best regards,
+Aetheros Support Team

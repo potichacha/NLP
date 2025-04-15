@@ -1,0 +1,1 @@
+John, we've identified the issue. There was a temporary system error affecting IAM role synchronization. This has now been resolved.  Could you please ask your users to log out and log back in? This should refresh their permissions.  We apologize for the inconvenience this caused. Let us know if you encounter any further problems.

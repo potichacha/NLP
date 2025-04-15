@@ -1,0 +1,14 @@
+Dear Isabelle,
+
+Thank you for contacting Aetheros Support. We understand you are experiencing issues assigning new roles within the IAM service. 
+
+To assist you better, could you please provide us with the following information?
+
+* Screenshot of the error message you are encountering
+* Steps you have already taken to troubleshoot the issue
+* The specific roles you are trying to assign and to which users
+
+Once we have this information, we can investigate further and provide you with a solution. 
+
+Sincerely,
+Aetheros Support Team

@@ -1,0 +1,16 @@
+Hi John,
+
+Thank you for reaching out to Aetheros Support.
+
+We understand you're experiencing a Null Pointer Exception while accessing your database within a Mercury lambda function. This typically occurs when the `Database.connect` method cannot establish a connection using the provided connection string. 
+
+To help us diagnose the issue further, could you please provide the following information?
+
+* **Full error message and stack trace:** This will give us more context on where the exception is originating. 
+* **Code for the `Database.connect` method:**  Please share the code you're using to establish the database connection. 
+* **Confirmation that your database is reachable:** Can you confirm that your database is up and running and that you can connect to it outside of the Mercury lambda environment?
+
+Once we have this information, we'll be able to assist you further. 
+
+Best regards,
+The Aetheros Support Team

@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'LLaMA-65B(in english)'}
+{'user': 'Chat GPT', 'message': 'I\'m sorry, but I\'m not sure what "LLaMA-65B" refers to. Could you please provide more context or information so I can better understand your request and provide a helpful response?'}

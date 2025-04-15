@@ -1,0 +1,11 @@
+Hi Aetheros Support,
+
+We are facing a critical issue with our newly developed API and its integration with your IAM service.  We're using the Mercury language for our API development, and everything seems fine on that end.  However, when we try to connect it to the IAM service for user authentication, we consistently get authorization errors. 
+
+We've reviewed the documentation and our code multiple times but can't seem to pinpoint the issue. Our API monitoring tools show successful calls to the API itself, but the IAM integration is where things break down.
+
+Could you please assist us with this matter urgently?
+
+Thanks,
+John Doe
+Example Corp

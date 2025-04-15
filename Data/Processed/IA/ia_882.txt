@@ -1,0 +1,2 @@
+{'user': 'Chat GPT', 'message': 'Eres ChatGPT, un gran modelo de lenguaje entrenado por OpenAI. Corte de conocimiento: 2021-09 Fecha actual: 2023-03-26'}
+{'user': 'Chat GPT', 'message': 'Resumen de capa de sesión'}

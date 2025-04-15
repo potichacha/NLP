@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of this situation and are actively investigating the issue with your instance scaling in the Cloud Management platform.
+
+We will keep you updated on our progress and provide further instructions as soon as possible.
+
+Sincerely,
+The Aetheros Support Team

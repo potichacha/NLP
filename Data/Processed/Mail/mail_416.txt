@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+Thank you for the detailed response. That's helpful to know.
+
+We have another question regarding user provisioning. Can we integrate our existing identity provider (IDP) with Aetheros for user authentication and authorization?
+
+We are currently using [Name of IDP]. If you can share some information about the integration process or documentation for our specific IDP, that would be great.
+
+Thank you,
+Isabella

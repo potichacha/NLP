@@ -1,0 +1,12 @@
+Hi Support Team,
+
+Here is the information you requested:
+
+* **Mercury version:** 1.2.3
+* **Aetheros region:** us-west-2
+* **IAM Policy document:** [Attached]
+
+Please let me know if you require anything further.
+
+Thanks,
+John

@@ -1,0 +1,14 @@
+Dear Isiah,
+
+Thank you for contacting Aetheros Support. We understand you're facing difficulties compiling your Mercury code.
+
+To assist you effectively, could you please provide us with the following information:
+
+* The relevant section of your Mercury code where the error occurs.
+* The version of the Mercury SDK you are using.
+* Any specific API endpoints you are trying to interact with.
+
+Once we have this information, we can investigate further and provide you with a solution.
+
+Best regards,
+The Aetheros Support Team

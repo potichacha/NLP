@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for reaching out. We understand you're facing difficulties with automatic scaling. To assist you better, could you please provide us with the following information:
+
+* Your Aetheros account ID
+* A brief description of your scaling configuration
+* The approximate time and date you experienced the traffic spikes
+
+Once we have this information, we can investigate further and provide a solution.
+
+Regards,
+The Aetheros Support Team

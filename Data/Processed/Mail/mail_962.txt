@@ -1,0 +1,13 @@
+Dear John,
+
+Thank you for contacting Aetheros support. We understand you are experiencing issues with the Mercury language compiler. 
+
+Could you please provide us with the following information so we can investigate further:
+* Version of the Mercury language compiler you are using.
+* Relevant code snippet where the error occurs.
+* Any recent changes you made to your environment or codebase.
+
+We will look into this issue as quickly as possible. 
+
+Best regards,
+The Aetheros Support Team

@@ -1,0 +1,17 @@
+Dear John,
+
+Thank you for contacting Aetheros Support.
+
+We understand that you're experiencing issues with an IAM role impacting your production environment. We're committed to resolving this for you as quickly as possible.
+
+To help us diagnose the problem efficiently, could you please provide the following information:
+
+* The specific IAM role name
+* The API endpoints you're unable to access
+* The error messages you're seeing 
+* The approximate time you first noticed this issue
+
+We'll investigate this further and keep you updated on our progress.
+
+Sincerely,
+Aetheros Support Team

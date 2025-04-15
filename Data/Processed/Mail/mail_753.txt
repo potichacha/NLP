@@ -1,0 +1,3 @@
+Thanks for the response, but I'm still seeing a large portion of our costs attributed to 'Compute Resources' without a clear breakdown. Can you please advise further on how to see what specific resources are contributing to this?
+
+Additionally, are there any tools within the Aetheros platform or best practices you recommend for optimizing our cloud resource usage and reducing costs?

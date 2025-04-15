@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We've been experiencing unusually high latency with one of our production APIs (API key: adk-789xyz123) since this morning. The API was developed using your platform and has been performing well until now.
+
+We're seeing average response times of over 2 seconds, which is impacting our users. Could you please look into this issue and advise on any potential solutions?
+
+Thanks,
+John Doe

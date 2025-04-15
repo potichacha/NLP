@@ -1,0 +1,14 @@
+Hi John,
+
+Thank you for reaching out to Aetheros Support. We understand you're experiencing issues with role assignments for your API. 
+
+To help us diagnose the problem, could you please provide us with the following information:
+
+* The specific role you are trying to assign.
+* The API endpoint the developers are trying to access.
+* A screenshot of the error message they are receiving.
+
+Once we have this information, we can investigate further and assist you in resolving the issue.
+
+Best regards,
+Aetheros Support Team

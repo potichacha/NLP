@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand that you are experiencing issues with the IAM service and this is causing disruptions to your operations. 
+
+To help us diagnose the problem quickly, could you please provide us with the following information:
+
+* The specific roles and permissions that are not being applied correctly.
+* The usernames of the users who are experiencing issues.
+* Any error messages you are seeing.
+
+We will investigate this issue as a top priority and get back to you as soon as possible. 
+
+Sincerely,
+Aetheros Support Team

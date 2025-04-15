@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'cuestionario de 20 preguntas para hacer a una mujer emprendedora, que es lider de mujeres'}
+{'user': 'Chat GPT', 'message': '¡Por supuesto! Aquí tienes un cuestionario de 20 preguntas que puedes hacerle a una mujer emprendedora que lidera a otras mujeres:'}

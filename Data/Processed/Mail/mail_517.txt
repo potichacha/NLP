@@ -1,0 +1,1 @@
+Our team is experiencing a critical issue with our API access. We are suddenly getting 403 Forbidden errors on all API endpoints. Additionally, the API monitoring dashboard is inaccessible, preventing us from troubleshooting the issue. This is causing a major disruption to our services. Please advise ASAP.

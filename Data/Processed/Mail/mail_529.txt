@@ -1,0 +1,3 @@
+Dear John,
+
+This issue should now be resolved.  Please confirm that you are seeing normal functionality restored. We will conduct a thorough post-mortem analysis of this incident to prevent similar occurrences in the future. Thank you for your patience and understanding.

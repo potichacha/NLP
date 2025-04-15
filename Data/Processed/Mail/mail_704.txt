@@ -1,0 +1,8 @@
+Hello,
+
+It's been almost a day since our initial report and we haven't received any updates. Our systems are still severely impacted by this outage. 
+
+We need a concrete timeline for resolution and a workaround if possible. This is causing significant damage to our business.
+
+Regards,
+John

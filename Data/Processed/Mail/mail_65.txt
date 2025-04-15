@@ -1,0 +1,7 @@
+Thank you for contacting Aetheros Support. We understand you are facing difficulties integrating Mercury with your API. Can you please provide us with the following information so we can better assist you:
+
+- Version of Mercury language being used
+- Error logs and stack traces
+- Relevant code snippets
+
+Awaiting your response to proceed further.

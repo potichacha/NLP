@@ -1,0 +1,7 @@
+We are experiencing a critical issue where our newly defined IAM roles are not being applied consistently across our cloud resources. This is causing service disruptions and security vulnerabilities. We are using Aetheros for both IAM service and Cloud Management. 
+
+Specifically, we are seeing:
+* Users with a specific role are unable to access resources they should have access to.
+* Old permissions are persisting even after role changes.
+
+We have tried revoking and re-applying roles, but the issue persists. We need urgent assistance to resolve this as it's impacting our production environment.

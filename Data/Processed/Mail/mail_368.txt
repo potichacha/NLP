@@ -1,0 +1,10 @@
+Dear Isabella,
+
+Thank you for providing the additional details. We've investigated the logs and the issue seems to stem from a misconfiguration in your load balancer settings within our cloud platform. 
+
+We've identified the problem and are working on resolving it. We'll provide an update as soon as the issue is fixed.
+
+In the meantime, please let us know if you have any further questions.
+
+Sincerely,
+The Aetheros Support Team

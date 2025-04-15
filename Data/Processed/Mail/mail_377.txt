@@ -1,0 +1,8 @@
+Dear John,
+
+We have identified the issue causing the data visibility problem in the API monitoring platform. Our team has implemented a fix, and you should now see data populating correctly. 
+
+We apologize for any inconvenience this may have caused. Please do not hesitate to contact us if you encounter any further issues.
+
+Sincerely,
+Aetheros Support Team

@@ -1,0 +1,10 @@
+Dear Aetheros Support Team,
+
+We are experiencing significant API performance degradation following a recent update to the Mercury language runtime. Our API, which manages high-volume transactions, is now experiencing response times exceeding acceptable thresholds, impacting our services severely.
+
+We have pinpointed the issue to coincide with the deployment of the Mercury 1.2.5 runtime update. Prior to this, our API performance was within acceptable parameters.
+
+We are requesting immediate assistance to diagnose and resolve this issue as it is critically impacting our operations.
+
+Sincerely,
+John Doe

@@ -1,0 +1,6 @@
+Hi Support Team,
+
+Thank you for the detailed explanation and the workaround. We implemented the temporary fix, and it resolved the parsing error in our production environment. We appreciate your quick response and support in resolving this critical issue. We'll keep an eye out for the upcoming Mercury language version 1.2.4 release.
+
+Thanks again,
+John

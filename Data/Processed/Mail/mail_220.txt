@@ -1,0 +1,12 @@
+Hi John,
+
+Thank you for reaching out to Aetheros Support.
+
+You can find information about implementing custom authorization logic within the Mercury language documentation under the 'Security' section, specifically in the 'Custom Authorization Handlers' subsection.
+
+The documentation can be found here: [Link to documentation]
+
+Please let us know if you have any other questions.
+
+Best regards,
+Aetheros Support Team

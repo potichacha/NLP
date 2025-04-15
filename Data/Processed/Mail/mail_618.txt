@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We're experiencing a critical issue with our newly integrated API and your IAM service. The authentication process seems to be failing, and we're getting authorization errors when trying to access protected endpoints. We've followed the documentation carefully, but we can't seem to pinpoint the problem.
+
+Our API was developed using your Mercury language, and we're leveraging your API monitoring tools. The monitoring dashboard clearly shows authentication failures spiking.
+
+This is a high-priority issue as it's blocking several key functionalities for our users. We need this fixed ASAP. Please let us know what information you need from our end to expedite the troubleshooting process.
+
+Thanks,
+John Doe

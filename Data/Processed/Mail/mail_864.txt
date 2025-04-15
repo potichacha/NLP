@@ -1,0 +1,12 @@
+Aetheros Support,
+
+See the requested information below:
+
+*  Issue began around 10:00 AM UTC on October 26th
+*  Primarily affecting endpoints under /api/v2/products, but we are seeing sporadic false positives across all endpoints
+*  Screenshots attached
+
+Please let me know if you require any further information. This is a major disruption to our operations.
+
+Regards,
+John Smith

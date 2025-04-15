@@ -1,0 +1,7 @@
+We are experiencing critical issues deploying our Mercury application to the Aetheros Cloud.  We are encountering a "Resource Limit Exceeded" error, but we believe our allocated resources should be sufficient. 
+
+We have checked the following:
+- Confirmed resource limits in our cloud management console.
+- Reviewed recent changes to our Mercury codebase.
+
+This is a high-priority issue as it is preventing us from deploying a critical update to our system. Please advise on how to resolve this issue as soon as possible.

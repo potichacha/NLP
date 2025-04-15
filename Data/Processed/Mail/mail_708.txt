@@ -1,0 +1,7 @@
+Here's the requested information:
+
+* **IAM role modified:** `arn:aetheros:iam::123456789012:role/prod-admin`
+* **Timestamp of change:** 2023-10-26T09:55:00Z
+* **Error message:**  "AccessDenied: User: arn:aetheros:iam::123456789012:user/john.doe is not authorized to perform: sts:AssumeRole on resource: arn:aetheros:iam::123456789012:role/prod-admin"
+
+We're completely blocked from accessing our resources. Please prioritize this issue as it's severely impacting our business operations.

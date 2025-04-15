@@ -1,0 +1,10 @@
+Hello Aetheros Support,
+
+I'm interested in learning more about your API development and IAM services. Specifically, I'd like to know how seamlessly these two services integrate.
+
+We're developing a new web application and are considering using Aetheros for API development and user management. It would be very beneficial if your IAM service could easily control access to the APIs we develop.
+
+Could you please provide more information on this integration and any potential limitations?
+
+Thank you,
+John Doe

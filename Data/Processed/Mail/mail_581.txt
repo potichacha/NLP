@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm working on a project using Mercury language and I'm a bit stuck on the syntax for asynchronous function calls. The documentation seems to be missing that part. 
+
+Could you please provide some examples or point me to the right resources?
+
+Thanks,
+Isabella Davis

@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support.
+
+We understand you're experiencing issues setting up specific user roles within our IAM service. To better assist you, could you please provide us with more details about the specific API and the permissions you're trying to assign?
+
+Please also let us know what steps you've already taken to troubleshoot this issue.
+
+We look forward to hearing from you soon.
+
+Sincerely,
+Aetheros Support Team

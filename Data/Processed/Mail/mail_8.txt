@@ -1,0 +1,14 @@
+Hi John,
+
+Thank you for contacting Aetheros Support. We understand you're experiencing an urgent issue with deploying your Mercury code and seeing a 502 error. We're looking into this for you. 
+
+Can you please provide us with the following information so we can further investigate:
+
+* Your Aetheros account ID
+* The approximate time you started experiencing this issue
+* Any recent changes you made to your code or environment
+
+We'll do our best to resolve this issue for you as quickly as possible.
+
+Best regards,
+Aetheros Support

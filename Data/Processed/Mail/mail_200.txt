@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+We're experiencing a critical issue with the IAM service. We're unable to assign new roles to our users, and it's impacting our operations severely. 
+
+We've tried the following troubleshooting steps:
+- Verified our permissions
+- Checked for any error messages in the logs (found nothing relevant)
+
+We need this resolved ASAP. Please advise on next steps.
+
+Thanks,
+John Doe

@@ -1,0 +1,1 @@
+{'user': 'Chat GPT', 'message': '你是 ChatGPT，OpenAI 训练的大型语言模型。知识截止：2021-09 当前日期：2023-03-27'}

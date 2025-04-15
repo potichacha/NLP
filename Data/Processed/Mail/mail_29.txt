@@ -1,0 +1,5 @@
+We've recently implemented some new roles and permissions using Aetheros IAM, and we're encountering a critical issue.  Users assigned to these new roles are unable to access the resources they should have access to. 
+
+We've double-checked the role configurations and they appear to be correct. Could this be a bug or propagation delay within the system? This is a high priority issue as it's impacting our production environment.
+
+Please advise as soon as possible on how to resolve this.

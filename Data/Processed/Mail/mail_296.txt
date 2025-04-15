@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+My name is John Doe, and I'm a developer working with [Project Name] at [Company Name]. We're currently leveraging your IAM service and Cloud management platform.
+
+I need to request an urgent reset for my IAM credentials as I believe they might have been compromised. I'm unable to access our resources, and I suspect unauthorized activity.
+
+Additionally, we've noticed some discrepancies in our latest cloud resources bill. Could you please provide a breakdown of the charges related to our account for the past billing cycle?
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+John Doe

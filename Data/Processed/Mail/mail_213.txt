@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+I'm working on setting up more granular access control for our development team using your IAM service. We'd like to restrict certain API endpoints based on user roles. Is this something possible with Aetheros IAM?
+
+Thanks,
+Isiah Okon
