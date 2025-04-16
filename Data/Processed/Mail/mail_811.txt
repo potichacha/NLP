@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We've been experiencing intermittent latency spikes with our API hosted on your cloud platform over the past few days. These spikes are significantly impacting our application's performance and causing disruptions for our users.
+
+We've checked our application logs and haven't been able to identify any specific triggers for these latency issues. We're using your API monitoring service, but it hasn't provided any clear insights into the root cause of these spikes.
+
+Could you please investigate this issue urgently and provide assistance in identifying and resolving the underlying problem?
+
+Thanks,
+John Doe

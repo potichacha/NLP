@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+We recently migrated our application infrastructure to Aetheros Cloud and have been experiencing significantly higher latency on our API gateway ever since.
+
+Before the migration, our average API response time was around 50ms. Now, we're seeing spikes up to 500ms, causing noticeable slowdowns for our users.
+
+We've checked our application code and confirmed it's not the source of the problem. We suspect it might be related to the API gateway configuration in the new cloud environment.
+
+Could you please investigate this issue urgently and help us identify the root cause of the increased latency?
+
+Thanks,
+John Doe

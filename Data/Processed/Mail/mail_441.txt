@@ -1,0 +1,8 @@
+Hello John,
+
+Thank you for reaching out to Aetheros Support.
+
+We appreciate you bringing this to our attention.  We are currently looking into your inquiry regarding region-specific roles in the IAM service. We'll get back to you as soon as possible with more information.
+
+Best regards,
+Aetheros Support Team

@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for contacting Aetheros Support.
+
+We understand that you are experiencing a critical issue with your production environment. Our team is currently investigating the issue and will provide an update as soon as possible. 
+
+In the meantime, could you please provide us with your Aetheros account ID and the approximate time the issue began?
+
+Best regards,
+Aetheros Support Team

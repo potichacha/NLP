@@ -1,0 +1,8 @@
+Hello John,
+
+Thank you for reaching out to Aetheros Support. While the current version of the API Monitoring dashboard doesn't allow for custom widget arrangements, we understand this is a desired feature.
+
+We've forwarded your request to our development team for consideration in future updates. We appreciate your feedback!
+
+Best regards,
+Aetheros Support

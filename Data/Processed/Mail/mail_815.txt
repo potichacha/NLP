@@ -1,0 +1,8 @@
+Hi Aetheros Support Team,
+
+I'm writing to suggest an improvement to the API Monitoring dashboard. While I find the current dashboard informative, it would be incredibly helpful if we could customize the metrics displayed. For instance, being able to prioritize specific metrics relevant to our application's performance would be invaluable. 
+
+Thank you for considering my suggestion.
+
+Sincerely,
+John Doe

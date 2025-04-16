@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+I've been noticing some latency issues on the API Monitoring dashboard. It's taking a while for the data to refresh and reflect real-time API performance. Could you please take a look?
+
+Thanks,
+John Doe

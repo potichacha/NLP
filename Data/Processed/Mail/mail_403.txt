@@ -1,0 +1,13 @@
+Hi John,
+
+Thank you for contacting Aetheros Support. We understand you're facing issues deploying your Mercury code due to a permission error. We're here to help! 
+
+To assist you effectively, could you please provide us with the following information:
+
+1. **User ARN:** The full ARN of the user experiencing the deployment issue.
+2. **Policy Details:** Could you share the JSON policy document attached to the 'MercuryDeployer' role?
+
+Once we have this information, we can investigate further and guide you towards a resolution. 
+
+Best regards,
+The Aetheros Support Team

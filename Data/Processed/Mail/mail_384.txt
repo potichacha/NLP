@@ -1,0 +1,12 @@
+Hello Isiah,
+
+We have reviewed your configuration and traffic details. While we investigate further, a few recommendations:
+
+* **Instance Optimization:** Consider testing C5 instances for better performance with your traffic. Their enhanced CPU capabilities might address the bottlenecks.
+* **Database Scaling:** Given your data plan, monitor database performance closely. You might benefit from scaling your database plan or optimizing your queries.
+* **Connection Pooling:** Ensure efficient connection pooling within your Mercury application to reuse database connections and reduce overhead during scaling. 
+
+We are also looking into potential interactions between Mercury and the API during scaling events. We will keep you updated on our findings.
+
+Best regards,
+The Aetheros Support Team

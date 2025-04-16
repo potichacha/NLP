@@ -1,0 +1,8 @@
+Dear Isabella,
+
+This is to confirm that the issue with your API endpoint (`/api/v2/products`) has been resolved. We've corrected the load balancer settings, and the 502 errors should no longer be occurring.
+
+Please don't hesitate to contact us if you encounter any further issues.
+
+Best regards,
+The Aetheros Support Team

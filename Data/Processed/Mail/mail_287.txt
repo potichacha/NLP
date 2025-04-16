@@ -1,0 +1,12 @@
+Dear Isiah,
+
+Thank you for reaching out to us and providing valuable feedback on our Cloud Management service. We appreciate your suggestion to improve resource scaling efficiency.
+
+We understand the importance of optimizing resource allocation and minimizing costs for our users. Our team is continuously working on enhancing our scaling algorithms and exploring ways to provide more granular control over scaling parameters. 
+
+We've taken note of your suggestions regarding the implementation of advanced algorithms and user-defined thresholds. We'll forward your feedback to our product development team for further consideration in future updates.
+
+In the meantime, if you have any specific use cases or requirements regarding resource scaling, please don't hesitate to share them with us. We're here to assist you further.
+
+Best regards,
+The Aetheros Support Team

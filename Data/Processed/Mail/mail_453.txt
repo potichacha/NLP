@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm having some trouble understanding how the auto-scaling feature works within your Cloud Management service. 
+
+Specifically, what metrics are used to trigger a scale-up event? Is it possible to customize these thresholds?
+
+Thanks,
+John Doe

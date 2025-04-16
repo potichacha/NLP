@@ -1,0 +1,15 @@
+Dear Isabella,
+
+Thank you for reaching out to us. We understand you're experiencing intermittent 502 errors with your new API endpoint (`/api/v2/products`). We're here to help!
+
+To assist us in diagnosing the issue, could you please provide us with the following information:
+
+* **Timeframe:** When did these errors start occurring?
+* **Frequency:** How often are you encountering these 502 errors?
+* **Request details:** Could you share a sample request (headers and body) that triggers the error?
+* **Error logs:**  Please provide any relevant error logs from your application or server.
+
+Once we have this information, we can investigate further and provide a solution.
+
+Best regards,
+The Aetheros Support Team

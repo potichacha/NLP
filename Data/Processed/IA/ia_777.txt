@@ -1,0 +1,18 @@
+{'user': 'Anonymous', 'message': '中翻英'}
+{'user': 'Chat GPT', 'message': '请提供您想要翻译的中文句子，我会帮您将其翻译成英文。'}
+{'user': 'Anonymous', 'message': '根據實驗一，我們可以得知白色排球的彈性稍大於紫色的'}
+{'user': 'Chat GPT', 'message': 'According to Experiment 1, we can conclude that the elasticity of the white volleyball is slightly greater than that of the purple one.'}
+{'user': 'Anonymous', 'message': '當比較COR時，我們可以發現4.5lbs的排球是COR最大的，並且我們也可以合理推斷球內的氣壓會直接影響到彈力，回彈高度及時間'}
+{'user': 'Chat GPT', 'message': 'When comparing the COR, we can find that the 4.5lbs volleyball has the highest COR. Moreover, we can reasonably infer that the air pressure inside the ball directly affects its elasticity, rebound height, and time.'}
+{'user': 'Anonymous', 'message': '操縱變因'}
+{'user': 'Chat GPT', 'message': 'Manipulated variable'}
+{'user': 'Anonymous', 'message': '操作變因'}
+{'user': 'Chat GPT', 'message': 'Operational variable'}
+{'user': 'Anonymous', 'message': '初始高度'}
+{'user': 'Chat GPT', 'message': 'Initial height'}
+{'user': 'Anonymous', 'message': '初始'}
+{'user': 'Chat GPT', 'message': 'Initial'}
+{'user': 'Anonymous', 'message': '落下中'}
+{'user': 'Chat GPT', 'message': 'Falling down'}
+{'user': 'Anonymous', 'message': '落至地面'}
+{'user': 'Chat GPT', 'message': 'Falling to the ground'}

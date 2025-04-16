@@ -1,0 +1,22 @@
+Dear John,
+
+Thank you for providing the additional details. Our team has investigated the issue, and we have identified that the parsing error is related to a known bug in the Mercury language version 1.2.3 that is triggered by a specific compiler optimization introduced in the latest Ubuntu update. 
+
+We have developed a patch for this bug in the upcoming Mercury language version 1.2.4, which will be released within the next 24 hours. In the meantime, you can apply a temporary workaround by disabling the problematic compiler optimization in your server's environment.
+
+To disable the compiler optimization, please follow these steps:
+
+1. Open the terminal and log in as root.
+2. Edit the Mercury language configuration file by running the command: `sudo nano /etc/mercury/mercury.conf`
+3. Locate the line `optimization-level=3` and change it to `optimization-level=2`.
+4. Save the file and exit the editor.
+5. Restart the Mercury language service by running the command: `sudo systemctl restart mercury`
+
+This workaround will disable the problematic compiler optimization and should resolve the parsing error. Please note that disabling this optimization might slightly impact the performance of your Mercury code.
+
+We apologize for any inconvenience this issue may have caused and appreciate your patience as we work to resolve it permanently with the upcoming release. 
+
+Please let us know if you have any questions or need further assistance.
+
+Sincerely,
+Aetheros Support Team

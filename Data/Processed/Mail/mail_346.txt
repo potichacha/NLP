@@ -1,0 +1,10 @@
+Hello John,
+
+Thank you for reaching out to Aetheros Support.
+
+Yes, Mercury is designed to be flexible and can interact with APIs built using other technologies. You can easily make HTTP requests from your Mercury code to communicate with your existing RESTful API.
+
+Please let us know if you have any further questions.
+
+Best regards,
+Aetheros Support

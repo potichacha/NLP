@@ -1,0 +1,5 @@
+Dear Nathaniel,
+
+Thank you for contacting Aetheros Support. We understand the urgency of the situation and have escalated your issue to our senior engineers. We are currently investigating the root cause of the high error rates and latency spikes you are experiencing.
+
+We will keep you updated on our progress and provide a further update within the next 2 hours.

@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We're experiencing some issues with user permissions in our production environment for the IAM service. Some users are unable to access resources they should have access to. 
+
+We've checked our role configurations and they seem correct, but the problem persists. Could you please look into this?
+
+Thanks,
+John Doe

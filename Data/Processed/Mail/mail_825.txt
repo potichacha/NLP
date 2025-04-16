@@ -1,0 +1,16 @@
+Hi John,
+
+Thank you for your interest in our API monitoring and IAM services.
+
+We're happy to confirm that both services are tightly integrated to offer the functionalities you described. 
+
+1. **Automated Alerts based on IAM Events:** You can configure custom alerts within the API monitoring platform to be triggered by specific IAM events, including role changes, user creation, or permission modifications. Our documentation provides detailed steps on setting up these alerts: [link to documentation]
+
+2. **Role-Based Access Control for API Monitoring:**  You can leverage the roles and permissions defined within the IAM service to control access to API monitoring dashboards and metrics. This ensures that only authorized users can view sensitive information.
+
+For a more in-depth understanding, we recommend exploring our API documentation, which provides detailed information on the integration points between these services: [link to API documentation]
+
+Please let us know if you have any further questions. We're here to help!
+
+Best regards,
+Aetheros Support

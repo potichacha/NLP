@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for contacting Aetheros Support.
+
+We understand you are experiencing latency issues with your monitored APIs. We are currently investigating the issue.
+
+We will keep you updated on the situation. 
+
+Sincerely,
+Aetheros Support Team

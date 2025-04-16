@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We've been experiencing significantly slower response times from the API you developed for us over the past few days.  It's causing major slowdowns in our application and impacting our users.
+
+Could you please investigate this urgently and provide an update as soon as possible?
+
+Thanks,
+John Doe

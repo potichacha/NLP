@@ -1,0 +1,8 @@
+Hello Aetheros Support,
+
+We are facing a critical issue deploying our Mercury application on the Aetheros Cloud platform. We followed the documentation provided but encountered an error during the final stage. 
+
+Could you please provide assistance in resolving this issue?
+
+Best Regards,
+Isiah Wuckert

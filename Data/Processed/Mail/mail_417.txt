@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+We are experiencing critical issues with our cloud instance scaling. Our application, built using Mercury language, is failing to deploy new instances during peak hours. 
+
+We have checked our resource limits and they seem sufficient. We suspect there might be an issue with the auto-scaling configuration or a potential conflict with our IAM roles related to deployment permissions.
+
+Could you please investigate this urgently? This is impacting our production environment and causing significant disruption.
+
+Thanks,
+John Doe

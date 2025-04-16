@@ -1,0 +1,10 @@
+Hello Isiah,
+
+Thank you for reaching out to Aetheros Support. 
+
+While our IAM service excels at user and role management, directly limiting access to specific API endpoints requires configuration within your API gateway or application layer. We do offer comprehensive API monitoring solutions that can provide insights into API usage patterns based on user roles. 
+
+Let me know if you have questions about setting up API monitoring or need further clarification.
+
+Best regards,
+The Aetheros Support Team

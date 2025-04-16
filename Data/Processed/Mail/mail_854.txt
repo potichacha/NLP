@@ -1,0 +1,10 @@
+We are experiencing a critical issue where our Mercury application deployment to Aetheros Cloud is consistently failing. We have followed the documentation and troubleshooting steps, but the issue persists. This is causing a major disruption to our services. Please advise urgently.
+
+Error message:
+```
+Deployment failed: Invalid instance type specified.
+```
+
+We are using the following:
+* Mercury language version: 1.2.5
+Aetheros Cloud region: us-east-1

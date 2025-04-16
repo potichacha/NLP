@@ -1,0 +1,10 @@
+Dear John,
+
+We apologize for the continued latency issues you are facing. We are committed to resolving this for you.
+
+We have escalated your case to our senior engineers and they are currently investigating the root cause of the remaining latency spikes. They will be in touch with you directly within the next 24-48 hours with an update and further steps to address the issue.
+
+Thank you for your patience and understanding.
+
+Sincerely,
+Aetheros Support

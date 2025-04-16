@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for your valuable feedback! We appreciate you taking the time to suggest this improvement to our Cloud Management dashboard.
+
+We agree that a real-time visualization of resource consumption would be incredibly beneficial for our users. I've forwarded your suggestion to our product development team for consideration in future updates.
+
+In the meantime, please don't hesitate to reach out if you have any further suggestions or questions.
+
+Best regards,
+The Aetheros Support Team

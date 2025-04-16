@@ -1,0 +1,5 @@
+Dear John, Thank you for contacting Aetheros Support. We understand the urgency of your situation. We have escalated your issue to our senior engineers. Could you please provide us with the following information so we can assist you better: 
+- Mercury language version 
+- API framework you are using 
+- Relevant code snippets showcasing the issue 
+ We will look into this issue immediately and get back to you as soon as possible. Sincerely, The Aetheros Support Team

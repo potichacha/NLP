@@ -1,0 +1,14 @@
+Hi Aetheros Support,
+
+We are experiencing a critical issue in our production environment. Our Mercury code is failing to compile after updating to the latest version of the Mercury compiler.
+
+The error message we are getting is: "Unknown identifier 'Http'". We have checked our code and the documentation, but we are unable to resolve this issue.
+
+Our application is currently down, and this is causing significant disruption to our business. We need urgent assistance to resolve this issue as soon as possible.
+
+Please let us know what information you need from us to help diagnose and resolve this issue.
+
+Thanks,
+John Doe
+Lead Developer
+Example Corp

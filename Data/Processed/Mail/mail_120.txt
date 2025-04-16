@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for providing the details. We have identified the issue. The instance type you selected has limited memory resources, which are incompatible with your application's requirements. 
+
+To resolve this, please choose an instance type with at least 4GB of RAM. You can find details about instance types and their specifications on our website's pricing page.
+
+Let us know if you have any further questions.
+
+Best Regards,
+Aetheros Support Team

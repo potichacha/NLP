@@ -1,0 +1,13 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you're facing a critical issue with our IAM service. To assist you effectively, please provide the following information:
+
+* Approximate number of users affected
+* Any specific error messages users are encountering
+* Time this issue began
+* Any recent changes made related to IAM roles or permissions
+
+We will investigate this issue with the utmost priority. 
+
+Sincerely,
+The Aetheros Support Team

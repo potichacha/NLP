@@ -1,0 +1,8 @@
+Hello John,
+
+We apologize for the delayed response. We are looking into your question about asynchronous API calls in the Mercury language and will provide you with an answer as soon as possible.
+
+Thank you for your patience.
+
+Best regards,
+Aetheros Support Team

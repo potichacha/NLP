@@ -1,0 +1,12 @@
+Hi Aetheros Support Team,
+
+I'm writing to suggest a potentially valuable integration between Mercury Language and your IAM service.
+
+Currently, managing user permissions within Mercury code requires custom solutions. It would be incredibly beneficial if we could directly leverage the roles and permissions defined in your IAM service within our Mercury projects.
+
+This integration would streamline development, enhance security, and simplify user management within our applications. 
+
+Could you please consider this feature for future development?
+
+Thanks,
+John Doe

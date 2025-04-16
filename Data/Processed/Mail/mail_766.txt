@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+Please find attached the timestamps of the recent occurrences and a list of recent modifications to our infrastructure.
+
+We noticed a spike in traffic just before the issues began, potentially related to a new marketing campaign launch. However, we scaled our resources according to our usual procedures and haven't encountered such severe latency before.
+
+Let me know if you require any further information.
+
+Regards,
+John Doe

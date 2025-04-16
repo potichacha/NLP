@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for contacting Aetheros Support.
+
+We apologize for the inconvenience caused by the outdated documentation. We are currently updating our resources for Mercury Language. 
+
+In the meantime, could you please provide us with the specific version of Mercury Language you are using? This will help us provide you with the most accurate information.
+
+Best regards,
+The Aetheros Support Team

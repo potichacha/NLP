@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'hi'}
+{'user': 'Chat GPT', 'message': 'Hello! How can I assist you today?'}

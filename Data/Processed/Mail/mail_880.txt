@@ -1,0 +1,12 @@
+Hello John,
+
+Thank you for reaching out to us about this issue. To help us investigate further, could you please provide us with the following information?
+
+* Version of Mercury Language you are using
+* Relevant code snippets
+* Steps to reproduce the issue
+
+Once we have this information, we will be able to assist you further.
+
+Best regards,
+Aetheros Support Team

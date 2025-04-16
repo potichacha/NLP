@@ -1,0 +1,5 @@
+We are experiencing a critical issue where our production environment has become inaccessible after a recent change to an IAM role. We believe this may be related to Aetheros Cloud Management as the role was modified through your platform.
+
+We have verified that the role change was successful, but it seems to have broken access to some critical resources. Our team is currently locked out and unable to troubleshoot further.
+
+This is causing a major disruption to our services, and we need immediate assistance to restore access to our environment. Please advise on the next steps and estimated time to resolution.

@@ -1,0 +1,16 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support.
+
+We understand you're experiencing issues with integrating Mercury language functions and accessing your cloud database due to potential IAM authentication problems. We're here to help!
+
+To assist you better, could you please provide us with the following information?
+
+* The specific Mercury script you're using.
+* The IAM role and permissions you've assigned to the script or the entity running the script.
+* Any error messages or logs you're encountering.
+
+Once we have this information, we can investigate further and provide a solution.
+
+Best regards,
+The Aetheros Support Team

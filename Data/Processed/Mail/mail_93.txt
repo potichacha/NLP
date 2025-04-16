@@ -1,0 +1,10 @@
+Dear John,
+
+We have identified the issue. There was a minor bug in our latest system update that caused a conflict with API key revocation and IAM permissions. We have implemented a fix, and access to the API monitoring dashboards should be restored for all users.
+
+We sincerely apologize for the inconvenience this downtime caused. We take these matters very seriously and are taking steps to prevent similar issues in the future.
+
+Please don't hesitate to contact us if you experience any further problems.
+
+Sincerely,
+Aetheros Support Team

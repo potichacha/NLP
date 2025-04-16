@@ -1,0 +1,1 @@
+Thanks for the information, but I still have some questions. Can you tell me more about how Mercury integrates with other cloud providers? Also, is there a dedicated support channel for Mercury language users?

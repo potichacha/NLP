@@ -1,0 +1,12 @@
+Hi Support Team,
+
+Here's the information you requested:
+
+* **Permissions:**  'resource:read', 'resource:write'
+* **Custom Role Name:** 'DevOpsEngineer'
+* **Error Message:** 'Invalid permissions specified for role.'
+
+We're unsure why these permissions are invalid, as they seem standard. 
+
+Thanks,
+John

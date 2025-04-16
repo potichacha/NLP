@@ -1,0 +1,8 @@
+Dear John,
+
+We sincerely apologize for the extended delay and inconvenience this issue has caused. The fix has been implemented and the API response times should be back to normal now.
+
+Please let us know if you continue to experience any problems.
+
+Best regards,
+Aetheros Support Team

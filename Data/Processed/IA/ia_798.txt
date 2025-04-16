@@ -1,0 +1,28 @@
+{'user': 'Anonymous', 'message': 'Give me 30 viral video topis about Success stories of people who overcame challenges and obstaclesShare Prompt'}
+{'user': 'Anonymous', 'message': 'Give me 30 viral video ideass about Inspirational and motivational videosShare Prompt'}
+{'user': 'Anonymous', 'message': 'Give me 30 Inspirational Stories of People Who Turned Their Lives AroundShare Prompt'}
+{'user': 'Anonymous', 'message': 'MoreShare Prompt'}
+{'user': 'Anonymous', 'message': 'Give me 30 Inspirational and motivational videosShare Prompt'}
+{'user': 'Anonymous', 'message': 'Give 50 More Share Prompt'}
+{'user': 'Anonymous', 'message': 'Give me more viral and trendShare Prompt'}
+{'user': 'Anonymous', 'message': 'Share Prompt'}
+{'user': 'Anonymous', 'message': 'Give me 30 viral Inspirational and motivational ideas Share Prompt'}
+{'user': 'Chat GPT', 'message': 'Sure, here are 30 more viral inspirational and motivational ideas:'}
+{'user': 'Anonymous', 'message': 'Give me 30 Inspirational and motivational factsShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Sure, here are 30 inspirational and motivational facts:'}
+{'user': 'Anonymous', 'message': 'Give me 30 Inspirational and motivational quotesShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Sure, here are 30 inspirational and motivational quotes:'}
+{'user': 'Anonymous', 'message': 'Give me 30 Inspirational and motivational tipsShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Sure, here are 30 inspirational and motivational tips:'}
+{'user': 'Anonymous', 'message': 'Give me 30 viral Inspirational and motivational tipsShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Sure, here are 30 viral inspirational and motivational tips:'}
+{'user': 'Anonymous', 'message': 'Give me 30 how to viral Inspirational and motivational Share Prompt'}
+{'user': 'Chat GPT', 'message': 'Sure, here are 30 "how to" viral inspirational and motivational ideas:'}
+{'user': 'Anonymous', 'message': 'Give me 30 viral Inspirational and motivational reviewShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Sure, here are 30 viral inspirational and motivational review ideas:'}
+{'user': 'Anonymous', 'message': 'Give me 30 viral Inspirational and motivational videos reviewShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Certainly! Here are 30 viral inspirational and motivational videos you could review: I hope these ideas help!'}
+{'user': 'Anonymous', 'message': 'MoreShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Here are 30 more viral inspirational and motivational videos you could review: I hope you find these ideas helpful!'}
+{'user': 'Anonymous', 'message': 'Give me article review about \'\'The Power of Leadership" by JohnShare Prompt'}
+{'user': 'Chat GPT', 'message': 'Unfortunately, I cannot provide a review of an article titled "The Power of Leadership" by John as the title is incomplete and I cannot determine which specific article you are referring to. However, if you can provide me with more information about the author and publication, I will d

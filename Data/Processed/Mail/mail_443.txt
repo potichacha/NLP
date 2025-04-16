@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We've been experiencing some difficulties scaling our cloud resources effectively through your platform. Our application experiences periodic traffic spikes, and we're not seeing the automatic scaling we anticipated.
+
+Could you please advise on how we can troubleshoot this?
+
+Thanks,
+John Doe

@@ -1,0 +1,15 @@
+Hi Aetheros Support,
+
+We've been experiencing some difficulties scaling our cloud resources for our application built with Mercury.  We're using your Cloud Management platform and have hit some bottlenecks when traffic spikes. 
+
+Specifically, we're seeing:
+
+* Slow response times during peak hours
+* Database connection errors intermittently
+* Difficulty scaling instances automatically as configured
+
+Could you please provide some guidance on how to troubleshoot this and optimize our cloud configuration for better scaling?  Our current Mercury codebase relies heavily on your API framework as well, so any insights on potential interactions there would be helpful.
+
+Thanks,
+Isiah Wintheiser
+Lead Developer

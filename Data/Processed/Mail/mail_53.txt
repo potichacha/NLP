@@ -1,0 +1,8 @@
+Hi John,
+
+Thank you for reaching out. We're aware of some intermittent latency spikes affecting our API monitoring platform. Our engineers are currently investigating the issue and working on a resolution.
+
+We'll keep you updated on the progress. We apologize for any inconvenience this may cause.
+
+Best regards,
+Aetheros Support

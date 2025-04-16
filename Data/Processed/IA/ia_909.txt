@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'Hola, qué hay de nuevo?'}
+{'user': 'Chat GPT', 'message': '¡Hola! Como modelo de lenguaje, no tengo emociones ni vida personal, pero siempre estoy aquí para ayudarte con cualquier pregunta o duda que tengas. ¿En qué puedo ayudarte hoy?'}

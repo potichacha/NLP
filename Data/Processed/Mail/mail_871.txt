@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for reaching out to us and sharing your valuable suggestion! We appreciate you taking the time to provide such detailed feedback.
+
+A deeper integration between Mercury and our Cloud Management service is indeed an intriguing concept. We understand the benefits it could bring to your workflow and how it aligns with our goal of providing a seamless and powerful development experience.
+
+We have forwarded your suggestion to our product development team for their review and consideration in future roadmap planning.
+
+While we cannot promise immediate implementation, we want to assure you that we take all customer feedback seriously, and your input helps us to shape the future of our products.
+
+In the meantime, please let us know if you have any other questions or suggestions. We're always happy to hear from you.
+
+Sincerely,
+The Aetheros Support Team

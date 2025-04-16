@@ -1,0 +1,12 @@
+Hello Aetheros Support,
+
+We are experiencing severe issues with API response times for our project "Phoenix" which heavily relies on your API development services.  Since yesterday evening, we've seen response times exceeding 10 seconds, sometimes even timing out completely.
+
+This is causing major disruption to our operations and is impacting our customers. We have checked on our end and can confirm this is not related to any changes we made. 
+
+Please treat this as an urgent matter and provide an update as soon as possible.
+
+Regards,
+John Doe
+Lead Developer
+Example Company

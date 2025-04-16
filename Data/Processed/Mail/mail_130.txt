@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support. We understand you're interested in managing cloud resources within specific regions using custom IAM roles.
+
+We're currently looking into your inquiry and will get back to you as soon as possible. Could you please provide more details about your use case and the specific region you're interested in?
+
+Best regards,
+Aetheros Support Team

@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+I'm trying to integrate Mercury Language into our existing web application, but I'm encountering a persistent error. I've followed the documentation closely, but I can't seem to resolve it. 
+
+The error message I'm getting is: "Mercury Runtime Error: Invalid object reference." 
+
+Could you please provide some assistance with this issue? I'm available for a call if needed.
+
+Thanks,
+John Doe

@@ -1,0 +1,8 @@
+Hi John,
+
+Thank you for reaching out. We are aware of the intermittent latency issues with the API Monitoring dashboard and are actively working on a fix. In the meantime, you can try accessing the dashboard via this alternate link: [link removed]
+
+We apologize for the inconvenience and will keep you updated on the progress.
+
+Best regards,
+Aetheros Support

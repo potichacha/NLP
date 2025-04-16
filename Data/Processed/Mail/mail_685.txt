@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you are facing a critical issue with your production system due to a Mercury language compiler error.
+
+We are currently looking into this issue and will get back to you with an update within the next 24 hours.
+
+Best regards,
+Aetheros Support

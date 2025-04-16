@@ -1,0 +1,9 @@
+Hello Aetheros Support Team,
+
+We are experiencing a critical issue with the API you developed for us. Since this morning, we've observed a significant increase in response times, sometimes exceeding several minutes. This is causing major disruptions to our services.
+
+We need this addressed urgently. Please advise on the next steps to troubleshoot and resolve this issue as soon as possible.
+
+Sincerely,
+John Doe
+Example Company

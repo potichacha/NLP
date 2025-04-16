@@ -1,0 +1,14 @@
+Hi John,
+
+Thank you for reaching out to Aetheros Support. We understand you are experiencing a Null Pointer Exception while using lambda expressions in Mercury.
+
+To help us investigate further, could you please provide the following:
+
+* The complete error message and stack trace
+* The definition of the objects within `someList`
+* The version of the Mercury language you are currently using
+
+Once we have this information, we'll be able to assist you more effectively.
+
+Best regards,
+The Aetheros Support Team

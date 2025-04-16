@@ -1,0 +1,9 @@
+Hi Aetheros Support,
+
+We're experiencing a critical issue with API rate limiting on our production environment. Since this morning, legitimate requests are being throttled, causing significant disruption to our services. We've checked our usage and it's well within our allocated limits. 
+
+We need immediate assistance to diagnose and resolve this issue. Please advise on the next steps.
+
+Regards,
+John Doe
+Example Company

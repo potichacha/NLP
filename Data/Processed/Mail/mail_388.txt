@@ -1,0 +1,8 @@
+Hi Aetheros Support Team,
+
+I've been using your API Monitoring platform for a few weeks now and it's been very helpful. However, I have a suggestion for the dashboard. It would be great if we could customize the dashboard widgets to display specific metrics relevant to our needs. For example, being able to create a widget that shows the average latency of a particular API endpoint over a custom timeframe.
+
+This would greatly improve the platform's usability and allow us to focus on the metrics that matter most to us.
+
+Thanks,
+John Doe

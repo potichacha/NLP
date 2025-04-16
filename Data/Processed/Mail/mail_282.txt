@@ -1,0 +1,12 @@
+Hello Miguel,
+
+Thank you for reaching out to Aetheros Support.
+
+Regarding your question about custom rate limiting in Mercury, you can find detailed information and code examples in our documentation: [link to documentation].
+
+As for viewing real-time API usage metrics within the IAM service dashboard, this feature is not currently available. However, we do offer comprehensive API monitoring capabilities through our API monitoring service. You can learn more about it here: [link to API monitoring service].
+
+Let me know if you have any other questions.
+
+Best regards,
+The Aetheros Support Team

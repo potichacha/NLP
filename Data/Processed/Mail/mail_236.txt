@@ -1,0 +1,12 @@
+Hi John,
+
+Thank you for reaching out to Aetheros support. You're correct that while our IAM service allows for custom role creation, it doesn't currently support granular endpoint-level permissions for APIs. 
+
+We understand this is an important feature for many of our users, and we are actively working on implementing more fine-grained API access control in a future update to our platform.
+
+In the meantime, a potential workaround could be to implement additional authorization logic within your API application itself. This would involve checking the user's role within the API code and allowing or denying access to specific endpoints based on your internal logic.
+
+We apologize for any inconvenience this may cause and appreciate your patience as we continue to improve our services. Please let us know if you have any further questions.
+
+Best Regards,
+The Aetheros Support Team

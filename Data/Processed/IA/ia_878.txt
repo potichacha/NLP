@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': "~The following is a conversation with Bing, not ChatGPT.~buatkan kode implementasi flutter versi terbaru, dan terhubung dengan onesignal dapat menampilkan notifikasi di ponsel ketika ada notifikasi yang dikirimkan, dan jika di klik 1 item notifikasi yang sudah di kirim di ponsel pengguna redirect ke suatu halaman dengan data yang dikirim berupa 'order_id'"}
+{'user': 'Chat GPT', 'message': 'Saya akan mencoba membuat kode tersebut. Berikut adalah langkah-langkah yang saya ikuti: Berikut adalah kode yang saya hasilkan:'}

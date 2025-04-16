@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you're experiencing discrepancies with your API monitoring dashboard data.
+
+To help us investigate further, could you please provide the following information:
+
+* **Affected API endpoints:**
+* **Timeframe of the discrepancies:**
+* **Screenshots of the discrepancies from your dashboard and application logs:**
+
+Once we have this information, we'll be able to assist you more effectively.
+
+Best regards,
+Aetheros Support Team

@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for the additional information. Our team has investigated the issue and identified that the latency spikes were due to insufficient database resources allocated to your application during peak hours. 
+
+We have adjusted the resource allocation to accommodate the increased load. Please monitor your application and let us know if you experience any further issues.
+
+Best regards,
+Aetheros Support Team

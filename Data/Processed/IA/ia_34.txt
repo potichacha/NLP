@@ -1,0 +1,4 @@
+{'user': 'Anonymous', 'message': '我想開發一個 LINE Chatbot 可以做到像 ChatGPT 一樣，當用戶使用“文字”提出問題的時候，這個 LINE Chatbot 也能針對用戶提出的問題進行回應，一下是我的需求 1. 使用 node js 2. 使用 @line/bot-sdk 並建立 webhook 3. 使用 OpenAI 的 ChatGPT 的 API 4. 用戶可以使用任何語言輸入，但是 ChatGPT 一定要使用繁體中文 5. 要可以放在 AWS Lambda 上 我不需要了解基本概念，只需要程式碼'}
+{'user': 'Chat GPT', 'message': '首先，您可以建立一個 LINE Chatbot，並使用 @line/bot-sdk 建立 webhook 以接收用戶的訊息。 接下來，您可以使用 OpenAI 的 ChatGPT API 來進行回應。您需要在 OpenAI 的網站上註冊一個帳戶並申請一個 API 密鑰。 接著，您可以使用以下的程式碼來處理用戶的訊息： 請注意，上述程式碼僅提供了大略的概念。您可能需要根據您的需求進行更多的自訂設定。 最後，您可以將此'}
+{'user': 'Anonymous', 'message': '請繼續寫下去'}
+{'user': 'Chat GPT', 'message': '確實，我剛剛忘記繼續寫下去了。在此補上。 您可以將此函式部署在 AWS Lambda 上，並在 LINE Developers 平台上設定 webhook URL 以接收用戶的訊息。 請注意，您需要在 OpenAI 的網站上購買 ChatGPT 的使用權，才能使用它的 API。此外，您需要注意 API 的使用限制，以免超過配額或超支。 希望這些資訊對您有所幫助。'}

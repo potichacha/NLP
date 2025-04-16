@@ -1,0 +1,12 @@
+Hi Aetheros Support Team,
+
+I'm writing to suggest an improvement for the Mercury language concerning its integration with the IAM service. 
+
+Currently, we're finding it somewhat cumbersome to manage fine-grained permissions for different user roles within our Mercury API code. It would be incredibly beneficial if Mercury had built-in support for role-based access control (RBAC) that directly interacts with the Aetheros IAM service.
+
+This would allow us to define roles and permissions within the IAM service and then easily enforce those rules within our Mercury code, making our API development process much smoother and more secure.
+
+Thank you for considering this suggestion. I believe it would significantly enhance the Mercury development experience.
+
+Sincerely,
+John Doe

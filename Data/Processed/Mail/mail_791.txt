@@ -1,0 +1,12 @@
+Dear Devon,
+
+Thank you for providing the additional information.
+
+Our engineers have identified the root cause of the issue and are working to restore your database cluster.
+
+We understand the urgency of the situation and are doing everything we can to resolve it as quickly as possible.
+
+We will keep you updated on our progress.
+
+Sincerely,
+Aetheros Support Team

@@ -1,0 +1,5 @@
+We are experiencing a critical issue with Aetheros IAM service. We are unable to assign specific roles to users within our organization, causing disruptions to our workflows. 
+
+Specifically, attempts to assign the "Developer" role are met with an error message stating "Insufficient Privileges."  We have confirmed that the user attempting the assignment has the necessary permissions according to your documentation.
+
+This is a high-priority issue as it's preventing our developers from accessing essential resources. We require immediate assistance to resolve this.

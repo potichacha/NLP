@@ -1,0 +1,16 @@
+Hi,
+
+Here's the information you requested:
+
+* Latency spikes occurred on:
+    * October 25th, between 14:00 and 15:00 UTC
+    * October 26th, around 11:30 UTC
+* We haven't encountered any specific error messages related to the latency.
+* Our staging environment:
+    * Instance size: c4.xlarge
+    * Region: us-east-1
+
+Let me know if you need anything else.
+
+Regards,
+John

@@ -1,0 +1,10 @@
+Hi Isabella,
+
+Thank you for reaching out. We see the latency spikes you are referring to for Project Phoenix API (api-phoenix-7492). 
+
+Our preliminary analysis indicates potential bottlenecks related to a recent Mercury language script update. Could you please confirm if you updated any Mercury scripts associated with this API recently? 
+
+We'll continue to investigate from our end. In the meantime, providing more details on any recent changes might help us identify the issue faster.
+
+Best regards,
+Aetheros Support Team

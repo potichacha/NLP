@@ -1,0 +1,10 @@
+La valeur de l'indice de bruit, Lden, représentant le niveau d'exposition totale au bruit des avions en chaque point de l'environnement d'un aérodrome, exprimée en décibels (dB), est calculée conformément à la formule suivante :
+
+Lden = 10 × log [1/24 × (12 × 10 Ld / 10 + 4 × 10 (Le + 5)/10 + 8 × 10 (Ln + 10)/10)].
+avec :
+
+Ld = 
+niveau sonore moyen à long terme pondéré A tel que défini par la norme ISO 1996-2:1987, déterminé sur l'ensemble des périodes de jour d'une année. La période de jour s'étend de 6 heures à 18 heures ;
+
+Le = niveau sonore moyen à long terme pondéré A tel que défini par la norme ISO 1996-2:1987, déterminé sur l'ensemble des périodes de soirée d'une année. La période de soirée s'étend de 18 heures à 22 heures ;
+Ln = niveau sonore moyen à long terme pondéré A tel que défini par la norme ISO 1996-2:1987, déterminé sur l'ensemble des périodes de nuit d'une année. La période de nuit s'étend de 22 heures à 6 heures le lendemain.

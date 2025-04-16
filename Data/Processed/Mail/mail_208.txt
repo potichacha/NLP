@@ -1,0 +1,11 @@
+We're facing a critical issue integrating our Mercury language scripts with the Aetheros IAM service.  We're unable to properly enforce role-based access controls within our application due to what seems like a conflict between Mercury's authorization model and the IAM roles. This is causing a major security vulnerability in our production environment.
+
+Specifically, we're encountering the following error when attempting to access protected resources using Mercury:
+
+```
+Mercury Authorization Error: Access denied for role 'viewer' to resource '...' 
+```
+
+We've verified that the user has the correct role assigned in the IAM console, and the resource permissions are correctly configured. This issue seems to stem from a mismatch in how Mercury interacts with the IAM service.
+
+We need an urgent resolution to this issue as it's impacting our live application and posing a significant security risk. Please advise on how to proceed.

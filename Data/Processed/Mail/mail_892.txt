@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you're experiencing issues deploying your Mercury code to our cloud platform. 
+
+To better assist you, could you please provide us with the following information:
+
+* The specific error message you're receiving.
+* The version of the Mercury language you are using.
+* Your Aetheros Cloud account ID.
+
+Once we have this information, we can investigate the issue further and provide a solution.
+
+Sincerely,
+Aetheros Support Team

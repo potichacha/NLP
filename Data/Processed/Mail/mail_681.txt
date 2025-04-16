@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm writing to suggest an improvement to your IAM service. It would be incredibly helpful if your platform supported role inheritance. For example, we'd like to have a 'developer' role inherit permissions from a more basic 'viewer' role. This would simplify our role management significantly.
+
+Let me know your thoughts on this and if this is something you might consider implementing in the future.
+
+Thanks,
+John Doe

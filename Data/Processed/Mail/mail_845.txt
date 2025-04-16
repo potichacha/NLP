@@ -1,0 +1,12 @@
+Hi,
+
+Please find the requested information below:
+
+* **Affected API endpoints:** /users, /orders
+* **Timeframe of the discrepancies:** Ongoing since yesterday, October 25th.
+* **Screenshots:** [link to screenshots]
+
+Let me know if you require anything else.
+
+Regards,
+John

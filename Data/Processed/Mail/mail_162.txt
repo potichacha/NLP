@@ -1,0 +1,8 @@
+Thank you for contacting Aetheros Support.
+
+We understand you are experiencing issues with false positive alerts from the API Monitoring service.  We are currently looking into this issue. 
+
+Can you please provide your Aetheros account ID and the specific API endpoints that are generating the false alerts? This will help us to investigate the problem more efficiently.
+
+Sincerely,
+Aetheros Support

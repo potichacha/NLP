@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm having trouble getting role-based permissions to work correctly within a Mercury language script. I've defined roles and assigned users to them in your IAM service, but the script doesn't seem to be respecting those permissions when making API calls.
+
+Could you please provide some guidance or documentation on how to properly integrate IAM roles with Mercury scripts?
+
+Thanks,
+John Doe

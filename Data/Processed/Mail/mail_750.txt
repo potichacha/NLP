@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I realized the issue was actually with my database configuration within the lambda environment. I had forgotten to set the necessary environment variables. After setting them correctly, the connection was successful, and the code is working as expected.
+
+Thank you for your help and apologies for the trouble.
+
+Best,
+John Doe

@@ -1,54 +1,46 @@
-import requests, os, re
-from bs4 import BeautifulSoup
+from datasets import load_dataset
+import os
+import logging
 
-BASE_URL = "https://gallica.bnf.fr/services/ajax/action/search/"
-QUERY = "histoire"
-HEADERS = {'User-Agent': 'Mozilla/5.0'}
-BASE_DIR_RAW = "../data/raw/gallica_histoire"
-BASE_DIR_PROCESSED = "../data/processed/gallica_histoire"
+# === CONFIGURATION ===
+DATASET_NAME = "Nadav/historical_texts"
+OUTPUT_DIR = "../Data/Processed/Histoire"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+MAX_FILES = 1000
 MAX_CHARS = 3000
 
-def clean_and_trim_text(text):
-    text = re.sub(r'\s+', ' ', text).strip()
-    return text[:MAX_CHARS]
+# === LOGGING ===
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logging.info("📜 Début de l'extraction du dataset historique")
 
-def scrape_gallica(max_files=1000):
-    os.makedirs(BASE_DIR_RAW, exist_ok=True)
-    os.makedirs(BASE_DIR_PROCESSED, exist_ok=True)
+# === Chargement en streaming
+dataset = load_dataset(DATASET_NAME, split="train", streaming=True)
+logging.info(f"📦 Dataset '{DATASET_NAME}' chargé en mode streaming.")
 
-    downloaded = 0
-    page = 1
+# === Traitement
+count = 0
+for row in dataset:
+    texte = row.get("text")
 
-    while downloaded < max_files:
-        params = {
-            "query": QUERY,
-            "page": page
-        }
-        response = requests.get(BASE_URL, params=params, headers=HEADERS).json()
-        docs = response.get('docs', [])
+    if isinstance(texte, list):
+        texte = " ".join(texte)
+    if not texte or len(texte) < 200:
+        logging.debug("⏩ Texte trop court ou vide, ignoré")
+        continue
 
-        if not docs:
-            break
+    trimmed = texte[:MAX_CHARS].strip()
 
-        for doc in docs:
-            if downloaded >= max_files:
-                break
+    try:
+        with open(os.path.join(OUTPUT_DIR, f"historique_{count + 1}.txt"), "w", encoding="utf-8") as f:
+            f.write(trimmed)
+        logging.info(f"✅ Historique {count + 1} sauvegardé")
+        count += 1
+    except Exception as e:
+        logging.warning(f"⚠️ Erreur sauvegarde fichier {count + 1}: {e}")
+        continue
 
-            title = doc['title']
-            text = doc.get('texteBrut', '')
+    if count >= MAX_FILES:
+        break
 
-            if text:
-                with open(f"{BASE_DIR_RAW}/{downloaded+1}.txt", "w", encoding="utf-8") as f:
-                    f.write(text)
-
-                processed = clean_and_trim_text(text)
-                with open(f"{BASE_DIR_PROCESSED}/{downloaded+1}.txt", "w", encoding="utf-8") as f:
-                    f.write(processed)
-
-                print(f"{downloaded+1}: {title}")
-                downloaded += 1
-
-        page += 1
-
-if __name__ == "__main__":
-    scrape_gallica()
+logging.info(f"🏁 Extraction terminée : {count} fichiers historiques sauvegardés dans '{OUTPUT_DIR}'")

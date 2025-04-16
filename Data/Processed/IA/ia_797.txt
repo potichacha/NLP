@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': '어린이집 CCTV'}
+{'user': 'Anonymous', 'message': 'Continue writing please'}

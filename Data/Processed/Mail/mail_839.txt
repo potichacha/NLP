@@ -1,0 +1,10 @@
+Hi Aetheros Support Team,
+
+We are experiencing significant delays in API response times for our application which is built using your API development services. This is causing major disruptions to our operations.
+
+We have been observing this issue for the past few hours and it seems to be getting worse. Our initial investigation suggests it might be related to the API endpoint for [mention specific endpoint]. 
+
+Could you please investigate this urgently and provide an update as soon as possible?
+
+Thanks,
+John Doe

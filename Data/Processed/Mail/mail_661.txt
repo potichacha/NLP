@@ -1,0 +1,14 @@
+Hi John,
+
+Thank you for reaching out to Aetheros Support. We understand you're experiencing difficulties deploying your Mercury language application.
+
+To better assist you, could you please provide us with the following information?
+
+- The complete error message you are encountering.
+- The steps you have taken so far to troubleshoot the issue.
+- A copy of your deployment configuration files, if possible.
+
+Once we have this information, we'll be able to investigate further and provide you with a solution.
+
+Best regards,
+Aetheros Support Team

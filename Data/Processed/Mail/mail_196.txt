@@ -1,0 +1,16 @@
+Hello Aetheros Support,
+
+We are evaluating Aetheros for our API management needs and are particularly interested in the IAM service and its integration with the API Gateway.
+
+Could you please provide some information on how granular we can get with role-based access control for our APIs? Specifically, can we define permissions based on:
+
+* HTTP methods (GET, POST, PUT, DELETE)
+* Specific API endpoints or resources
+* Request headers or payload data
+
+We are also interested in understanding how these roles can be managed programmatically through your APIs or SDKs. 
+
+Thank you in advance for your assistance.
+
+Sincerely,
+Isabella Fernandez

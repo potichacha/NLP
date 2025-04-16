@@ -1,0 +1,19 @@
+{'user': 'Anonymous', 'message': 'Which of the following is based on the publish-subscribe model? a. MQTT b. HTTP c. HTTPS d. All of these'}
+{'user': 'Chat GPT', 'message': 'a. MQTT is based on the publish-subscribe model.'}
+{'user': 'Anonymous', 'message': 'In MQTT, a topic to which a client is subscribed is updated in the form of messages and distributed by the a. Publishers b. Message Broker c. Subscribers d. All of these'}
+{'user': 'Chat GPT', 'message': 'b. The topic to which a client is subscribed is updated in the form of messages and distributed by the Message Broker.'}
+{'user': 'Anonymous', 'message': 'Which of the following is used when more than one level needs to be subscribed, such as the entire sub-tree, i.e., a multilevel wildcard? a. + b. # c. \\ d. None of these'}
+{'user': 'Chat GPT', 'message': 'b. The "#" symbol is used as a multilevel wildcard in MQTT to subscribe to multiple levels of topics.'}
+{'user': 'Anonymous', 'message': 'The CoAP protocol is designed for -. a. Heavy Web Application b. Publish-Subscribe Applications c. Machine-to-Machine (M2M) applications d. Both (a) and (b)'}
+{'user': 'Chat GPT', 'message': 'c. The Constrained Application Protocol (CoAP) is designed for Machine-to-Machine (M2M) applications.'}
+{'user': 'Anonymous', 'message': 'Which of the above statement/statements is/are correct? a. Only Statement I b. Only Statement II c. Both Statement I and II d. Statement I Correct but Statement II Incorrect'}
+{'user': 'Chat GPT', 'message': "I'm sorry, but I need more information to provide an accurate answer. Can"}
+{'user': 'Anonymous', 'message': 'Statement I - The messaging sub-layer of CoAP, is responsible for reliability and duplication of messages. Statement II – The request/response sub-layer is responsible for communication. Which of the above statement/statements is/are correct? a. Only Statement I b. Only Statement II c. Both Statement I and II d. Statement I Correct but Statement II Incorrect'}
+{'user': 'Chat GPT', 'message': 'c. Both Statement I and II are correct. In CoAP, the messaging sub-layer is responsible for reliability and duplication of messages, while the request/response sub-layer is responsible for communication.'}
+{'user': 'Anonymous', 'message': 'Which of the following is a messaging mode in CoAP? a. Append b. Substitute c. Attempt d. Separate'}
+{'user': 'Chat GPT', 'message': 'd. Separate is a messaging mode in CoAP.'}
+{'user': 'Anonymous', 'message': 'Which of the following provides for the discovery of services residing locally or across a network? a. Internet b. SMQTT c. XMPP d. CoAP'}
+{'user': 'Chat GPT', 'message': 'd. CoAP provides for the discovery of services residing locally or across a network.'}
+{'user': 'Anonymous', 'message': 'AMQP is a protocol of which layer? a. Transport Layer b. Application Layer c.Network Layer d. Session Layer'}
+{'user': 'Chat GPT', 'message': 'b. AMQP (Advanced Message Queuing Protocol) is a protocol for the Application Layer.'}
+{'user': 'Anonymou

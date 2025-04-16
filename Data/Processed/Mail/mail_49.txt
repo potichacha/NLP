@@ -1,0 +1,16 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you are experiencing a critical issue with IAM permissions affecting your production environment.
+
+We are currently investigating the issue and will provide an update as soon as possible. 
+
+In the meantime, could you please provide the following information so we can better assist you:
+
+* Affected API endpoints
+* Timestamp of when the issue began
+* Screenshots of any error messages
+
+Thank you for your patience.
+
+Sincerely,
+Aetheros Support

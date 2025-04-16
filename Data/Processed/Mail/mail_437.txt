@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for reaching out to us. We understand the severity of your situation and apologize for any inconvenience caused. 
+
+To help us diagnose the issue efficiently, could you please provide the following details:
+
+* API logs showing the unauthorized access attempts
+* Screenshots of the inconsistent permission handling
+* Your application's integration code snippet related to Aetheros IAM
+
+Once we have this information, our team will investigate and assist you in resolving the issue promptly.
+
+Best regards,
+Aetheros Support Team

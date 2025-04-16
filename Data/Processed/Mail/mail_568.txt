@@ -1,0 +1,1 @@
+The issue seems intermittent and affects various permissions across different roles. We estimate around 20% of our users are impacted at different times.  The problem started yesterday afternoon. We haven't made any recent changes to our IAM configuration.

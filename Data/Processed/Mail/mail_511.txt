@@ -1,0 +1,14 @@
+Hi Aetheros Support,
+
+We're evaluating Aetheros for our API development needs and are particularly interested in the Mercury language and its integration with your IAM service.
+
+Could you please provide some information on how Mercury simplifies role-based access control (RBAC) implementation in APIs? Specifically, we'd like to know:
+
+* How are roles and permissions defined and enforced within Mercury code?
+* Does Mercury offer any built-in functions or libraries for interacting with the Aetheros IAM service?
+* Are there any code examples or documentation that demonstrate how to implement RBAC using Mercury and Aetheros IAM?
+
+Thank you for your time and assistance.
+
+Sincerely,
+John Doe

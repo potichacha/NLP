@@ -1,0 +1,1 @@
+Dear John, We have resolved the issue with the API monitoring dashboard. It was a temporary data synchronization problem. The dashboard should now be populated with real-time data. We apologize for any inconvenience this may have caused. Please don't hesitate to contact us if you experience any further issues.

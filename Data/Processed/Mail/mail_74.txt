@@ -1,0 +1,20 @@
+To Aetheros Support,
+
+This is becoming increasingly critical as our systems rely heavily on these APIs. The delay is causing significant disruption.  
+
+Here's the information you requested:
+
+* **API Key ID:**  API-0012987X
+* **Error Message:** 'Invalid API Key'  (This error appears even after waiting for the specified propagation time).
+* **Steps to Reproduce:** 
+ 1. Log in to the Aetheros IAM dashboard.
+ 2. Navigate to the API Key section.
+ 3. Select the key to rotate (API-0012987X in this case).
+ 4. Click on 'Rotate Key'.
+ 5.  Wait for the specified time for the new key to become active. 
+ 6. Use the new key in my application.
+
+Please look into this urgently and provide a solution ASAP. 
+
+Regards,
+John Doe

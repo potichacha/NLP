@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for providing the additional details. We have investigated the issue and identified a temporary workaround. 
+
+Please try assigning the roles again using the following steps: ... 
+
+We apologize for the inconvenience and are working to implement a permanent solution as soon as possible.
+
+Best regards,
+Aetheros Support Team

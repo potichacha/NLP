@@ -1,0 +1,8 @@
+Dear John,
+
+We have identified the issue.  There was a temporary outage in our cloud platform that was causing deployment failures. The issue has now been resolved. Could you please try deploying your code again? 
+
+We apologize for any inconvenience this may have caused. Please let us know if you experience further issues.
+
+Sincerely,
+Aetheros Support Team

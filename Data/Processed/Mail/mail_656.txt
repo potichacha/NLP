@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+We're experiencing a critical issue with our API authentication after updating an IAM role in our production environment yesterday. 
+
+We are using your API development and IAM services. Since the role update, all API requests using this role are failing with a 403 Forbidden error. We have verified that the API keys are correct and haven't expired. 
+
+This is causing a major disruption to our live application. We need this resolved urgently. Please advise on the next steps to troubleshoot and fix this issue as soon as possible.
+
+Sincerely,
+Isabella Davis
+Lead Backend Engineer
+Agrotech

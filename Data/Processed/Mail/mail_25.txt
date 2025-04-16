@@ -1,0 +1,14 @@
+Hi,
+
+Here's the information you requested:
+
+* **Timeframe:** Started around October 20th.
+* **Frequency:** Sporadic, seemingly random. Sometimes multiple times an hour, other times nothing for several hours.
+* **Affected APIs:** Primarily affecting our payment processing API (endpoints /payment/process and /payment/verify).
+* **Cloud Platform:** We're using AWS.
+* **Recent Changes:** We did deploy an update to our API on October 18th, but it was a minor update and shouldn't have caused these issues.
+
+Let me know what you find.
+
+Regards,
+Kenneth

@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We've recently started using Aetheros for our new API deployment, specifically for cloud management and an endpoint related to user authentication. While everything mostly works well, we're encountering intermittent latency spikes on this specific endpoint. 
+
+The latency isn't consistent and doesn't seem tied to any particular load pattern. We've checked our end, and everything seems fine. Could you please investigate this issue?
+
+Thanks,
+John Doe

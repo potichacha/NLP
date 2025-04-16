@@ -1,0 +1,8 @@
+Hi,
+
+It has been almost 24 hours since we reported this issue, and we haven't received any concrete updates on the resolution. Our team is still unable to monitor the production APIs, which is causing significant disruption to our workflow.
+
+Can you please provide a timeline for the resolution or any workaround that we can implement for the time being?
+
+Regards,
+John

@@ -1,0 +1,19 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of the situation and are here to assist you.
+
+To help us investigate further, could you please provide the following information:
+
+* **Cloud Resources Scaling:**
+    * What specific cloud resources are you concerned about (e.g., virtual machines, databases)?
+    * Can you share any relevant performance metrics or logs?
+    * When did the issue first occur?
+* **IAM Role Inconsistency:**
+    * Which specific users are experiencing access issues?
+    * What resources are they unable to access?
+    * Can you provide the exact error messages they encounter?
+
+Once we have this information, we can start troubleshooting the issues effectively.
+
+Best regards,
+Aetheros Support

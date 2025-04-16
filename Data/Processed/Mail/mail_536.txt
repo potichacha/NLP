@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+I'm working with the Mercury language for the first time and having some trouble finding clear documentation on how to implement asynchronous API calls. Could you point me in the right direction?
+
+Thanks,
+John Doe

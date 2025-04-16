@@ -1,0 +1,9 @@
+Our team is experiencing a critical issue with API Monitoring. We are not seeing any data populated on the dashboard for our production APIs since yesterday evening. 
+
+This is a major disruption to our operations as we rely heavily on your monitoring service for real-time insights and incident response.
+
+Please investigate this issue with utmost urgency and provide an update at the earliest.
+
+Regards,
+John Doe
+DevOps Lead

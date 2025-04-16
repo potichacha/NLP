@@ -1,0 +1,10 @@
+Hello Aetheros Support Team,
+
+We are experiencing a critical issue with API response times for the API you developed for us. Since yesterday evening, response times have increased drastically, causing significant disruption to our services.
+
+We are currently seeing response times of over 60 seconds, which is unacceptable for our real-time application. We have checked our end for any potential issues, and everything seems to be functioning correctly.
+
+We need this resolved urgently. Please advise on the next steps and expected resolution time.
+
+Sincerely,
+John Doe

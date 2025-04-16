@@ -1,0 +1,15 @@
+Aetheros Support Team,
+
+Here's the information you requested:
+
+* **Affected API endpoints:** 
+    * /api/v1/users
+    * /api/v2/orders
+    * /api/v1/products
+* **Timeframe:** The issues started appearing around 08:00 AM UTC today.
+* **Screenshots:** I've attached screenshots of our monitoring dashboards highlighting the latency spikes.
+
+We are still experiencing these intermittent spikes, and our customers are severely impacted. Please prioritize resolving this issue.
+
+Thanks,
+John

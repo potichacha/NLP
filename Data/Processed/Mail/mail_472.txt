@@ -1,0 +1,8 @@
+Dear Malcolm,
+
+Thank you for contacting Aetheros Support. We understand you are experiencing a critical issue with your production system being down.
+
+We are currently investigating the issue and will provide an update as soon as we have more information. In the meantime, please provide us with your Aetheros account ID and the affected cloud instance IDs so we can assist you further.
+
+Sincerely,
+Aetheros Support Team

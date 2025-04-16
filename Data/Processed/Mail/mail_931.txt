@@ -1,0 +1,7 @@
+Thank you for contacting Aetheros Support. We understand this is a critical issue and are working to assist you as quickly as possible. Can you please provide the following information so we can better understand the problem:
+
+* The specific IAM roles affected
+* A code snippet of the Mercury language script you used to update the roles
+* The approximate time the issue started occurring
+
+A support engineer will be in touch shortly to help you further.

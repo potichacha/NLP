@@ -1,0 +1,3 @@
+Our production environment is currently down. We're experiencing a critical issue where our cloud resources are inaccessible due to what seems like an IAM authentication failure.  We cannot deploy any hotfixes and our monitoring systems are also impacted. This is causing a major outage for our services. We need immediate assistance to resolve this issue.
+
+We suspect there might be a problem with the latest IAM role permissions update we made yesterday. Please advise on the best course of action to restore our systems ASAP.

@@ -1,0 +1,11 @@
+We are experiencing a critical issue with the Mercury Language compiler in our production environment. 
+
+Since updating to the latest version (v2.3.1), our API build is failing with the following error:
+
+```
+[ERROR] Mercury Compiler - Unexpected token '->'
+```
+
+This is impacting our live API and causing significant disruption to our services. We have rolled back to the previous compiler version for now, but this is not a sustainable solution.
+
+Please advise on a fix or workaround as soon as possible.

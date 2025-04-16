@@ -1,0 +1,14 @@
+Dear Isiah,
+
+Thank you for reaching out to Aetheros Support.
+
+We understand you are interested in implementing API rate limiting through our Cloud Management service.  While we don't have built-in rate limiting features within Cloud Management at this time, we do offer robust API monitoring capabilities.
+
+Our API Monitoring service allows you to track API usage in real time and set up alerts based on specific thresholds. You can then use this information to implement rate limiting through your application code or a third-party API gateway service.
+
+We are always working to improve our services, and we appreciate your feedback regarding the need for built-in rate limiting in Cloud Management. We will definitely take this into consideration for future development.
+
+Please let us know if you have any other questions or need further assistance.
+
+Sincerely,
+Aetheros Support

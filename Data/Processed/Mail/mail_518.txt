@@ -1,0 +1,6 @@
+Dear John Doe,
+
+Thank you for contacting Aetheros support. We understand you are experiencing critical issues with API access and the monitoring dashboard. We have escalated this issue to our senior engineers and are actively investigating the root cause. We will keep you updated on our progress.
+
+Sincerely,
+The Aetheros Support Team

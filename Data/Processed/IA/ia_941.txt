@@ -1,0 +1,2 @@
+{'user': 'Chat GPT', 'message': 'Omschrijf in je eigen woorden wat een DDos-aanval is en waarom deze aanvallen plaatsvinden. Gebruik hiervoor minimaal 100 woorden. Zoek hiervoor informatie via een zoekmachine.'}
+{'user': 'Chat GPT', 'message': 'Omschrijf in je eigen woorden wat een DDos-aanval is en waarom deze aanvallen plaatsvinden. Gebruik hiervoor minimaal 100 woorden. Zoek hiervoor informatie via een zoekmachine.'}

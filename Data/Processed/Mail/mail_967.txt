@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm seeing a strange spike in latency for one of my APIs being monitored by your platform.  It started around 9:30 AM EST today.  Nothing has changed on my end, so I'm wondering if there might be a platform issue?
+
+API Name: ProductCatalogAPI
+
+Thanks,
+John Doe

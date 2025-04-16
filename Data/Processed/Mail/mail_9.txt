@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+Here is the information you requested:
+
+* Account ID: 87654321
+* Time issue started: Approximately 8:00 AM UTC
+* Recent changes: We deployed a minor update to our user authentication module.
+
+Thanks,
+John Doe

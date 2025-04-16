@@ -1,0 +1,5 @@
+We are experiencing critical issues with user access to our APIs. Since yesterday evening, numerous users are reporting "Permission Denied" errors, even for endpoints they should have access to. We are using Aetheros IAM for user management and API access control.
+
+We have verified that the users are assigned to the correct roles and the roles have the necessary permissions on the affected APIs. We haven't made any recent changes to our IAM configuration or API settings. 
+
+This issue is severely impacting our operations and we need immediate assistance to resolve it. Please advise ASAP.

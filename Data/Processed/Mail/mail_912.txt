@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for contacting Aetheros support.  We understand that you're experiencing difficulties with integrating your new API with our IAM service. To help us diagnose the issue more effectively, could you please provide us with the following information?
+
+1.  The specific error messages you are receiving from the IAM service.
+2.  A code snippet demonstrating how you are making the authentication request to the IAM service.
+3.  The version of the Mercury SDK you are currently using.
+
+Once we have this information, we'll be able to investigate further and provide you with a solution as quickly as possible.
+
+Sincerely,
+The Aetheros Support Team

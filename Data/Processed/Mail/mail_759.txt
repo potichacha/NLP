@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm having trouble finding clear documentation on how to implement user authentication in Mercury language. The existing documentation seems outdated and doesn't cover the specific IAM integration I need.
+
+Could you please point me to the correct resources or provide some guidance on this?
+
+Thanks,
+John Doe

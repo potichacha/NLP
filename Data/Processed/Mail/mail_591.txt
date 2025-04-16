@@ -1,0 +1,5 @@
+Thank you for contacting Aetheros Support. We understand you are experiencing an issue with the IAM service integration in your Mercury application.
+
+Could you please provide more details about your implementation, including the specific versions of Mercury and the IAM service you are using? Additionally, sharing a code snippet demonstrating the issue would be helpful in our investigation.
+
+We will look into this further and get back to you as soon as possible.

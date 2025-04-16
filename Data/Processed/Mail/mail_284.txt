@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+I'm writing to suggest an improvement for the IAM service, specifically regarding role inheritance. It would be incredibly beneficial if the IAM service supported a more granular approach to role inheritance. Currently, we have situations where a child role inherits all permissions from the parent role, which isn't always ideal.
+
+For instance, we might have a 'Developer' role that needs access to specific cloud resources for development purposes. We then have a 'Senior Developer' role that needs all the permissions of a 'Developer' but with additional access, say, to production logs.
+
+With a more granular inheritance model, we could assign only the necessary permissions to the 'Developer' role and then selectively inherit and add permissions for the 'Senior Developer' role. This would significantly improve security and management within our organization.
+
+Could you consider implementing a more fine-grained role inheritance feature in the IAM service?
+
+Thanks,
+John Doe

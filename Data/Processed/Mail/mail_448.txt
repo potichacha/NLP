@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you are experiencing a critical issue with your production server (srv-4829xyz).
+
+Our team is investigating the issue and will provide an update as soon as possible. We apologize for the inconvenience caused.
+
+Best Regards,
+Aetheros Support Team

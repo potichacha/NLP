@@ -1,0 +1,14 @@
+Hi Aetheros Support,
+
+We're evaluating your API development services for a new project, and we had a few questions about rate limiting:
+
+1. Do you offer built-in rate limiting for APIs developed through your platform?
+2. What level of granularity is available for setting rate limits (e.g., per user, per IP, per API key)?
+3. Can we customize rate limit responses, or are they standardized?
+
+We're hoping to find a solution that gives us fine-grained control over API usage to ensure performance and security. 
+
+Thanks in advance for your help.
+
+Sincerely,
+John Doe

@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm having a bit of trouble understanding how to restrict user access to specific cloud resources within my application. I've set up different roles in the IAM service, but I can't seem to link these roles to specific resources within my cloud environment. 
+
+Is there a way to achieve this level of granularity? 
+
+Thanks,
+John Doe

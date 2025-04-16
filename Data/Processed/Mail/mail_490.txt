@@ -1,0 +1,14 @@
+Dear Isiah,
+
+Thank you for reaching out to us regarding the scaling and latency issues you're experiencing. We understand this is impacting your application performance, and we're committed to assisting you in resolving these matters.
+
+To help us investigate further, could you please provide us with the following information?
+
+*  Specific times and dates when you experienced the issues
+*  Screenshots or error logs (if any)
+*  Any recent changes made to your application or cloud configuration
+
+Once we have this information, we can start our investigation and provide you with a solution as quickly as possible.
+
+Sincerely,
+The Aetheros Support Team

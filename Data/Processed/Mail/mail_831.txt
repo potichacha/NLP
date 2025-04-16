@@ -1,0 +1,10 @@
+Hi John,
+
+We investigated the latency spikes you reported and identified the root cause was related to a temporary network congestion issue on our end. We have implemented a fix for this, and you should no longer experience these spikes. 
+
+We apologize for any inconvenience this may have caused.
+
+Please let us know if you have any further questions.
+
+Sincerely,
+Aetheros Support Team

@@ -1,0 +1,8 @@
+Hi,
+
+I'm not sure how the cloud environment is relevant to my question about custom error types in Mercury itself. I'm simply looking for documentation or examples within the Mercury language itself, regardless of the deployment environment.
+
+Can you please advise?
+
+Regards,
+John

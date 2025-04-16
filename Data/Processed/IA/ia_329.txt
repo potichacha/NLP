@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': '用户成长体系，实体包包括哪些内容'}
+{'user': 'Anonymous', 'message': '继续'}

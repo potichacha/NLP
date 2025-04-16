@@ -1,0 +1,12 @@
+Dear Isiah,
+
+Thank you for your email and for the suggestion regarding async/await support in Mercury. We appreciate you taking the time to share your thoughts on how we can improve our language.
+
+We understand the benefits that async/await syntax brings to asynchronous programming, and we acknowledge the growing popularity of this feature in modern languages.  We've taken note of your suggestion and will be discussing it with our development team in our upcoming roadmap planning sessions.
+
+While we can't promise if or when this feature will be implemented, we value your feedback and will keep it in mind as we continue to develop and evolve Mercury.
+
+Thanks again for your suggestion.
+
+Sincerely,
+The Aetheros Support Team

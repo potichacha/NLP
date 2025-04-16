@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you are facing difficulties deploying your API gateway and will be happy to assist.
+
+To better understand the issue, could you please provide us with the following information?
+
+* The specific error message you are encountering
+* The configuration files for your API gateway
+* The steps you have taken to troubleshoot the issue so far
+
+Once we have this information, we will be able to investigate the problem further and provide you with a solution.
+
+Best regards,
+Aetheros Support Team

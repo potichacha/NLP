@@ -1,0 +1,10 @@
+Dear John,
+
+We have identified the issue causing the API timeouts. It was due to a surge in traffic that overloaded one of our database servers. We have implemented a fix and can confirm that the API endpoints are now responding normally. 
+
+We sincerely apologize for any inconvenience this may have caused. 
+
+Please let us know if you experience any further issues.
+
+Sincerely,
+The Aetheros Support Team

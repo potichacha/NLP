@@ -1,0 +1,10 @@
+Dear John,
+
+Our engineers have identified the issue. There was a misconfiguration in the auto-scaling settings of your load balancer following the deployment of your API v2.3. This has been rectified, and your API should now be accessible. 
+
+We apologize for the inconvenience caused and appreciate your patience.
+
+We'll be in touch shortly to schedule a follow-up to discuss this further and prevent similar issues in the future.
+
+Best Regards,
+Aetheros Support Team

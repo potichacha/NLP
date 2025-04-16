@@ -1,0 +1,9 @@
+Hi,
+
+Here's the information you requested:
+
+* **Roles and Resources:** Users with the 'Data Analyst' role are unable to access the data visualization dashboard. They should have read-only access. Also, users with the 'Content Editor' role cannot publish new articles, even though the role should grant them publishing permissions.
+* **Implementation Time:** The new roles were implemented around 9:00 AM UTC today.
+* **Error Messages:** Users attempting to access restricted resources are receiving a generic 'Access Denied' message. There are no specific error codes.
+
+We need this resolved quickly.  Please let us know what you find.

@@ -1,0 +1,1 @@
+We are experiencing critical issues with user permissions in our production environment. Users are being denied access to resources they should have access to. This is causing major disruptions to our operations. We believe this issue might be related to a recent update we made to our IAM roles using the Mercury language. We need immediate assistance to resolve this issue.

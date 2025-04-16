@@ -1,0 +1,5 @@
+We're experiencing a critical issue with our Aetheros IAM integration. Our production API calls are failing due to incorrect permissions, causing a major outage. We need immediate assistance to resolve this. 
+
+Specifically, users with the "Editor" role are suddenly unable to access endpoints they could access yesterday. We haven't made any changes to our IAM configuration recently. 
+
+Please advise ASAP.

@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for reaching out to us and providing valuable feedback. We understand the inconvenience you're facing with the manual configuration process for API updates.
+
+We're currently exploring different automation options for smoother integration between our Cloud Management and API Development services. We'll keep you updated on any new features or improvements in this area.
+
+In the meantime, would you be interested in scheduling a brief call with one of our engineers to discuss potential workarounds or custom solutions that might be suitable for your current setup?
+
+We appreciate your patience and understanding.
+
+Best regards,
+Aetheros Support

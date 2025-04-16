@@ -1,0 +1,8 @@
+Hello,
+
+I'm having trouble assigning a specific role to a user in the IAM service. I've followed the documentation, but the role doesn't seem to be applying correctly. The user is unable to access certain resources they should have access to. 
+
+Could you please help me troubleshoot this issue?
+
+Thanks,
+Kenneth

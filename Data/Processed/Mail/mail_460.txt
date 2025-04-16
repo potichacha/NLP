@@ -1,0 +1,8 @@
+Hi Support Team,
+
+I'm building a RESTful API for an inventory management system. I need to implement custom error handling to return specific error codes and messages for scenarios like 'Item not found,' 'Invalid quantity,' or 'Insufficient stock.' This would allow our frontend to display user-friendly messages based on the error codes.
+
+Is there a way to define these custom error codes and messages within the Mercury language and return them in the API response? 
+
+Regards,
+John

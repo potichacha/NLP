@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of this issue and are here to help.
+
+We have investigated the error message you provided and identified a potential conflict with your current resource limits in Aetheros Cloud Management and your AWS account settings.
+
+To resolve this, our team will need to access your account and make some adjustments. Could you please provide temporary access to your Aetheros Cloud Management dashboard?
+
+We will keep you updated on our progress.
+
+Sincerely,
+The Aetheros Support Team

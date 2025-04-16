@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We're encountering an issue with user role inheritance in the IAM service. We have a hierarchical role structure set up, but it seems that users at lower levels are not inheriting permissions correctly from their parent roles. This is causing disruptions in our workflow as users are unable to access resources they should have access to.
+
+Could you please look into this urgently? We need this resolved as soon as possible.
+
+Thanks,
+John Doe

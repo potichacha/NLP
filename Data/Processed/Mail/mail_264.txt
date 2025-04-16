@@ -1,0 +1,7 @@
+Here's the information you requested:
+
+* **IAM Role Name:**  DataProcessingRole
+* **Actions/Resources:** The role should allow read/write access to S3 buckets prefixed with 'companydata-', but these actions are being denied.
+* **Recent Changes:**  We migrated our application to a new VPC yesterday, which involved updating some security groups. 
+
+Let me know if you need any further information.

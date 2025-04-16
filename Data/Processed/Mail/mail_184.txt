@@ -1,0 +1,15 @@
+Dear Carol,
+
+Thank you for contacting Aetheros Support. We understand that you are facing critical issues with the Mercury Language compiler and this is impacting your project timeline.
+
+To assist you efficiently, could you please provide us with the following information:
+
+* A code snippet showcasing the errors.
+* The steps you have already taken to troubleshoot the issue.
+* The operating system and environment details where you are running the compiler.
+
+Once we have this information, we can investigate further and provide you with a solution.
+
+Best regards,
+
+Aetheros Support Team

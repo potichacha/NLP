@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm having trouble deploying a Mercury lambda function to my managed cloud environment. The deployment seems to hang and then eventually times out. I've checked my resource limits and everything seems to be in order.
+
+Can you please advise?
+
+Thanks,
+John Doe

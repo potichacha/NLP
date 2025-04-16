@@ -1,0 +1,8 @@
+Hi,
+
+Thanks for the reply! Actually, I managed to figure it out by digging a bit deeper into the examples on that documentation page you linked. 
+
+It's all working now. Thanks for pointing me in the right direction!
+
+Regards,
+Isiah

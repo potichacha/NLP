@@ -1,0 +1,10 @@
+Dear John,
+
+We identified an issue within our API Monitoring system that was causing the latency spikes you experienced. This issue has been addressed, and our monitoring indicates that API performance has returned to normal levels.
+
+We sincerely apologize for the inconvenience caused by this outage.  We are committed to providing a reliable and performant service and are taking steps to prevent similar incidents from occurring in the future.
+
+If you continue to experience any issues or have further questions, please don't hesitate to contact us. 
+
+Sincerely,
+Aetheros Support Team

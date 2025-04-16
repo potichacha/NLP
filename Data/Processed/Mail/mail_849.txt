@@ -1,0 +1,26 @@
+Hi Support Team,
+
+Here's the information you requested:
+
+* **Mercury code snippet:**
+
+```mercury
+let user_id = "user123";
+let role_id = "admin_role";
+assignRole(user_id, role_id);
+```
+
+* **Error message:**
+
+```
+Authorization Error: User not authorized to access resource.
+```
+
+* **Versions:**
+    * Mercury Language: 1.2.5
+    * IAM Service: 2.3.1
+
+We're still facing this issue and it's impacting our production environment. Please let us know if you need anything else from our side.
+
+Thanks,
+John Doe

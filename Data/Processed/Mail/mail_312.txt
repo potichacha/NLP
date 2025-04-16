@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of the situation and are committed to helping you resolve the API latency issues. 
+
+To assist us in our investigation, could you please provide the following information:
+
+* Your Aetheros Account ID
+* The specific API endpoint(s) experiencing latency
+* Screenshots of the latency spikes from your API monitoring dashboard
+
+Once we have this information, we'll be able to investigate further and provide a solution. 
+
+Best Regards,
+Aetheros Support Team

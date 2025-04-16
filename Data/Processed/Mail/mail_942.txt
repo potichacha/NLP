@@ -1,0 +1,19 @@
+Dear Isiah,
+
+You are absolutely correct! There was a minor syntax error in your JSON payload. The extra double quote after `john.doe@example.com` was causing the compilation error.
+
+Here's the corrected code snippet:
+
+```mercury
+api.post("/users", {
+  "name": "John Doe",
+  "email": "john.doe@example.com"
+})
+```
+
+Please make this change, and your code should compile successfully. We apologize for any inconvenience caused by this oversight.
+
+Let us know if you have any further questions.
+
+Best regards,
+The Aetheros Support Team

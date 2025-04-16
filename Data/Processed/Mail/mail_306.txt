@@ -1,0 +1,6 @@
+Hi Aetheros Support,
+
+I'm writing to suggest an improvement to the API Monitoring dashboard. Currently, it's a bit difficult to quickly see the average response time for a specific API endpoint over a custom time range. It would be incredibly helpful if you could add a feature that allows us to easily select a custom time period and view the average response time for a chosen endpoint within that timeframe.
+
+Thanks,
+John Doe

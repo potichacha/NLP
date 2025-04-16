@@ -1,0 +1,10 @@
+Thank you for contacting Aetheros Support.
+
+We understand you are experiencing issues with user authentication via your API after an IAM role update. We will investigate this issue further.
+
+Could you please provide us with the following information to assist in our investigation:
+- The specific IAM role(s) that were updated
+- The timestamp of the update
+- Any error messages observed during the authentication process
+
+Once we have received this information, we will be able to assist you further.

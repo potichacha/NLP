@@ -1,0 +1,8 @@
+Hi John,
+
+We checked with our team, and currently, we don't have a way to set different API rate limits based on individual IAM roles. You can manage overall API usage limits, but it wouldn't be at the granularity you're looking for. 
+
+Let us know if you have any other questions.
+
+Best Regards,
+The Aetheros Support Team

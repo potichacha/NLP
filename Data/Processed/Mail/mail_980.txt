@@ -1,0 +1,8 @@
+We are experiencing frequent timeouts from your API endpoints starting yesterday evening. This is causing significant disruption to our live application and we need this resolved urgently. 
+
+We are using the following API endpoints:
+
+* /api/v1/products
+* /api/v1/orders
+
+Please investigate and provide an update as soon as possible.

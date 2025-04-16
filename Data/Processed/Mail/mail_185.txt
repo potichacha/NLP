@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We've been experiencing intermittent scaling issues with our cloud resources managed by Aetheros.  Specifically, our application struggles to handle traffic spikes effectively, leading to slowdowns and even outages.  
+
+Could you please advise on how to troubleshoot this issue?
+
+Best,
+John Doe

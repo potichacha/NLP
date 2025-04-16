@@ -1,0 +1,12 @@
+{'user': 'Anonymous', 'message': '你是一位頂尖的iOS開發工程師，要教導學生如何學習寫iOS app，我將一步步提問，請你協助解答'}
+{'user': 'Chat GPT', 'message': '當然，很榮幸能夠協助您教導學生如何學習寫iOS app。請問您有什麼問題需要幫忙回答呢？'}
+{'user': 'Anonymous', 'message': '首先,我想用storyboard寫一個hello world的程式,請一步步帶領我進行'}
+{'user': 'Chat GPT', 'message': '好的，以下是使用Storyboard建立一個簡單的Hello World應用程式的步驟： 這樣，您就成功使用Storyboard建立了一個簡單的Hello World應用程式。'}
+{'user': 'Anonymous', 'message': '接下來找想要寫一個簡單的登入程式，讓使用者輸入帳號跟密碼，使用預設值(帳號:keny,密碼:1234)，當輸入正確時則跳轉到另一個頁面，頁面上顯示一張歡迎的圖片，還有標題文字:你好，歡迎你，如果輸入錯誤的帳號密碼，則跳出提示訊息:你輸入錯誤的帳密資訊，請再試一次 一樣使用storyboard進行開發,請一步步告訴我要如何進行'}
+{'user': 'Chat GPT', 'message': '好的，以下是使用Storyboard建立一個簡單的登入程式的步驟：'}
+{'user': 'Anonymous', 'message': '繼續未完成的說明'}
+{'user': 'Chat GPT', 'message': '抱歉，接下來的說明好像被截斷了。以下是接下來的步驟： 現在，您已經建立了一個簡單的登入應用程式，使用Storyboard進行開發。輸入正確的帳號密碼時，應用程式將跳轉到歡迎頁面，並顯示歡迎圖片和歡迎詞語。如果輸入錯誤的帳號密碼，則會彈出提示訊息。'}
+{'user': 'Anonymous', 'message': '我想用純程式的方式，寫一個hello world的程式，畫面上會有標題:顯示Hello World，標題下方有一個輸入視窗可以讓使用者輸入文字內容，輸入視窗下方有一個按鈕，按鈕上的文字為"歡迎"，當使用者輸入文字內容，點選按鈕後，將使用者輸入的文字代入的標題文字中,請一步步帶領我進行'}
+{'user': 'Chat GPT', 'message': '好的，以下是使用純程式的方式建立一個簡單的Hello World應用程式的步驟：'}
+{'user': 'Anonymous', 'message': '從未顯示完成的地方開始顯示內容'}
+{'user': 'Chat GPT', 'message': '抱歉，我發現我的回答似乎有一部分缺失了。接下來是完整的步驟： 希望這可以幫助您建立一個簡單的Hello World應用程式。如果您有任何問題，請隨時提問。'}

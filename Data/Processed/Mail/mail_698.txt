@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm working with the Mercury language for a new API endpoint, and I'm a bit stuck on something in the documentation. I couldn't find a clear answer on how to handle asynchronous calls within a specific Mercury code block.
+
+Could you point me to the right resource or provide a quick example? 
+
+Thanks,
+Isiah Schmeler

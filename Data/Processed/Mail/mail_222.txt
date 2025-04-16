@@ -1,0 +1,15 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of the situation and are looking into the compiler errors and API gateway timeouts you reported. 
+
+Could you please provide us with the following information to assist in our investigation:
+
+* Specific error messages from the Mercury compiler
+* Logs from your API gateway around the time of the timeouts
+* Version of the Mercury compiler and runtime you are using
+* Any recent changes made to your API code or configuration
+
+Once we have this information, we can investigate further and provide a solution. 
+
+Sincerely,
+The Aetheros Support Team

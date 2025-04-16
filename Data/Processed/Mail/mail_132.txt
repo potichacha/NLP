@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand you are experiencing critical issues with our services. 
+
+To help us investigate, could you please provide us with the following information:
+
+* Your Aetheros account ID
+* Specific timestamps for the latency spikes and cloud cost increases
+* Any recent changes made to your API or cloud infrastructure
+
+We will investigate this further and get back to you as soon as possible.
+
+Best regards,
+Aetheros Support Team

@@ -1,0 +1,10 @@
+Hi Aetheros Support Team,
+
+We've been experiencing critical issues with our recent integration of the Aetheros IAM service into our application. 
+
+Specifically, we've noticed unauthorized access attempts and inconsistent permission handling that could lead to a serious security breach.  We need immediate assistance in addressing these vulnerabilities as it poses a significant risk to our data and users.
+
+Please advise on the next steps to resolve this urgently.
+
+Sincerely,
+John Doe

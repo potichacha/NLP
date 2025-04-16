@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of this issue and are here to help.
+
+To assist us in diagnosing the problem, could you please provide the following information:
+
+* The specific error messages users are encountering
+* The relevant API endpoints being accessed
+* The user roles and permissions configured in the IAM service
+
+Our team is ready to investigate this issue further once we have received this information.
+
+Best regards,
+Aetheros Support Team

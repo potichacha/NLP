@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'Who are you?'}
+{'user': 'Chat GPT', 'message': 'I am an AI language model developed by OpenAI, called ChatGPT. My purpose is to assist users in generating human-like text based on the input provided to me. I am not a human, but a machine learning model trained on a large corpus of text to generate text that resembles human writing and speaking style.'}

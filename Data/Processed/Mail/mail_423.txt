@@ -1,0 +1,12 @@
+Hi,
+
+See attached screenshots and details below:
+
+* [Screenshots attached]
+* Roles: Data Analyst, Report Viewer
+* Users: jane.doe@example.com, mike.smith@example.com
+
+This issue is causing significant delays. Please advise on a resolution ASAP.
+
+Regards,
+John

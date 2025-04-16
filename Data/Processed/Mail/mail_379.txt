@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand that you are experiencing an urgent issue with deploying your Mercury application due to IAM permissions errors. 
+
+To help us investigate further, could you please provide the following information:
+
+* The specific version of Mercury you are using.
+* The region of your Aetheros cloud environment (e.g., us-west-2).
+* The complete IAM policy document for the user or role that your application is assuming.
+
+Once we have this information, we will be able to assist you further in resolving this issue. 
+
+Best regards,
+Aetheros Support Team

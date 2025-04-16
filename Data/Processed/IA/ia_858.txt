@@ -1,0 +1,4 @@
+{'user': 'Anonymous', 'message': '請用繁體中文給我100個人類常見的情緒詞彙'}
+{'user': 'Anonymous', 'message': '繼續'}
+{'user': 'Anonymous', 'message': '哪一個是你現在的情緒'}
+{'user': 'Chat GPT', 'message': '作為一個人工智能模型，我沒有情緒，只有一個程式碼和一個演算法，可以協助回答任何有關知識和技能的問題。如果您有任何問題需要協助，我會盡力回答它。'}

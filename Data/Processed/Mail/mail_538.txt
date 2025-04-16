@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+We've been trying to integrate Mercury language into our existing API infrastructure for the past few days, but we're encountering some roadblocks. Specifically, we're facing challenges with:
+
+1. **Data Type Compatibility:** Our existing system relies heavily on custom data structures. We're struggling to find clear documentation on how to seamlessly map these structures with Mercury's native data types.
+2. **Error Handling:** The error messages we're receiving during compilation and runtime are quite cryptic. It's difficult to pinpoint the root cause of the errors and debug them efficiently.
+
+We're hoping for some guidance and potential solutions to these problems. Our project timeline is tight, so any assistance you can provide would be greatly appreciated.
+
+Best regards,
+John Doe
+Lead Developer, XYZ Corp

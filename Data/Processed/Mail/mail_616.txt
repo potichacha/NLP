@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for reaching out. We understand the urgency of this issue and are looking into the latency spikes you're experiencing with your API gateway after migrating to Aetheros Cloud.
+
+To assist us in our investigation, could you please provide the following information:
+
+* The approximate date and time you started noticing the increased latency.
+* Screenshots of the latency spikes from your API monitoring dashboard.
+* Details about your Aetheros Cloud region and the specific API gateway instance you're using.
+
+Once we have this information, we'll be able to investigate further and provide a solution as quickly as possible.
+
+Best regards,
+Aetheros Support Team

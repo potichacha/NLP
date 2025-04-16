@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support. We understand you're facing challenges integrating Mercury Language with your existing API infrastructure. We apologize for the difficulties you're encountering.
+
+We've reviewed your concerns regarding data type compatibility and error handling. We've escalated this issue to our Mercury Language specialists for a more in-depth analysis.
+
+We'll provide you with an update within the next 24 hours with further insights and potential solutions.
+
+Thank you for your patience and understanding.
+
+Sincerely,
+The Aetheros Support Team

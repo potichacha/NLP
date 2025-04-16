@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of this issue and are here to help. 
+
+To best assist you, could you please provide us with the following information:
+
+* Specific examples of roles and the resources users are unable to access.
+* The approximate time you implemented these new roles.
+* Any error messages users are encountering.
+
+Once we have this information, we can investigate further and provide a solution.
+
+Sincerely,
+The Aetheros Support Team

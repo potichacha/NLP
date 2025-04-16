@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand that you are experiencing critical compiler errors with the Mercury language in your production environment.
+
+We are currently investigating the issue and will provide an update as soon as possible. In the meantime, could you please provide us with the following information to help us diagnose the problem:
+
+* Version of the Mercury compiler you are using
+* Operating system and version of your build servers
+* A copy of your Mercury project configuration file
+
+We will do everything we can to resolve this issue as quickly as possible.
+
+Sincerely,
+Aetheros Support

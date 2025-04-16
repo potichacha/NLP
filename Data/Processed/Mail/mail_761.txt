@@ -1,0 +1,11 @@
+Hi,
+
+I'm trying to integrate with your API platform and manage user access using Aetheros IAM. Specifically, I need to understand how to:
+
+1. Verify user tokens within a Mercury application.
+2. Authorize users based on their roles defined in Aetheros IAM.
+
+Can you provide any examples or updated documentation snippets related to this?
+
+Regards,
+John

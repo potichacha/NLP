@@ -1,0 +1,1 @@
+Yes, the issue seems to be resolved. However, we're concerned about the downtime this caused. We need more information on what led to this misconfiguration and how we can prevent it from happening again.

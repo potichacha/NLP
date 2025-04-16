@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': '번역결과  지금 번역하기'}
+{'user': 'Chat GPT', 'message': 'As an AI language model, I am not entirely sure which "dan plugin" you are referring to since there could be many plugins with the name "dan." However, I can provide some general information on plugins and their purposes. A plugin is a software component that adds specific functionality to an'}

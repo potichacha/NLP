@@ -1,0 +1,12 @@
+Dear Aetheros Support Team,
+
+I am writing to suggest a deeper integration between Mercury language and your Cloud Management service.
+
+Currently, while Mercury offers streamlined API development, deploying and managing those APIs on your Cloud Management platform requires switching contexts and tools. It would be incredibly beneficial if we could manage cloud resources (like scaling, deployment pipelines, etc.) directly within Mercury code. 
+
+For example, annotations or specific library functions in Mercury could be used to define scaling triggers or automate deployment processes directly tied to the codebase. This would streamline our workflow, reduce potential errors, and make the entire development lifecycle smoother.
+
+Thank you for considering this suggestion. I believe it would significantly improve the developer experience and unlock new possibilities for leveraging both Mercury and Aetheros Cloud Management to their full potential.
+
+Sincerely,
+John Doe

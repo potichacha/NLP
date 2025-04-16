@@ -1,0 +1,10 @@
+Dear John,
+
+We identified an issue with our auto-scaling configuration that was impacting applications in your region. This has now been addressed and your application 'Foodie Reviews' should be performing normally. 
+
+We sincerely apologize for the inconvenience caused. We'll be implementing measures to prevent such incidents in the future.
+
+Please let us know if you have any further questions.
+
+Best regards,
+Aetheros Support

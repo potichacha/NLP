@@ -1,0 +1,10 @@
+Hi John,
+
+We apologize for the delay. Our team has identified the issue and is working on a fix. We will keep you updated on the progress.
+
+In the meantime, you can try restarting your application server. This might temporarily resolve the issue.
+
+We appreciate your patience.
+
+Sincerely,
+Aetheros Support

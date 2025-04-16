@@ -1,0 +1,10 @@
+Hi John,
+
+We've identified and resolved the issue. There was a temporary glitch in our authorization service that caused incorrect permission evaluations. This has now been fixed. 
+
+Could you please ask the affected users to try accessing the resources again? They should now have the correct access. 
+
+We apologize for the inconvenience caused. 
+
+Best regards,
+Aetheros Support

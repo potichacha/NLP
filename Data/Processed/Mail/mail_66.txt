@@ -1,0 +1,16 @@
+Hi Aetheros Support,
+
+We are experiencing two critical issues with our Aetheros implementation:
+
+**1. API Monitoring Alerts Not Triggering:**
+Our API monitoring setup has stopped triggering alerts for critical errors. We've confirmed the alert conditions are still valid and our APIs are experiencing these errors, but no alerts are being generated or sent.
+
+**2. IAM Role Permissions Not Applying:**
+We recently updated permissions for a specific IAM role, but the changes aren't reflecting in our environment. Users assigned to this role are still able to access resources they shouldn't have access to.
+
+This is causing significant disruption to our operations. We require urgent assistance to resolve these issues.
+
+Please advise on the next steps for troubleshooting and resolution.
+
+Sincerely,
+John Doe

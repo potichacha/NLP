@@ -1,0 +1,8 @@
+Hi Aetheros Support Team,
+
+I've been noticing some unusual spikes in latency on our API over the past few hours. It's causing intermittent slowdowns for our users.
+
+Could you please take a look? 
+
+Thanks,
+John Doe

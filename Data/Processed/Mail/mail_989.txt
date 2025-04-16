@@ -1,0 +1,10 @@
+Hi John,
+
+You can definitely use our IAM service to manage resources across different cloud accounts. We recommend setting up a centralized IAM account and then using cross-account roles to grant permissions to users and resources in other accounts. 
+
+Our documentation provides a step-by-step guide on how to set up cross-account access: [Link to documentation]
+
+Let us know if you have any other questions.
+
+Best regards,
+Aetheros Support

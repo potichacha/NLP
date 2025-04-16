@@ -1,0 +1,10 @@
+Hi Aetheros Support,
+
+One of our production server instances managed through your Cloud Management service is currently unreachable. This is causing significant downtime and impacting our customers.
+
+The instance name is "prod-app-server-01".
+
+Can you please investigate this issue with high priority and provide an update as soon as possible?
+
+Thanks,
+John Doe

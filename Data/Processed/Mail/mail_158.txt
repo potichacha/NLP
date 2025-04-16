@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+We've been utilizing your IAM service for a few months now and are very happy with its features and performance. However, we believe adding role inheritance functionality could greatly simplify our user management.
+
+Specifically, it would be beneficial to have roles inherit permissions from parent roles. For instance, a "Senior Developer" role could inherit all permissions from a "Developer" role, with the ability to add specific permissions as needed.
+
+This would reduce redundancy in our permission setup and make it easier to manage users as our team grows.
+
+Could you please consider implementing this feature in a future release?
+
+Thanks,
+Isiah Rippin

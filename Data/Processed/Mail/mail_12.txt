@@ -1,0 +1,10 @@
+Dear Isabella,
+
+Thank you for your valuable feedback! We appreciate you taking the time to share your suggestion regarding the API error code documentation.
+
+We agree that having more comprehensive information would be beneficial for our users. We've added this to our development roadmap and will be working on improving the error code documentation in the coming weeks.
+
+In the meantime, please don't hesitate to reach out if you encounter any specific error codes that you need clarification on. We're always happy to help.
+
+Best regards,
+The Aetheros Support Team

@@ -1,52 +1,46 @@
-import requests
+from datasets import load_dataset
 import os
-import re
-from bs4 import BeautifulSoup
+import logging
 
-BASE_URL = "https://eur-lex.europa.eu/search.html?type=named&DD_YEAR=2023"
-HEADERS = {'User-Agent': 'Mozilla/5.0'}
-BASE_DIR_PROCESSED = "Data/Processed/Juridique"
+# === CONFIGURATION ===
+DATASET_NAME = "harvard-lil/cold-french-law"
+OUTPUT_DIR = "../Data/Processed/Juridique"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+MAX_FILES = 1000
 MAX_CHARS = 3000
 
-os.makedirs(BASE_DIR_PROCESSED, exist_ok=True)
+# === LOGGING ===
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logging.info("⚖️ Début de l'extraction du dataset juridique")
 
+# === Chargement en streaming
+dataset = load_dataset(DATASET_NAME, split="train", streaming=True)
+logging.info(f"📦 Dataset '{DATASET_NAME}' chargé en mode streaming.")
 
-def clean_and_trim_text(text):
-    text = re.sub(r'\s+', ' ', text).strip()
-    return text[:MAX_CHARS]
+# === Traitement
+count = 0
+for row in dataset:
+    texte = row.get("article_contenu_text")
+    
+    if isinstance(texte, list):
+        texte = " ".join(texte)
+    if not texte or len(texte) < 200:
+        logging.debug("⏩ Texte trop court ou vide, ignoré")
+        continue
 
+    trimmed = texte[:MAX_CHARS].strip()
 
-def scrape_eurlex(max_files=1000):
-    downloaded = 0
-    page = 1
+    try:
+        with open(os.path.join(OUTPUT_DIR, f"juridique_{count + 1}.txt"), "w", encoding="utf-8") as f:
+            f.write(trimmed)
+        logging.info(f"✅ Article {count + 1} sauvegardé")
+        count += 1
+    except Exception as e:
+        logging.warning(f"⚠️ Erreur sauvegarde fichier {count + 1}: {e}")
+        continue
 
-    while downloaded < max_files:
-        url = f"{BASE_URL}&page={page}"
-        response = requests.get(url, headers=HEADERS)
-        soup = BeautifulSoup(response.text, 'html.parser')
-        links = soup.select("a.title")
+    if count >= MAX_FILES:
+        break
 
-        if not links:
-            break
-
-        for link in links:
-            if downloaded >= max_files:
-                break
-
-            doc_url = "https://eur-lex.europa.eu" + link['href']
-            doc_response = requests.get(doc_url, headers=HEADERS)
-            doc_soup = BeautifulSoup(doc_response.text, 'html.parser')
-            text = doc_soup.get_text(separator=' ', strip=True)
-
-            processed = clean_and_trim_text(text)
-            with open(f"{BASE_DIR_PROCESSED}/juridique_{downloaded + 1}.txt", "w", encoding="utf-8") as f:
-                f.write(processed)
-
-            print(f"Juridique {downloaded + 1}: {link.text.strip()} téléchargé et traité")
-            downloaded += 1
-
-        page += 1
-
-
-if __name__ == "__main__":
-    scrape_eurlex(max_files=1000)
+logging.info(f"🏁 Extraction terminée : {count} fichiers juridiques sauvegardés dans '{OUTPUT_DIR}'")

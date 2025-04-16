@@ -1,0 +1,5 @@
+Our production environment is currently experiencing a critical outage. 
+
+We are seeing errors related to instance scaling in our Cloud Management dashboard. New instances are not being provisioned, and our application is failing to handle the current load. 
+
+This is a high-priority issue impacting our customers. Please advise on immediate steps for resolution.

@@ -1,0 +1,12 @@
+Hi Support Team,
+
+Here is the information you requested:
+
+* We first noticed the issue yesterday around 3:00 PM UTC. It has happened intermittently since then, with the latest occurrence just 10 minutes ago.
+* We haven't been able to identify any specific actions or events that trigger the problem.
+* It seems to affect a random subset of users each time, roughly 5-10% of our user base.
+
+We are concerned about the impact this is having on our operations and would greatly appreciate a prompt resolution.
+
+Thanks,
+John

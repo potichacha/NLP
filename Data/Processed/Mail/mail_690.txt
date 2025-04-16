@@ -1,0 +1,22 @@
+Here is the information you requested:
+
+1.  Error Message:  `{"error": "Invalid API Key or Access Token"}`
+2.  Mercury SDK Version: 1.2.5
+3.  Code Snippet:
+
+```mercury
+import network
+import auth
+
+let apiKey = "<REDACTED>"
+let client = network.newHttpClient()
+let req = network.newRequest("GET", "https://api.example.com/data", null)
+req.setHeader("Authorization", "Bearer " ++ auth.getAccessToken(apiKey))
+
+let resp = client.do(req)
+if resp.statusCode != 200 then
+  // Handle error
+end
+```
+
+We need this resolved urgently as it's impacting our production environment.

@@ -1,0 +1,8 @@
+Dear John,
+
+We understand the urgency of the situation. Our engineers have identified the root cause of the outage and are working to implement a fix. We expect services to be restored within the next hour.
+
+We apologize for the inconvenience caused and appreciate your patience as we work to resolve this issue.
+
+Sincerely,
+Aetheros Support Team

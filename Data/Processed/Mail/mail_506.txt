@@ -1,0 +1,10 @@
+We are experiencing critical compiler errors in our production environment with the Mercury language. Our applications are failing to build, causing a major outage. We need immediate assistance to resolve this issue.
+
+Here are the error messages we are seeing:
+
+```
+[ERROR] Mercury Compiler v1.2.3
+...
+```
+
+We have tried restarting our build servers and re-downloading the Mercury compiler, but the issue persists. Please advise on how to proceed as soon as possible.

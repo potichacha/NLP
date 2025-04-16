@@ -1,0 +1,12 @@
+Hi Aetheros Support,
+
+Thanks for getting back to us. Here's the information you requested:
+
+* Latency issues began around: 2023-10-25, 14:00 UTC
+* Affected endpoints: Primarily /orders and /products, but occasionally affecting others
+* Error messages: We're seeing a mix of 504 Gateway Timeouts and occasional 500 Internal Server Errors during these periods of high latency.
+
+Let me know if you require any further information from our end.
+
+Regards,
+John Doe

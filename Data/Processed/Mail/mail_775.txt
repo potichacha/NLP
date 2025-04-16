@@ -1,0 +1,5 @@
+Hi,
+This is still an ongoing issue.  Our monitoring dashboards are still showing inaccurate information. We need a solution or workaround immediately as this is impacting our operations.
+
+Regards,
+John Doe

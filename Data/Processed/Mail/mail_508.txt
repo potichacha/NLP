@@ -1,0 +1,11 @@
+Hi,
+
+Thanks for the quick response.
+
+Here's the information you requested:
+
+* Mercury Compiler version: 1.2.3
+* Operating system: Ubuntu 20.04.4 LTS
+* Project configuration file: [attached]
+
+We are still experiencing the issue.  Any updates would be greatly appreciated.

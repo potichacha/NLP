@@ -1,0 +1,14 @@
+Hello John,
+
+Thank you for contacting Aetheros Support. We understand you are experiencing issues with role-based permissions in Mercury language scripts.
+
+Could you please provide us with the following information so we can assist you further?
+
+* A code snippet demonstrating how you are defining roles and permissions in your script.
+* The specific API calls that are not respecting the defined permissions.
+* Any error messages or unexpected behavior you are encountering.
+
+Once we have this information, we can investigate the issue and provide a solution.
+
+Best Regards,
+Aetheros Support Team

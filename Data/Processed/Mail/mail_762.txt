@@ -1,0 +1,11 @@
+Hi Aetheros Support,
+
+We've been experiencing some difficulties scaling our cloud resources effectively through your platform.  Specifically, we're seeing:
+
+* Slow response times during peak hours
+* Difficulty adjusting resource allocation on demand
+
+Could you please advise on how we can troubleshoot this? We're using the standard configuration provided during onboarding.
+
+Thanks,
+John Doe

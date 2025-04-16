@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+We've been experiencing intermittent latency spikes with our API that are being flagged by your API Monitoring service. These spikes are impacting our application performance and are concerning.
+
+Additionally, we've noticed a significant increase in our cloud costs recently. We're unsure if this is related to the API issues or something else entirely. Could you please help us investigate both of these matters?
+
+Thanks,
+Kenneth

@@ -1,0 +1,12 @@
+Hi John,
+
+Thank you for providing the additional information. Our team has investigated the latency spikes and identified a correlation with the recent update to your authentication service. 
+
+We've pinpointed the issue to a specific function call in the updated code that's causing a slight delay. We've prepared a hotfix for this issue, and we'll be deploying it within the next hour. 
+
+We expect the latency spikes to be resolved once the hotfix is deployed. We'll continue to monitor the situation closely. 
+
+We apologize for any inconvenience this may have caused. Please let us know if you experience any further issues.
+
+Sincerely,
+Aetheros Support Team

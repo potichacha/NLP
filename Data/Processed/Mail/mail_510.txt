@@ -1,0 +1,6 @@
+Hello John,
+
+Thank you for reaching out to us. To better assist you, could you please provide us with your API key and the specific endpoint you're making requests to?
+
+Best regards,
+Aetheros Support Team

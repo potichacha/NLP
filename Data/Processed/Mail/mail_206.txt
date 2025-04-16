@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm experiencing an issue with asynchronous function calls in Mercury.  The async keyword doesn't seem to be working as expected, and my code is executing sequentially instead of concurrently.
+
+Could you please help me understand why this might be happening? I've attached a code snippet demonstrating the issue.
+
+Thanks,
+John Doe

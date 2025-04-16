@@ -1,0 +1,8 @@
+Hello Aetheros Support,
+
+I'm encountering an issue with role-based permissions in Mercury Language.  I've defined roles and assigned them to users in your IAM service, but these permissions don't seem to be correctly enforced within my Mercury code. Specifically, users assigned to a limited role are still able to execute functions they should not have access to.
+
+Could you please advise on how to ensure my Mercury code respects the roles and permissions I've set in the IAM service?
+
+Thanks,
+John Doe

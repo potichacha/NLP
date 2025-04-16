@@ -1,0 +1,10 @@
+Hi Kenneth,
+
+Thank you for providing the details. We have identified the issue. It appears there was a slight misconfiguration on our end regarding the 'Data Analyst' role permissions. This has been rectified now. 
+
+Could you please try logging out and logging back in to the platform? This should refresh your permissions and grant you access to the analytics dashboards.
+
+We apologize for the inconvenience caused.
+
+Best Regards,
+The Aetheros Support Team

@@ -1,0 +1,8 @@
+Dear John,
+
+Thank you for reaching out to Aetheros support.
+
+We understand you're having difficulty finding documentation about custom error handling in Mercury. We're working on expanding our documentation library, but in the meantime, can you please elaborate on how you're integrating Mercury with your cloud environment? This will help us understand your implementation and provide more tailored guidance.
+
+Best regards,
+The Aetheros Support Team

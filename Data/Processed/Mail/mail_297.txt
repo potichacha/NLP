@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for reaching out to Aetheros Support. We understand the urgency of your situation and are here to help.
+
+We have received your request to reset your IAM credentials and are currently processing it. You should receive a password reset link within the next hour.  In the meantime, we have temporarily suspended your account access as a security precaution.
+
+Regarding the discrepancies in your cloud resources bill, we will need some time to investigate this further. A member of our billing team will contact you directly within the next 24 hours to discuss this in detail.
+
+Thank you for your patience and understanding.
+
+Sincerely,
+Aetheros Support

@@ -1,0 +1,8 @@
+Hi John,
+
+Thank you for contacting Aetheros support. We are aware of an issue affecting function deployments in the Production environment. Our engineers are currently working on a fix.
+
+We apologize for any inconvenience this may cause and will keep you updated on the progress.
+
+Best regards,
+Aetheros Support Team

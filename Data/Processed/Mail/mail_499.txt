@@ -1,0 +1,10 @@
+Dear John,
+
+Thank you for providing the additional information. We have identified the issue. There was a recent update to our IAM service that caused a temporary inconsistency in permission propagation for specific roles, including 'Mercury Developer'. 
+
+We have rectified the issue on our end. Could you please ask your developers to try again? They should now be able to compile their code successfully.
+
+We apologize for any inconvenience this may have caused.
+
+Sincerely,
+Aetheros Support

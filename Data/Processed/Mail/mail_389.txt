@@ -1,0 +1,12 @@
+Dear John,
+
+Thank you for your email and your suggestion for the API Monitoring dashboard. We appreciate you taking the time to provide feedback.
+
+We understand the importance of customization and agree that the ability to tailor the dashboard to specific needs would be highly beneficial. We have taken your suggestion on board and will be reviewing the feasibility of implementing customizable widgets in future updates to the platform.
+
+We will keep you informed of any developments regarding this feature.
+
+In the meantime, if you have any other suggestions or encounter any issues, please don't hesitate to contact us.
+
+Sincerely,
+The Aetheros Support Team

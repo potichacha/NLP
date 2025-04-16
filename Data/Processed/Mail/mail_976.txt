@@ -1,0 +1,12 @@
+Dear John,
+
+Our engineering team has identified the issue causing the missing alerts for IAM role changes. A recent platform update introduced a bug affecting this specific monitoring feature.
+
+We have implemented a fix, and our monitoring system is now correctly sending alerts for IAM role modifications.
+
+We sincerely apologize for the inconvenience caused. To ensure the issue is fully resolved on your end, kindly clear your browser cache and cookies before accessing the Aetheros platform.
+
+Please do not hesitate to contact us if you have any further questions or concerns.
+
+Best regards,
+Aetheros Support

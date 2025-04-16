@@ -1,0 +1,10 @@
+Hello Aetheros Support,
+
+I'm encountering an issue when attempting to deploy new Mercury code to our production environment. The deployment fails consistently, and the logs indicate an error related to insufficient role permissions.
+
+Specifically, the error message is: "Access Denied: Role 'MercuryDeployer' lacks permission 'aetheros:deploy' on resource 'arn:aetheros:mercury:us-west-2:123456789012:code/myapp'". 
+
+We have confirmed that the 'MercuryDeployer' role is correctly assigned to the deployment user in the Aetheros IAM service. Can you please advise on how to troubleshoot this issue?
+
+Thanks,
+John Doe

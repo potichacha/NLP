@@ -1,0 +1,8 @@
+Aetheros Support,
+
+We're getting a 500 Internal Server Error. We haven't made any recent changes to the API or our systems. I've attached the error logs as requested.
+
+This is severely impacting our operations, and we need this fixed ASAP. Please escalate this to your senior engineers.
+
+Regards,
+John

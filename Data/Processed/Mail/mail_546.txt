@@ -1,0 +1,10 @@
+Dear John,
+
+We have identified the issue. There was a temporary system error affecting resource allocation in the us-east-1 region. This issue has now been resolved.
+
+Please try deploying your application again. You should no longer encounter the "Resource Limit Exceeded" error.
+
+We apologize for the inconvenience this may have caused. 
+
+Best Regards,
+Aetheros Support

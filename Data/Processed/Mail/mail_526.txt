@@ -1,0 +1,1 @@
+Our production API, managed through your platform, has been experiencing intermittent downtime for the past hour.  We're seeing a significant impact on our revenue streams as a result.  This is a critical issue and requires immediate attention.  Please advise on the status and estimated time to resolution.

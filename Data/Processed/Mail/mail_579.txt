@@ -1,0 +1,7 @@
+Here's the information you requested:
+
+* Error message: "Role assignment failed: Invalid role ID or permissions." 
+* Affected users: All users are unable to be assigned the 'Data Analyst' role.
+* Recent changes: We recently updated our subscription plan to include additional features within the IAM service. This issue began occurring immediately after the upgrade.
+
+This is severely impacting our operations. We need a solution as soon as possible.

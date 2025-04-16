@@ -1,0 +1,8 @@
+Hi John,
+
+Our team has investigated the issue and identified a bottleneck in our system that was causing the slow response times.  We have addressed the issue and API performance should be back to normal. 
+
+Please let us know if you continue to experience any problems.
+
+Thanks,
+The Aetheros Support Team

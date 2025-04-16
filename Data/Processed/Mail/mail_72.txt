@@ -1,0 +1,8 @@
+Hi Aetheros Support,
+
+I'm facing an urgent issue with rotating API keys using the IAM service. I've followed the documentation provided, but the new key doesn't seem to be recognized. This is causing disruption to our live application. 
+
+Can you please advise on how to resolve this promptly?
+
+Thanks,
+John Doe

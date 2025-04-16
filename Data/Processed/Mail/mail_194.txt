@@ -1,0 +1,14 @@
+Dear John,
+
+Thank you for contacting Aetheros Support. We understand the urgency of the situation and are looking into the compiler error you reported.
+
+To assist us in resolving this issue quickly, could you please provide the following information:
+
+* Full error log from the Mercury compiler
+* Version of the Mercury Language runtime you are using
+* A code snippet that reproduces the error
+
+We will keep you updated on our progress. 
+
+Sincerely,
+Aetheros Support Team

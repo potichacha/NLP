@@ -1,0 +1,13 @@
+Hi,
+
+Here's the information you requested:
+
+* **IAM Role Name:**  api-access-role-prod
+* **API Endpoints:** Any endpoint under https://api.example.com/v1/*
+* **Error Message:**  "Unauthorized: Invalid or missing credentials"
+* **Time Issue First Noticed:**  Approximately 09:00 AM UTC today
+
+We also noticed that our cloud resource utilization spiked around the same time, which might be related. Can you look into that as well?
+
+Thanks,
+John

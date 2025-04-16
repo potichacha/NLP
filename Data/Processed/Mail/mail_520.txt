@@ -1,0 +1,1 @@
+We are facing a critical issue with integrating Mercury language into our existing API infrastructure. The documentation seems outdated and we are hitting a roadblock with data serialization. This is completely halting our deployment schedule which is causing significant financial losses. We need immediate assistance to resolve this.

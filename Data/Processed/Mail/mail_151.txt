@@ -1,0 +1,10 @@
+Hi Aetheros Support Team,
+
+Our production environment is currently experiencing a critical issue. We're seeing a massive spike in traffic, and our instance scaling, which is configured through your Cloud Management platform, is not triggering.
+
+This is causing significant downtime and impacting our customers. We need this resolved ASAP.
+
+Please advise on the next steps and estimated resolution time.
+
+Regards,
+John Doe

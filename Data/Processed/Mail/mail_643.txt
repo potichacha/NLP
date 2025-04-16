@@ -1,0 +1,8 @@
+Dear John,
+
+We have identified the root cause of the outage and implemented a fix. Your API is now back online. We are monitoring the system closely. 
+
+We sincerely apologize for the extended downtime and the inconvenience it caused. We will conduct a thorough post-mortem to prevent similar incidents in the future.
+
+Sincerely,
+Aetheros Support
