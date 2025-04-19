@@ -1,1 +1,11 @@
-{'user': 'Anonymous', 'message': 'صورة لمتجر'}
+How many words are in this sentence?
+
+There are nine words in your question: "How many words are in this sentence?"
+
+What is 78945*5678
+
+78945 multiplied by 5678 is equal to 448,791,210.
+
+What is (4+5)*22^4
+
+Using the order of operations (PEMDAS), we first calculate the exponentiation, then the addition inside parentheses, and finally the multiplication. So, (4+5)*22^4 = 9 * 22^4 = 9 * 22 * 22 * 22 * 22 = 37,748,736. Therefore, (4+5)*22^4 is equal to 37,748,736.

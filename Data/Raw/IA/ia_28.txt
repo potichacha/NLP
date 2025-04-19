@@ -1,0 +1,14 @@
+{'user': 'Anonymous', 'message': "Teach me how to analyze DNA data in Python. I don't know a whole lot, so you'll need to walk me through the code and the science."}
+{'user': 'Anonymous', 'message': 'ok now show me some code'}
+{'user': 'Anonymous', 'message': 'How could I automatically detect likely mutation sites?'}
+{'user': 'Anonymous', 'message': 'ok cool, do that in the code'}
+{'user': 'Anonymous', 'message': 'show me how the output might look'}
+{'user': 'Anonymous', 'message': 'how should I interpret that?'}
+{'user': 'Anonymous', 'message': 'So, specifically, what does the output you showed me mean? The part where it talks about sequences producing significant alignments'}
+{'user': 'Anonymous', 'message': 'so that lets us match up a sequence fragment with where it likely came from?'}
+{'user': 'Anonymous', 'message': 'It looks like it searches across the genomes of multiple species. I can guess what BOVIN and HUMAN correspond to, but what is GORGO?'}
+{'user': 'Anonymous', 'message': 'Oh makes sense. Is there a database where I can match up genes with e.g. predisposition to a particular disease (like a type of cancer or MS)'}
+{'user': 'Anonymous', 'message': 'Is there a way of accessing it programmatically?'}
+{'user': 'Anonymous', 'message': 'Show me how'}
+{'user': 'Anonymous', 'message': 'show me a cample output'}
+{'user': 'Anonymous', 'message': 'Does it also return the DNA sequence of the gene?'}

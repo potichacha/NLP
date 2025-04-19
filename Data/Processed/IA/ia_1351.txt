@@ -1,0 +1,15 @@
+most common linux command lines
+
+CODAI *-^ most_common_linux_commands.sh DONE.
+
+most popular linux command lines
+
+CODAI *-^ most_popular_linux_commands.sh DONE.
+
+provide me with more than 10 linux commands, that are common and useful
+
+CODAI *-^ common_and_useful_linux_commands.sh DONE.
+
+2 / 2for the above 20 commands you provided, mention what each name stands for what words?
+
+CODAI *-^ command_names_expansion.sh DONE.

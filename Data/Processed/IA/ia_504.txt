@@ -1,2 +1,11 @@
-{'user': 'Anonymous', 'message': 'Hey'}
-{'user': 'Chat GPT', 'message': 'Hello! How can I assist you today?'}
+Give me a coding interview question for a nodejs developer
+
+Question: Implement a simple rate limiter using Node.js. Problem: Design a rate limiter middleware function for an Express.js application that restricts the number of requests a client can make within a specified time window. The rate limiter should have the following requirements: Function signature: Example: If  maxRequests  is set to 5 and  timeWindowInSeconds  is set to 60, the rate limiter should allow a maximum of 5 requests per client within a 60-second time window. Any subsequent requests within this time window should result in a 429 status code response. Hints:
+
+Can you give me another coding question?
+
+Question: Implement a real-time chat server using Node.js and WebSockets. Problem: Design a simple real-time chat server using Node.js and the WebSocket protocol that allows multiple clients to connect and exchange messages. The chat server should have the following requirements: To get started, you can use the  ws  library for handling WebSocket connections in your Node.js server. You can install it using npm or yarn: or Function signature: Example: Start a chat server on port 3000 by calling  startChatServer(3000) . Clients should be able to connect using a WebSocket client, send messages to the server, and receive messages from the server in real-time. Hints:
+
+can you give a solution for the question " Implement a simple rate limiter using Node.js."?
+
+Sure! Here's a possible solution for implementing a rate limiter using Node.js: This implementation defines a rate limiter middleware for an Express.js application. It uses a  Map  to store the client's IP addresses and their corresponding request data. The middleware function tracks the number of requests from each client and the timestamp of the first request within the time window. If the client exceeds the allowed number of requests within the time window, the server will respond with a 429 status code and an error message. Otherwise, the middleware calls the  next()  function to continue processing the request.

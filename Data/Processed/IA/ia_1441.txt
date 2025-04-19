@@ -1,0 +1,9 @@
+Embedding in NLP & CV
+
+In NLP, an embedding is a way to represent words, phrases, or documents in a numerical format that can be input into machine learning models. This can be done using techniques such as word2vec or GloVe. The goal of an embedding is to capture the meaning or context of a word in a way that can be understood by a machine learning model. In CV, an embedding is a way to represent images, videos or other types of data in a numerical format that can be input into machine learning models. The goal is to capture the features of the images or videos in a way that can be understood by a machine learning model.
+
+2 / 2Given the data: sent=[ 'the glass of milk',  'the glass of juice',  'the cup of tea',  'I am a good boy',  'I am a good developer',  'understand the meaning of words',  'your videos are good',] Can you embedding using Tensorflow with padding
+
+Yes, you can use Tensorflow to perform embedding on the given data with padding. Here is an example of how you can do it: In this example, we first create a tokenizer object from the Keras library, which will be used to convert the words in the sentences to integers. Then we use the  pad_sequences  function to add padding to the encoded sentences, so that all sentences have the same length. Then we define an embedding layer with an input dimension equal to the number of unique words in the data plus one (for the padding token) and an output dimension of 64. You can use this model to learn the embedding representation of words, with the encoded_sent as input. Note that this is a simple example, and there are many other ways to preprocess the data, and define the model architecture.
+
+use vocabulary size=10000 sentence length =8 output dimension=10 Train and compile the model. Also give or displayintermediate outputs.

@@ -1,0 +1,7 @@
+Let's review step by step how Javascript async functions work with Promises. Also let's review how the Javascript event loop works and how async code is actually executed in JS.
+
+Sure, let\
+
+Create a Mermaid.JS flowchart that depicts the overview of how async functions and Promises interact with the event loop
+
+Here's a Mermaid.JS flowchart to represent the interaction between async functions, Promises, and the event loop: This flowchart illustrates the main steps in the interaction between async functions, Promises, and the event loop. The process starts with calling an async function and returning a Promise, and proceeds through awaiting an async operation, handling the operation in the Web APIs, and continuing the execution of the async function after resolving or rejecting the Promise.

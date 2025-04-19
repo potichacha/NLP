@@ -1,12 +1,17 @@
-{'user': 'Anonymous', 'message': 'Give me 30 viral video topis about Success stories of people who overcame challenges and obstaclesShare Prompt'}
-{'user': 'Anonymous', 'message': 'Give me 30 viral video ideass about Inspirational and motivational videosShare Prompt'}
-{'user': 'Anonymous', 'message': 'Give me 30 Inspirational Stories of People Who Turned Their Lives AroundShare Prompt'}
-{'user': 'Anonymous', 'message': 'MoreShare Prompt'}
-{'user': 'Anonymous', 'message': 'Give me 30 Inspirational and motivational videosShare Prompt'}
-{'user': 'Anonymous', 'message': 'Give 50 More Share Prompt'}
-{'user': 'Anonymous', 'message': 'Give me more viral and trendShare Prompt'}
-{'user': 'Anonymous', 'message': 'Share Prompt'}
-{'user': 'Anonymous', 'message': 'Give me 30 viral Inspirational and motivational ideas Share Prompt'}
-{'user': 'Chat GPT', 'message': 'Sure, here are 30 more viral inspirational and motivational ideas:'}
-{'user': 'Anonymous', 'message': 'Give me 30 Inspirational and motivational factsShare Prompt'}
-{'user': 'Chat GPT', 'message': 'Sure, here are 30 inspirational and motivational facts:'}
+Question 7 Has eye-tracking been researched on how a user's eye reads a user interface? 1 point Yes No
+
+Yes, eye-tracking has been researched to understand how a user's eye reads a user interface. Eye-tracking is a method used to measure the movements and positions of a user's eyes as they view and interact with a user interface. This information can be used to identify areas of the interface that draw the user's attention and to optimize the design of the interface for improved usability and user experience.
+
+Question 8 Figma has various functionalities. What functionality does Figma not have? Select all the apply.  1 point Prototype  Develop a website  Web-based  Collaborative  Comments
+
+Figma has functionalities such as Prototype, Web-based, Collaborative, and Comments. However, Figma is not capable of developing a website. Therefore, the functionality that Figma does not have is "Develop a website".
+
+Question 9 A wireframe in UX design represents the interface concerned with placement and hierarchy of content and functionalities.  1 point True  False
+
+True. A wireframe in UX design is a low-fidelity visual representation of a website, application, or product interface that is used to demonstrate the placement and hierarchy of content, features, and functionalities. It is a simplified blueprint that helps designers and developers to plan and organize the structure and layout of a digital product, without getting distracted by color, typography, or other visual design elements.
+
+Should you guide users to the required information when filling in form fields? 1 point Yes  No
+
+Yes, it is important to guide users to the required information when filling in form fields. Providing clear instructions and labels for each form field can help users understand what information is required and how to enter it correctly. Additionally, using visual cues such as highlighting or error messages can alert users when they have entered information incorrectly or missed a required field. This can improve the user experience and reduce user frustration when filling out forms.
+
+True or False: End-to-end testing is the slowest and most expensive type of testing. 1 point True. False

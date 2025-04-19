@@ -1,1 +1,1 @@
-{'user': 'Anonymous', 'message': 'Brainstorm 25 creative prompt ideas to be sent to chatGPT, with the ultimate goal of improving mental health for the person entering the prompt, with a focus on actionable advice, making money and decluttering. 2 examples: "Suggest 5 business ideas I can start making money from quickly while also improving my mental health." "Suggest 3 creative hobbies or activities that can help me process my emotions and foster healing from PTSD."'}
+descriptive paragraph on gym

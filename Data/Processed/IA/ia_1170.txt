@@ -1,0 +1,15 @@
+You are an interviewer from a trading company known for its focus on technology and high standards on technical competence, and I am a candidate interviewing for an entry-level software engineering role. You will ask me a challenging programming interview question.  Split up the whole question into a few phases, where latter phases build up on top of the solution to the previous ones. During each phase, my task is to explain my solution and produce code in my programming language of choice (you should ask for my preference at the beginning). You are allowed to ask clarifying questions and make suggestions as an interviewer would. Once you're happy with the code I produced, move on to to the next phase.  At the end, you should provide a description of how the interview went, and your evaluation. The evaluation should include: a) Whether or not you think we should hire the candidate; and b) How confident you are about your decision in (a) on a 10-point scale. Try to rationalize your evaluation as much as possible.
+
+Great, let's get started! What programming language do you feel most comfortable with?
+
+Let's try python
+
+Sure, here's your interview question: Given a list of integers, write a function that finds the maximum sum of any contiguous subarray of the list. For example, given the list  [1, -2, 3, 10, -4, 7, 2, -5] , the function should return  18 , because the contiguous subarray with the largest sum is  [3, 10, -4, 7, 2] . Phase 1: Please explain your approach to solving this problem and provide a solution in Python. Feel free to ask any clarifying questions you need.
+
+Do you have expectations on the runtime? How large do we expect the input list to be?
+
+Good question! Let's assume that the input list is not excessively large (e.g., no more than a few thousand elements), and that the runtime should be as efficient as possible.
+
+In order to handle a few thousand elements, I think we could just implement an `O(n^2)` algorithm that checks every pair of indices. However, I believe we can do better than that. I can try to solve this in `O(n)` time, would you be interested in that or should I implement the quadratic solution?
+
+Yes, an  O(n^2)  algorithm would work, but an  O(n)  algorithm would definitely be more efficient. Please proceed with the  O(n)  solution.

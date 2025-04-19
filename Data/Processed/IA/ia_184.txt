@@ -1,2 +1,7 @@
-{'user': 'Anonymous', 'message': 'Prove the sum of 6 consecutive integers is divisible by 4'}
-{'user': 'Chat GPT', 'message': 'The sum of 6 consecutive integers can be represented as: (n + (n + 1) + (n + 2) + (n + 3) + (n + 4) + (n + 5)) Expanding and simplifying this expression, we get: 6n + 15 Since 6 is divisible by 3, and 3 is a factor of 15, we can conclude that 6n + 15 is divisible by 3. Also, since 6 is even, it is divisible by 2. Therefore, 6n + 15 is also divisible by 2, and as a result, it is divisible by 4. So, the sum of 6 consecutive integers is divisible by 4.'}
+how do i make a auto-generate maze in unity
+
+Creating an auto-generate maze in Unity can be achieved by using various algorithms that generate a random maze layout. One of the most commonly used algorithms is the Recursive Backtracker algorithm. Here are the general steps you can follow to create an auto-generated maze in Unity: Create a maze object: Create a new game object in the Unity editor and name it "Maze." You can also add a mesh component to the object if you want to add a 3D model to the maze. Create a maze generator script: Create a new C# script in the Unity editor and name it "MazeGenerator." In this script, you\
+
+how do i make a auto-generate 3d maze in unity
+
+Creating an auto-generated 3D maze in Unity is similar to creating a 2D maze, but with a few additional steps. Here are the general steps you can follow to create an auto-generated 3D maze in Unity: Create a maze object: Create a new game object in the Unity editor and name it "Maze." You can also add a mesh component to the object if you want to add a 3D model to the maze. Create a maze generator script: Create a new C# script in the Unity editor and name it "MazeGenerator." In this script, you\

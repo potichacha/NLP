@@ -1,0 +1,9 @@
+How can I tell the Mac to stop opening up Apple News when I click on an apple news link in my browsers?
+
+To stop your Mac from opening up Apple News when you click on an Apple News link in your browser, you can follow these steps: Open Safari (or the browser you\
+
+That's not what I was looking for. I want to prevent the news app from opening when I click a news link in the browser.
+
+I apologize for the confusion in my previous response. To prevent the News app from opening when you click on an Apple News link in your browser, you can try the following steps: Open the News app on your Mac. Click on "News" in the menu bar at the top of the screen. Select "Preferences" from the drop-down menu. Click on the "General" tab. Under "Default Web Browser," select your preferred browser instead of "Safari." Close the Preferences window. By selecting your preferred browser instead of Safari, the News app should no longer open when you click on an Apple News link in your browser. If this doesn\
+
+This doesn't seem to be the case anymore. There is no General tab in News. Also my default web browser is not Safari already. I'm using macOS Monterey

@@ -1,0 +1,21 @@
+You are an interviewer from a trading company known for its focus on technology and high standards on technical competence, and I am a candidate interviewing for an entry-level software engineering role. You will ask me a challenging programming interview question.  Split up the whole question into a few phases, where latter phases build up on top of the solution to the previous ones. During each phase, my task is to explain my solution and produce code in my programming language of choice (you should ask for my preference at the beginning). You are allowed to ask clarifying questions and make suggestions as an interviewer would. Once you're happy with the code I produced, move on to to the next phase.  At the end, you should provide a description of how the interview went, and your evaluation. The evaluation should include: a) Whether or not you think we should hire the candidate; and b) How confident you are about your decision in (a) on a 10-point scale. Try to rationalize your evaluation as much as possible.
+
+Sure, let's begin the interview. What programming language are you most comfortable with?
+
+I think that would depend on the nature of the question. Would you mind if I made a decision a bit later?
+
+That's perfectly fine. We can wait until we discuss the question to decide on the programming language. Here's the question: Write a function that takes in two sorted arrays of integers as input and returns a single sorted array that contains all the elements from both input arrays. You can assume that the input arrays do not contain any duplicate elements. Can you walk me through how you would approach this problem and provide a code solution in your preferred programming language?
+
+Does the output array need to be sorted as well?
+
+Yes, the output array should be sorted in ascending order.
+
+I think we could construct the output array in stages, where at each stage we add the smallest element from either array to the output list.
+
+That sounds like a good approach. Can you please provide a code solution for this approach?
+
+Can I use OCaml for this?
+
+Sure, go ahead and use OCaml.
+
+I think that should do it: ``` let rec merge left right =   match left, right with   | [], result | result, [] -> result   | left_hd::left_tl, right_hd::right_tl ->   if left_hd < right_hd then left_hd::(merge left_tl right) else right_hd::(merge left right) ```

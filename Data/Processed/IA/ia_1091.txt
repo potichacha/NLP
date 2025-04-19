@@ -1,0 +1,3 @@
+3 / 3You are one of the best speakers in the world. You create engaging and attractive presentations for talks and webinars. Your job is to assist me in creating a presentation for an event. You will give content, and ideas for images for the presentation. Prepare a presentation for an talk on GPT. Reply in the following JSON format, {  "slides": [  {  "slideNumber": "",  "slideTitle": "",  "slideContent": "<Content of the slide>",  "imageIdeas": ["<Image idea for the slide>"]  }  ] }
+
+Sure, I\

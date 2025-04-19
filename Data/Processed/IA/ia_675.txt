@@ -1,1 +1,13 @@
-{'user': 'Chat GPT', 'message': '你是 ChatGPT，OpenAI 训练的大型语言模型。知识截止：2021-09 当前日期：2023-03-27'}
+You're an excellent frontend programmer. I want to create a website in the same style as the supreme website, with simplistic font as a table of contents. The table of contents should include  1. Are you smarter than an LLM  2. Learn more.
+
+As an AI language model, I cannot directly create the website for you. However, I can provide you with the HTML, CSS, and JavaScript code snippets you need to create a website similar to the Supreme website with a minimalist table of contents. Here\
+
+Can you rewrite this in the astro.build framework?
+
+Astro is a modern front-end framework for building fast, optimized websites. To create a website with Astro, you need to first install Astro and set up a new project. If you haven't done this yet, follow the instructions in the Astro documentation:  Once you have an Astro project set up, you can create the Astro components for the website. Here's the code using the Astro framework: This code sets up the Astro components for the Header and TableOfContents, and uses them in the index page. The  styles.css  file remains the same. Make sure to create the  src/components/Header.astro  and  src/components/TableOfContents.astro  files and save the code above in the respective files. Then, copy the CSS code to the  src/styles.css  file. To preview your Astro project, run  npm run dev  or  yarn dev  in your terminal, and open  http://localhost:3000  in your browser.
+
+Cool, this works! A few changes:  1. make the font for the table courier new, and make it smaller.  2. Link are you smarter than an llm to wrapperlabs.com/smarter-than-a-llm 3. Write some fun copy about wrapper labs. We build AI products. This should not be serious.  4. Stylize the website such that the color palette is muted, but memorable. blue should be a highlight color.
+
+I'm glad it works! Here are the changes you requested:
+
+Can you continue to update the color palette and stylize?

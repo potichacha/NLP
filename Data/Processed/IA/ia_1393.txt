@@ -1,0 +1,13 @@
+Given an API client method `API.listResults(nextToken?: string): Promise<{ results: Array, nextToken?: string>}` where `nextToken` represents an opaque pagination cursor, write a react-query `useInfiniteQuery` hook crawls and accumulates all of the results by recursively fetching the next page with the nextToken inside onSuccess
+
+Sure, here's an example of how you could write a  useInfiniteQuery  hook using  react-query  that crawls and accumulates all of the results from the API: In this example: To use this hook in a component, you would do something like this: In this example:
+
+Can we automatically crawl and accumulate without the caller of the hook having to call fetchNextPage?
+
+Yes, you can use  react-query \
+
+You're not understanding. We want to crawl all of the API pages by recursively calling fetchNextPage inside of onSuccess. The component calling this hook shouldn't have to call `fetchNextPage` and should be able to render the entirety of the data as it accumulates
+
+I apologize for the confusion earlier. Here's an updated example of the  useAllResults  hook that recursively calls  fetchNextPage  inside  onSuccess  to crawl all of the API pages: In this example: With this implementation, the  Results  component would receive all of the accumulated results and would not need to call  fetchNextPage  or implement any pagination logic.
+
+Isn't the `data` parameter provided to `onSuccess` the resulting object produced by the `select`? If so, then I don't see how `nextToken` would be available since we're not producing that in the `select`

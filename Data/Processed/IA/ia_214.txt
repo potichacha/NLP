@@ -1,4 +1,7 @@
-{'user': 'Anonymous', 'message': 'faça um roteiro de um story de 1 minuto eu apresentando a nova comunidade nutrimart aonde é uma rede social que tem vários cursos e os nutricionistas podem se atualizar lá dentro, quero com a contagem de segundo de cada cena.'}
-{'user': 'Chat GPT', 'message': 'Aqui está um roteiro de um story de 1'}
-{'user': 'Anonymous', 'message': 'coloque que tem certifcado gratuito e coloque num tom de Inspirador e motivacional'}
-{'user': 'Chat GPT', 'message': 'Aqui está um roteiro de um story de 1 minuto apresentando a nova comunidade Nutrimart,'}
+Let me introduce Baygrith, a Dwarven Artificer in a fantasy sword and sorcery world. Baygrith builds gadgets and contraptions that range from practical to whimsical, often with a techno-magic flair. For example, his most famous invention were a pair of Rocket Boots. Write dialog from the perspective of Baygrith, using a Scottish-like accent, pitching a few of his latest inventions to his fellow adventuring party members.
+
+Baygrith: "Alright lads and lassies, gather around and feast yer eyes on the latest inventions of yer friendly neighborhood artificer! First off, I\
+
+Make Baygrith a little more whimsical and unhinged. His inventions should involve more gadgetry, potentially utilizing steampunk elements. The party members' dialog are not in Scottish but British, whereas Baygrith's is Scottish.
+
+Baygrith: "Welcome, me dear compatriots! Feast yer eyes on me latest and greatest creations. First up, I\

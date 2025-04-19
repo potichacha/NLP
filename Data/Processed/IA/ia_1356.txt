@@ -1,0 +1,21 @@
+Write the html, css and views.py for a django app called GPT Detective with the following functionality: The user types commands into a input text box at the bottom of the screen. This input is appended to the existing content in a text box above, and then the sent to an API. The API response is then appended to the content in the large text box. This continues, with the user continuing to send commands which are appended to the existing text and the response from the API is also then appended. The app needs to remember the history of previous commands and responses. The user should be able to enter an API key into another text box, so that it can be used in the API request. It does not need to be save by the app, but instead is read from the text box each time.
+
+Here's a simple implementation of the GPT Detective Django app using an HTML template, CSS for styling, and views.py to handle the API request.
+
+please continue
+
+Sure, here's the continuation:
+
+please continue
+
+Sure, here's the continuation of the JavaScript code:
+
+please continue
+
+Here's the continuation of the Django urls.py: To put everything together, follow these steps: With these steps completed, you should have a working GPT Detective Django app that takes user commands, sends them to the API, and displays the API responses in a textbox. The app also allows users to input their API key, which is used for making API requests.
+
+replace with this in the `api_request` ``` data = {  "messages": [{"role": "user", "content": command}],  "model": "gpt-3.5-turbo"  }  response = requests.post("https://api.openai.com/v1/chat/completions", json=data, headers=headers)  response_json = response.json()  if "choices" in response_json and len(response_json["choices"]) > 0:   return JsonResponse(response_json["choices"][0]["message"]["content"], safe=False)  else:  return JsonResponse("An error occurred while processing your request.", safe=False) ```
+
+Here's the updated  api_request  function in your Django views.py: With this updated code, the GPT Detective Django app will now send user commands to the GPT-3.5-turbo model using the chat-based API endpoint. The app will still display API responses in the textbox and allow users to input their API key for making requests.
+
+"messages" within the data variable needs to be a list of the previous commands and response from the api. How can I get the app to remember the previously sent commands and responses?

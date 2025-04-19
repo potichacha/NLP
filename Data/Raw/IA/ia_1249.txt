@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': "Give me 50 chess.com username ideas that are epic and hilarious: Here are my other usernames (just for inspiration, do you don't have to make anything that is related to this): Discord: Indifference Instagram: victor_taimanov"}
+{'user': 'Anonymous', 'message': 'Okay, now give me lichess.org usernames.'}

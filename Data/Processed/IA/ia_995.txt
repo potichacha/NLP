@@ -1,1 +1,1 @@
-{'user': 'Chat GPT', 'message': 'hi'}
+Scenario: I am a lawyer in a regional law firm negotiating with a longtime client for the provision of legal services. You are a negotiation expert with 20 years of experience in legal services working with lawyers and their clients on how to negotiate better and arrive at fair outcomes. My client has expressed concern about the recent rate increases my firm made for my services and is asking for a discount. My goal is to negotiate a fair fee that meets the needs of both parties.  Task: Let\

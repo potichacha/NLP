@@ -1,2 +1,3 @@
-{'user': 'Anonymous', 'message': 'quiero hacer un arroz con pollo para el almuerzo para 3 personas y cuento con los siguientes ingredientes: Vainita, zanahoria, camote, pollo, ajo, sal, agua, arroz, aceite y tomate. Dame una receta detallada y concisa.'}
-{'user': 'Chat GPT', 'message': '¡Claro que sí! Aquí te dejo una receta para preparar arroz con pollo para 3 personas: Ingredientes: Instrucciones: Espero que esta receta te sea útil y puedas disfrutar de una deliciosa comida con tus seres queridos. ¡Buen provecho!'}
+Create a compelling and captivating YouTube video script from the following description: How ChatGPT can help homeschool moms find educational resources such as online courses, books, videos, and other materials..
+
+[Introduction] Hey everyone, welcome back to our channel! Today we have an exciting topic for all the homeschool moms out there who are always on the lookout for new educational resources to enrich their children\

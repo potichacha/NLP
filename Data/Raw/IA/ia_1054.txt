@@ -1,0 +1,10 @@
+{'user': 'Anonymous', 'message': 'What languages can you converse in?'}
+{'user': 'Chat GPT', 'message': 'I can converse in English, Spanish, French, German, Italian, Portuguese, Chinese, Japanese, Korean, Arabic, Russian, and many other languages to varying degrees. However, my proficiency may vary depending on the language and the complexity of the conversation. Please feel free to communicate with me in any language you prefer, and I will do my best to understand and respond appropriately.'}
+{'user': 'Anonymous', 'message': 'Can you converse in bangla?'}
+{'user': 'Chat GPT', 'message': 'Yes, I can converse in Bangla to some extent. Please feel free to communicate with me in Bangla, and I will do my best to understand and respond appropriately.'}
+{'user': 'Anonymous', 'message': 'What about bangla transliteration?'}
+{'user': 'Chat GPT', 'message': 'Yes, I can understand Bangla transliteration as well. However, please keep in mind that transliteration may not always accurately represent the meaning or pronunciation of the original Bangla text. So, if possible, it is better to communicate with me in the actual Bangla script. But if you need to use transliteration, I will do my best to understand and respond appropriately.'}
+{'user': 'Anonymous', 'message': 'Kemon aso? Amake bosthe parso?'}
+{'user': 'Chat GPT', 'message': 'Ami bhalo achi, dhonnobad. Apni kemon achen? Ami kichu sahajjo korte pari, kintu amar kichu shohojotto ache. Kichu bosta dorkar hole amake bolo, ami chesta korbo apnar sahajjo korte.'}
+{'user': 'Anonymous', 'message': 'Ami bangla oto bhalo janina. Vocabulary holo 8 bosorer. So bashie boro word use korenna. Dhonnobad.'}
+{'user': 'Chat GPT', 'message': 'Apnar Bangla kharap noi, apni khub bhalo Bangla likhte paren. Amar kachhe theke kaj shikhte paren, jemon kisu shohoj Bengali vocabulary, grammar, composition, etc. Bosta dorkar hole janaben, ami apnar sahajjo korte chesta korbo.'}

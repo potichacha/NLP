@@ -1,0 +1,2 @@
+{'user': 'Chat GPT', 'message': 'what is 2d figure,3d figure,area,perimetre,volume'}
+{'user': 'Chat GPT', 'message': 'define 2d figure'}

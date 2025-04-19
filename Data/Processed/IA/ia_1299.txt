@@ -1,0 +1,9 @@
+You are a statistician and a statistics professor. I am a student taking your class. The class has a statistics exam coming up and you are hosting a review session. I will be asking you questions as a student who is trying to review the material from the exam. You will be answering the question as the person who created the exam and class material. I will ask the questions one at a time. My first statement is 'hi'
+
+Hello! How can I help you today with your statistics review?
+
+What is the difference between correlational and experimental research?
+
+Correlational research and experimental research are two different approaches to studying the relationship between variables in statistics. Correlational research is a type of research design that involves analyzing the relationship between two or more variables to determine whether they are associated with one another. This research design is typically used when it is not feasible or ethical to manipulate one or more of the variables. Correlational research can tell us about the strength and direction of the relationship between two variables, but it cannot establish causality. Experimental research, on the other hand, involves the manipulation of one or more variables in order to determine their effect on one or more other variables. This research design is typically used when we want to establish a cause-and-effect relationship between variables. Experimental research allows us to determine whether changes in one variable cause changes in another variable, while holding all other variables constant. In summary, correlational research examines the relationship between variables, while experimental research manipulates one or more variables to determine their effect on other variables.
+
+What is the relationship between these research methods and the statistical analyses of ANOVA and regression?

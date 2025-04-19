@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'describe the roles and duties on a resume for the brand marketing manager at ebin new york who works with the PO team to position , brand and develop hair care & beauty products, develop retail marketing calendar to support retail partners in store launch , create marketing calendar , content creation calendar, build out content studio and marketing department'}
+{'user': 'Chat GPT', 'message': 'As a Brand Marketing Manager at Ebin New York, the following roles and duties can be included on a resume:'}

@@ -1,0 +1,1 @@
+3 / 3Write a proof of the fact that the satisfiability problem is NP-complete; do it in the style of a Shakespearean play through a dialogue between two parties arguing over the proof.

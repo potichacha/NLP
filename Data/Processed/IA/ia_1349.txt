@@ -1,0 +1,11 @@
+Necesito crear un add-on de gmail que se conecte a mi gmail y me indique cuáles son los e-mails más relevantes por un lado y por otro lado, cuando esté en una cadena, que me de un resumen y me indique si hay alguna tarea que se desprenda de la cadena que me afecte a mi o esté asignada a mi. El add-on debe hacer uso de la api de gpt tanto para obtener los e-mails más relevantes como para el resumen y extracción de tareas que me afecten.
+
+Para crear un add-on de Gmail que utilice la API de GPT, deberás seguir estos pasos: Habilitar la API de Gmail y la API de GPT: Crear las credenciales para tu proyecto: Configurar el entorno de desarrollo para Apps Script: Desarrollar el add-on de Gmail: Probar y desplegar el add-on: Ten en cuenta que este es un resumen general del proceso de desarrollo de un add-on de Gmail con la API de GPT. Para obtener detalles específicos y ejemplos de código, te recomiendo revisar la   y la documentación de la API de GPT que planeas utilizar (por ejemplo,  ).
+
+necesitaría más detalle del paso 2
+
+Claro, aquí tienes más detalles sobre el paso 2, que es crear las credenciales para tu proyecto: Acceder a la Consola de Google Cloud Platform (GCP): Crear un ID de cliente OAuth 2.0: Descargar el archivo JSON de credenciales: Este archivo JSON de credenciales contiene la información necesaria para autenticar tu aplicación en las API de Google que has habilitado. Asegúrate de mantener este archivo en un lugar seguro y no lo compartas públicamente, ya que contiene información sensible. En el paso 4, utilizarás las credenciales en el archivo JSON para autenticar tu aplicación y acceder a las API de Gmail y GPT.
+
+cuando dices "Añade las bibliotecas necesarias para la API de GPT en "Recursos" > "Bibliotecas" a qué te refieres? dónde están esas bibliotecas?
+
+Mis disculpas por la confusión. Me equivoqué al mencionar "Bibliotecas" en ese contexto. En Google Apps Script, no hay bibliotecas específicas para GPT. En su lugar, puedes usar la función  UrlFetchApp  para hacer solicitudes a la API de GPT (como la API de OpenAI) directamente. Aquí hay un ejemplo de cómo hacer una solicitud a la API de OpenAI usando  UrlFetchApp : Reemplaza  \

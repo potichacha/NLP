@@ -1,0 +1,7 @@
+write a react component for nextjs application that has a react-dropbox in the center of the page. When a user drops FCS files, upload the files to a new azure storage account container and parse the fcs files server sider, return the file names, and image of the FSCxSSC scatter dotplot using d3js and the parsed FCS headers in a card for each file in a 12x12 grid
+
+Here's an example of a React component that uses the react-dropbox package to handle file uploads, and then uploads the files to an Azure storage account container using the Azure Blob Storage SDK. It then uses D3.js to parse the FCS headers and generate the scatter plot image, which is displayed in a card in a 12x12 grid.
+
+write a react component for nextjs application that has a react-dropbox in the center of the page. When a user drops FCS files, upload the files to a new azure storage account container and parse the fcs files server side, return a card grid in which the card header is the file names and the card body is the parsed FCS headers key values as a list.
+
+Sure, here\

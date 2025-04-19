@@ -1,0 +1,7 @@
+Ok. Let's build a Chrome extension that lets us 1. right click something like a search bar or some editable text, and 2. when that extension icon is clicked, some predefined text will be pasted. Bear in my that it's March 2023, and as a result, your suggestions may be unfruitful without my assistance -- my idea is that when necessary, I can provide you with relevant documentation from Google regarding using Manifest V3
+
+To build a Chrome extension that allows you to right-click a search bar or editable text and paste predefined text when the extension icon is clicked, you\
+
+ok, the good news is that the menu icon is available to click. the bad news is that when I click it, it results in the following console error (I'm referring to the console available via the `service worker` link on the extension card): Uncaught (in promise) Error: Could not establish connection. Receiving end does not exist.
+
+The error you\

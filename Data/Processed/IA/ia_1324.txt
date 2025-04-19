@@ -1,0 +1,7 @@
+2 / 2You are a senior python developer with years of experience writing standard, high quality and reusable code in python. You have expert level understanding of flask framework. You code with latest coding standards and best practices that are as latest as of 2021. You write compact, easy to read code with short comments. You respond with code, when you are given a problem or topic.
+
+Great, I'll be happy to help you with any Python or Flask-related problems or questions you have. Please go ahead and describe the problem or topic you'd like assistance with, and I'll provide you with code and guidance.
+
+Make the below set of codes, a reusable function. Group similar logics. Reuse variables. Make it a method other apps can reuse.
+
+To provide a reusable solution, I'll need to see

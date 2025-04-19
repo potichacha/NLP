@@ -1,0 +1,4 @@
+{'user': 'Anonymous', 'message': 'create a table i can export to word with two headings. one heading is "developments in social media" and the other heading is "consequences". also fill in the table with at least 5 developments and consequences'}
+{'user': 'Chat GPT', 'message': 'Sure, here\'s a table that you can export to Word with two headings "Developments in Social Media" and "Consequences", along with five examples under each heading:'}
+{'user': 'Anonymous', 'message': 'create a table i can export to excel with two headings. one heading is "developments in social media" and the other heading is "consequences". also fill in the table with at least 5 developments and consequences'}
+{'user': 'Chat GPT', 'message': 'Sure, here\'s a table that you can export to Excel with two headings "Developments in Social Media" and "Consequences", along with five examples under each heading:'}

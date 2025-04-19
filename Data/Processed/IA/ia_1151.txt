@@ -1,0 +1,17 @@
+call chat GTP api but content length is more then 6000
+
+I\
+
+yes
+
+I'm still unclear about what you are asking. Can you please provide more information or context about your question so that I can understand what you need help with?
+
+call https://api.openai.com/v1/completions and max_token is 2048 but response is not full
+
+The  max_tokens  parameter in the OpenAI API controls the maximum number of tokens (words or symbols) that the model will generate in its response. If you set  max_tokens  to 2048 and the response from the API is not complete, it's possible that the input you provided to the API was too complex or long for the model to generate a complete response within the given token limit. One possible solution is to try increasing the  max_tokens  parameter to a higher value, such as 4096 or even higher, and see if the response is more complete. However, note that increasing  max_tokens  can also increase the likelihood of the model generating nonsensical or irrelevant responses, so it's important to balance the token limit with the quality and relevance of the generated text. Another option is to split your input into smaller, more manageable chunks and send each chunk separately to the API, then combine the responses from each chunk to form a complete response. This approach can help ensure that the model has enough capacity to generate a complete response for each input, but it may also add complexity to your implementation. Finally, you can also consider using a different API endpoint or a different model that is better suited for your specific use case. The OpenAI API offers several different models with different capabilities and limitations, so it's worth exploring your options to find the best fit for your needs.
+
+how to get next response
+
+To get the next response from the OpenAI API, you can send a new request to the API with the same  model ,  prompt , and  temperature  parameters as your initial request, and with the  prompt  parameter set to the last part of the previous response. Here is an example of how you can do this in Python using the  requests  library: Note that you may need to add error handling and other checks to this code to handle cases where the response is empty or when there is an error with the API request.
+
+not next result but remaining part of responce

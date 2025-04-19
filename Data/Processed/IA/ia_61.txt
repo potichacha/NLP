@@ -1,2 +1,5 @@
-{'user': 'Anonymous', 'message': 'What can some snakes go several weeks without?'}
-{'user': 'Chat GPT', 'message': 'Some snakes are able to go several weeks without food. Many species of snakes are able to fast for extended periods of time, especially if they have recently eaten a large meal. Some snakes, particularly those that live in colder climates, may also go several weeks without eating during the winter months when food is scarce. However, it is important to note that snakes have different nutritional and dietary needs, and it is not healthy for all snakes to go long periods of time without eating. If you have a pet snake, it is important to follow the specific feeding recommendations provided by your veterinarian or the breeder to ensure that your snake is receiving proper nutrition.'}
+get rider location and send user javascript code
+
+To get the location of a rider using JavaScript, you can use the Geolocation API. This API allows you to access the device\
+
+get rider location and send user continusly

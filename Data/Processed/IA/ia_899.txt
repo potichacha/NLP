@@ -1,1 +1,1 @@
-{'user': 'Anonymous', 'message': '1)\tProcessus détaillé sur le processus de production du compost 2)\tLes different type de compost que l’on peut avoir 3)\tQue suggérez vous pour une meilleure disponibilité du compost pour les producteurs au Burkina Faso ?'}
+JavaScript Ajax Request : load data from php

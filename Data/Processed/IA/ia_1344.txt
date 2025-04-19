@@ -1,0 +1,7 @@
+can you code review my code?
+
+Of course, I can review your code. Please provide me with the code you would like me to review, along with any specific questions or concerns you have.
+
+package main import (  "context"  "fmt"  "log"  "net/http"  "github.com/ServiceWeaver/weaver" ) func main() {  // Get a network listener on address "localhost:12345".  root := weaver.Init(context.Background())  opts := weaver.ListenerOptions{LocalAddress: "localhost:12345"}  lis, err := root.Listener("hello", opts)  if err != nil {  log.Fatal(err)  }  fmt.Printf("hello listener available on %v ", lis)  // Get a client to the Reverser component.  reverser, err := weaver.Get[Reverser](root)  if err != nil {  log.Fatal(err)  }  // Serve the /hello endpoint.  http.HandleFunc("/hello", func(w http.ResponseWriter, r *http.Request) {  fmt.Fprintf(w, "Hello, %s! ", r.URL.Query().Get("name"))  })  // Serve the /reverse endpoint  http.HandleFunc("/reverse", func(w http.ResponseWriter, r *http.Request) {  reversed, err := reverser.Reverse(r.Context(), r.URL.Query().Get("name"))  if err != nil {  http.Error(w, err.Error(), http.StatusInternalServerError)  }  fmt.Fprintf(w, "Hello, %s! ", reversed)  })  http.Serve(lis, nil) }
+
+This code appears to be a simple server that listens on localhost:12345 and provides two HTTP endpoints: /hello and /reverse. Here are some observations and suggestions: It\

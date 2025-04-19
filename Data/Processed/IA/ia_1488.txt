@@ -1,0 +1,9 @@
+could you write me a piece of software in any language pre-1999 that displays a cool motion graphics demonstration?
+
+Certainly! Here's an example program in Turbo Pascal that generates a simple motion graphics demonstration using ASCII characters: This program generates a bouncing '@' character that moves around the screen, bouncing off the edges of the screen. The  Randomize  procedure is used to seed the random number generator, which is used to determine the initial direction of motion. The  Delay  procedure is used to pause execution for a short period between frames to create the illusion of motion.
+
+could you give me a version of this program that could run in a browser?
+
+Sure! Here's an example of the same motion graphics demonstration using JavaScript that can run in a browser: This program uses HTML, CSS, and JavaScript to create a canvas element that is used to draw the bouncing '@' character. The canvas is resized to fill the entire browser window. The  drawFrame  function is used to clear the canvas and draw the '@' character at the current position. The  update  function is used to update the position of the character and reverse its direction when it hits the edges of the screen. Finally, the  setInterval  function is used to repeatedly call the  drawFrame  and  update  functions at regular intervals to create the illusion of motion.
+
+it can easily be said that computer graphics are creating the illusion of motion when they create video. is it similarly accurate to say that the audio processor is creating the illusion of sound? like it is technically encoding discreet frequencies and amplitudes, which are transformed into sound by the speakers, but during the in between state, it would just be an illusion of sound?

@@ -1,0 +1,1 @@
+Give me PlantUML code to create a mark down mindmap (atleast 5 levels ,only telegraphic text in code strictly,No fully formed sentences please) depicting 20 POINTS on text in the style of in sahil bloom\

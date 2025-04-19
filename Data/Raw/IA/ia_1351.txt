@@ -1,0 +1,8 @@
+{'user': 'Anonymous', 'message': 'most common linux command lines'}
+{'user': 'Chat GPT', 'message': 'CODAI *-^ most_common_linux_commands.sh DONE.'}
+{'user': 'Anonymous', 'message': 'most popular linux command lines'}
+{'user': 'Chat GPT', 'message': 'CODAI *-^ most_popular_linux_commands.sh DONE.'}
+{'user': 'Anonymous', 'message': 'provide me with more than 10 linux commands, that are common and useful'}
+{'user': 'Chat GPT', 'message': 'CODAI *-^ common_and_useful_linux_commands.sh DONE.'}
+{'user': 'Anonymous', 'message': '2 / 2for the above 20 commands you provided, mention what each name stands for what words?'}
+{'user': 'Chat GPT', 'message': 'CODAI *-^ command_names_expansion.sh DONE.'}

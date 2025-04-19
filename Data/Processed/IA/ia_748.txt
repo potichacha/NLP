@@ -1,2 +1,7 @@
-{'user': 'Anonymous', 'message': 'cuestionario de 20 preguntas para hacer a una mujer emprendedora, que es lider de mujeres'}
-{'user': 'Chat GPT', 'message': '¡Por supuesto! Aquí tienes un cuestionario de 20 preguntas que puedes hacerle a una mujer emprendedora que lidera a otras mujeres:'}
+what if we devised a custom shorthand, in which you could use to compress your answers to me, and I could submit your answer into a program that automatically decompresses the shorthand to full length?
+
+That\
+
+what is the best working example of this in use already?
+
+One of the best working examples of a shorthand system used for efficient communication is the "Stenotype" machine used by court reporters and stenographers. It allows them to type at very high speeds (over 200 words per minute) by using a phonetic-based shorthand system. Stenotype machines have a limited number of keys, and the operators press multiple keys simultaneously to record syllables, phrases, or even entire words in a single stroke. These shorthand notations are then translated into full-length text by specialized computer software. Though stenography is mainly used in legal proceedings, it demonstrates the practicality and efficiency of a well-designed shorthand system when paired with the right technology. However, it\

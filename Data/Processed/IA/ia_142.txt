@@ -1,4 +1,7 @@
-{'user': 'Anonymous', 'message': 'can you write me a poem about Ryan and Melissa and their 3 boys? Maybe a sonnet?'}
-{'user': 'Chat GPT', 'message': "Ryan and Melissa, with boys three, A family full of love and energy. Their laughter echoes through the halls, As they play and have a ball. The eldest, Jack, with curious mind, Asks questions all the time. The middle one, Alex, so full of fun, Always on the go, never done. And little Max, the baby of the crew, Bringing joy to all, with eyes so blue. Together they explore and create, Making memories that truly rate. Their bond is strong and unbreakable, A family that is truly remarkable. With love that guides them every day, Their bond will never fade away. Ryan and Melissa, with boys three, A family that's a true poetry."}
-{'user': 'Anonymous', 'message': 'Now change the boys names to Aidan, Nick and Andrew.'}
-{'user': 'Chat GPT', 'message': "Aidan, Nick, and Andrew, three boys strong, A family bond that will never be wrong. Their laughter echoes through the halls, As they play and have a ball. The eldest, Aidan, with curious mind, Asks questions all the time. The middle one, Nick, so full of fun, Always on the go, never done. And little Andrew, the baby of the crew, Bringing joy to all, with eyes so blue. Together they explore and create, Making memories that truly rate. Their bond is strong and unbreakable, A family that is truly remarkable. With love that guides them every day, Their bond will never fade away. Ryan and Melissa, with boys three, A family that's a true poetry."}
+create an article about cats using this markdown template " # [Title] [description] ### Facts - [fact] "
+
+Cats are beloved pets for millions of people around the world, but despite their popularity, many people don't know much about what makes these fascinating creatures tick. From their unique body language to their playful antics, there's a lot to learn about cats.
+
+Now update this article with this new markdown template and put "@TODO" in places you can\
+
+**By: ChatGPT (OpenAI) Cats are beloved pets for millions of people around the world, but despite their popularity, many people don't know much about what makes these fascinating creatures tick. From their unique body language to their playful antics, there's a lot to learn about cats. @TODO

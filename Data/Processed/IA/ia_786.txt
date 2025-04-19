@@ -1,2 +1,7 @@
-{'user': 'Anonymous', 'message': 'Oi'}
-{'user': 'Chat GPT', 'message': '\u200b'}
+Need to setup an inventory tracking system for film rental gear. It should integrate with our internal Linux server and support thermal label printers
+
+To set up an inventory tracking system for your film rental gear, you can use an open-source inventory management software that supports integration with Linux servers and thermal label printers. One such solution is Snipe-IT. Here\
+
+Does snipe IT let us check in and out hardware
+
+Yes, Snipe-IT allows you to check in and check out hardware assets. The system is designed to manage and track assets throughout their lifecycle, including assigning assets to users or locations and monitoring the check-in and check-out process. Here\

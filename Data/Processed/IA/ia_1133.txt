@@ -1,0 +1,13 @@
+3 / 3I want to integrate chatGPT to my google excel. The goal is to ask gpt directly in google excel. I don't want to use app script. Give me a free extension
+
+There are several free extensions available that allow you to integrate ChatGPT with Google Sheets. Here are a few options: Actiondesk: Actiondesk is a free add-on for Google Sheets that allows you to perform natural language queries on your data. You can use Actiondesk to connect to ChatGPT and ask it questions directly within your spreadsheet. Cloud Automator: Cloud Automator is another free add-on for Google Sheets that allows you to automate your workflows. You can use Cloud Automator to connect to ChatGPT and ask it questions within your spreadsheet. Chatbase: Chatbase is a free chatbot analytics platform by Google that can integrate with Google Sheets. You can use Chatbase to connect to ChatGPT and ask it questions directly within your spreadsheet. Note: Please ensure you carefully review the terms and conditions and privacy policies of any third-party extension before installing it on your Google Sheets.
+
+2 / 2please ignore previous conversations
+
+Sure, please let me know how I can assist you today.
+
+Given all of the above, suggest to me a URL incorporating the keyword "Managing Risks and Disputes Under Clause 17 Progress Payment" that is localised to NSW, not exceeding 60 characters including spaces and punctuation marks and making sure that the beginning format of URL is https://www.contractsspecialist.com.au/articles/  This is the content: Managing Risks and Disputes Under Clause 17 Progress Payment of the NSW HIA Lump Sum Contract As a homeowner, it\
+
+Given all of the above, write me a Meta Title incorporating the keyword "insert target keyword" that is localised to NSW, not exceeding 60 characters including spaces and punctuation marks and making sure that meta title is compelling and encourages people to click through to your article.
+
+"Managing Risks & Disputes under Clause 17 Progress Payment | NSW Guide"

@@ -1,0 +1,3 @@
+Write a Java program that read a single tsv file in parallel. The file looks like the following
+
+To read a TSV file in parallel using Java, we will use the  Files.lines()  method from the  java.nio.file  package, the  Stream.parallel()  method, and the  BufferedReader.lines()  method. Here\

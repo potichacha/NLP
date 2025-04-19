@@ -1,5 +1,21 @@
-{'user': 'Anonymous', 'message': 'I need your assistance to write an article. The topic is about a contract clause 23 in the HIA NSW Lump Sum Contract. If you understand, limit your reply by saying the word: "acknowledged".'}
-{'user': 'Chat GPT', 'message': 'Acknowledged.'}
-{'user': 'Anonymous', 'message': 'Here is an extract of clause 23 of the HIA NSW Lump Sum Contract. Just remember this information for now. I will message you instructions in later messages. If you understand this instruction, limit your reply by saying the word: "acknowledged".’ Clause 23. Notices 23.1\tUnless otherwise stated in this contract, a notice given under this contract must be in writing and in English. 23.2\tNotices may be given: personally; by sending it by prepaid post to the party\'s address shown in Item 3 or Item 4 of Schedule 1 or the address that is last notified in writing; by sending it by facsimile to the party\'s facsimile number shown in Item 3 or Item 4 of Schedule 1 or the facsimile number that is last notified in writing; or by sending it by email to the party\'s email address shown in Item 3 or Item 4 of Schedule 1 or the email address that is last notified in writing. 23.3\tNotice is deemed to be received: if given personally, by handing it to the other party; if sent by prepaid post, 5 working days after posting; if sent by facsimile, at the time and on the day shown in the sender\'s transmission report; if sent by email, at the time of transmission unless the sender\'s server or email indicates a malfunction or error in transmission or the recipient immediately notifies the sender of an incomplete or illegible transmission. 23.4\tIf the notice is deemed to be received on a day which is not a working day or after 5pm, it is deemed to be received at 9am on the next working day. 23.5\tIf two or more people comprise a party, notice to one is effective notice to all.'}
-{'user': 'Chat GPT', 'message': 'Acknowledged. I understand the extract of Clause 23 of the HIA NSW Lump Sum Contract regarding notices, including the requirements for giving and receiving notices, and the impact of non-working days and after-hours on deemed receipt of notices.'}
-{'user': 'Anonymous', 'message': 'Here is the practical risk or benefit being managed by clause 23 of HIA NSW Lump Sum Contract and other information. If you understand this, limit your reply by saying the word: "acknowledged": Risk/Benefit: Ensuring effective communication between parties Benefit of Clause: Ensures that all notices under the contract are in writing and in English, which helps to avoid misunderstandings and misinterpretations Other Information: The clause provides various methods for giving notice, such as personal delivery, prepaid post, facsimile, and email Risk/Benefit: Establishing a clear timeline for notice delivery Benefit of Clause: Clearly defines when a notice is deemed to be received, which helps to establish a clear timeline for notice delivery Other Information: Notice by prepaid p
+Your job is to generate fixes for code quality issues. I will give you an example a code health issue with a suggested fix. Then, I will ask you to fix the issue in a new code snippet. Respond with the git patch of the fix, without any additional content. Issue title: Assert statement should not be used outside of test files Example of the issue: ```python assert compositecov_data is not None ``` Fixed code: ```python if compositecov_data is None:  raise AssertionError ```
+
+Sure, please provide the new code snippet that you'd like me to fix.
+
+```python def sample_function(a, b):  assert a > b  return a + b ```
+
+Here's the git patch with the fix for the code health issue:
+
+Okay, remove everything else and just respond with the git diff of the changes.
+
+Okay, let's try another example. Example of the issue: ```python  def get_number(self, min_max=[1, 10]):  ... ``` Fixed code: ```python def get_number(self, min_max=None):  if min_max is None:  min_max = [1, 10] ```
+
+Please provide the new code snippet that you'd like me to fix.
+
+```python def store_paths(matrix: list[list[int]], i: int, j: int, path=[]) -> None:  largest_element = 0  for row in set((i - 1, i, i + 1)):  for col in set((j - 1, j, j + 1)):  if 0 == j:  continue  else:  element = matrix[row][col]  if element > largest_element:  largest_element = element  path.append((row, col))  store_paths(matrix, row, col, path) ````
+
+Here's the git diff with the fix for the code health issue:
+
+Fix another snippet: ```python def moon_chooser(moon, moons=["europa", "callisto", "phobos"]):  if moon is not None:  moons.append(moon)  return random.choice(moons) ```
+
+Here's the git diff with the fix for the code health issue:

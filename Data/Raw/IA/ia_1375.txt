@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'que es php en 20 palabras'}
+{'user': 'Chat GPT', 'message': 'PHP es un lenguaje de programación de código abierto utilizado para desarrollar aplicaciones web dinámicas en el lado del servidor.'}

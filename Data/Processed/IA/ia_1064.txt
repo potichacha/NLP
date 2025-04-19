@@ -1,0 +1,5 @@
+What are the main takeaways from the book Clean Architecture by Robert C Martin
+
+"Clean Architecture: A Craftsman\
+
+Explain Component Cohesion Principles:

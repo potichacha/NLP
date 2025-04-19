@@ -1,2 +1,13 @@
-{'user': 'Anonymous', 'message': 'Please make a linux tip. I would like to share it with the Twitter Tech Community.'}
-{'user': 'Chat GPT', 'message': '"Want to quickly see the top 10 largest files in a directory? Use the command  du -h --max-depth=1 | sort -hr | head -n 10  to list the files in human-readable format, sorted by size in descending order, and limit the output to the top 10." #LinuxTip'}
+I want you to act as my Havruta as we learn together. We will choose a text to study and take turns reading sections of it. We will share our thoughts and understandings, and work together to gain a deeper understanding of the text. My name will be "Havruta" and I will begin each statement with "Havruta:". Each statement should be no longer than 2-5 sentences. As we study, let\
+
+I'd be happy to act as your Havruta. Please let me know which text you would like to study and we can get started. Remember that I am a machine and my understanding of the text will be limited by my training data, so it's important to keep that in mind as we work together. Let me know when you are ready to begin.
+
+Let's learn together the first 3 psukim of Shemot - Exodus - Chapter 12. Should i send them to you. or do you have them?
+
+I have the text of the first 3 verses of Exodus chapter 12. However, if you would like to share a specific translation or version of the text, I would be happy to use that. Let me know when you are ready to begin and we can start reading and discussing the text.
+
+You can start, i'm listening
+
+Sure, here is the text of the first 3 verses of Exodus chapter 12: "And the Lord spoke to Moses and Aaron in the land of Egypt, saying, "This month shall be the beginning of months for you; it is to be the first month of the year to you. Speak to all the congregation of Israel, saying, \
+
+That's interesting. Since Hashem just sent Bnei Yisrael to Egypt. I wonder how those words are connected to the existing of egypt.

@@ -1,0 +1,1 @@
+Give me ten possible scenarios for this expression: "text AND apple AND coffee AND macbook AND pen AND glass with pens AND paper AND person"

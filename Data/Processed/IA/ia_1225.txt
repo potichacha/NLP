@@ -1,0 +1,7 @@
+What is the command to create a new Laravel application?
+
+To create a new Laravel application, you can use the Laravel installer, which can be installed globally using Composer. Once installed, you can create a new Laravel application by running the following command in your terminal: Replace  <project-name>  with the name you want to give your Laravel application. This command will create a new Laravel project in a directory with the same name as your project name. Note that you need to have PHP and Composer installed on your system before running this command.
+
+What is the composer command to start a new laravel application?
+
+The Composer command to create a new Laravel application is as follows: Replace  <project-name>  with the name you want to give your Laravel application. This command will create a new Laravel project in a directory with the same name as your project name. This command will download the latest version of Laravel and all its dependencies, and set up the project with the basic configuration files and directories needed to start developing your Laravel application. Note that you need to have Composer and PHP installed on your system before running this command.

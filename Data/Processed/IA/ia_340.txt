@@ -1,10 +1,5 @@
-{'user': 'Anonymous', 'message': 'write a meme about self-encouragement'}
-{'user': 'Chat GPT', 'message': 'Image: A person looking at a mirror and cheering themselves on with a determined expression. Caption: "When you\'re your own hype squad because self-encouragement is the best encouragement!"'}
-{'user': 'Anonymous', 'message': 'write some affirmations for female entrepreneurs'}
-{'user': 'Chat GPT', 'message': 'Sure, here are some affirmations for female entrepreneurs:'}
-{'user': 'Anonymous', 'message': 'write a meme about celebrating yourself'}
-{'user': 'Chat GPT', 'message': 'Image: A person standing in front of a mirror, holding a party hat and a glass of champagne, with a big smile on their face. Caption: "When you realize that celebrating yourself is the best party you\'ll ever attend!"'}
-{'user': 'Anonymous', 'message': 'write another one'}
-{'user': 'Chat GPT', 'message': 'Image: A person standing on a pedestal, holding a trophy and a microphone, with a confident expression. Caption: "When you celebrate yourself, you become your own champion!"'}
-{'user': 'Anonymous', 'message': 'write one about resilience'}
-{'user': 'Chat GPT', 'message': 'Image: A plant growing out of a crack in the concrete. Caption: "Resilience is when you bloom in the toughest conditions."'}
+Consider a default Frappe docType. The layout on screen of the data is not changeable. I would like to add an extra layer, so I can drag and drop the layout of a docType.
+
+To customize the layout of a Frappe DocType, you can create a Web Form or a custom JavaScript file that overrides the default layout. While this won't provide a true drag-and-drop interface, it will allow you to change the layout to suit your needs. Here's a general outline of how you can proceed: Option 1: Create a Web Form Now, you can use this Web Form as the primary interface for interacting with the DocType. The layout changes made in the Web Form will only apply to this specific form, not the default DocType layout. Option 2: Custom JavaScript Keep in mind that this approach requires some JavaScript knowledge and may be less user-friendly than the Web Form option. However, it provides more control over the layout and behavior of the form. Please note that neither of these options provides a true drag-and-drop interface for end-users, but they do allow you to customize the layout of your DocType to suit your needs.
+
+Is there an approach where placeholder objects are used, to achieve true drag and drop functionality and user friendliness?

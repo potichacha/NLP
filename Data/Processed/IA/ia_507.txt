@@ -1,2 +1,53 @@
-{'user': 'Anonymous', 'message': 'Web search results: [1] "WBC決勝 日本 アメリカ戦【速報中】村上が初球HRで同点. 2023年3月22日 8時58分 WBC 2023. 日本とアメリカの対戦となった野球のWBC＝ワールド ..." URL: https://www3.nhk.or.jp/news/html/20230322/k10014015641000.html [2] "美巡PGA上週在佛羅里達州舉行威士伯錦標賽，美國選手Taylor Moore在眾多世界強手中脫穎而出，以總桿274桿成績，1桿的勝差，贏得冠軍獎盃以及145萬美元獎金，這也是他的美巡賽首勝。 ... 2023經典賽5大看點! ... 03/22 統一 VS 中信 八局下，統一牛棚封鎖中信打線 投 ..." URL: https://tw.sports.yahoo.com/video/%E9%AB%98%E7%90%83%E6%96%B0%E8%81%9E-%E5%A8%81%E5%A3%AB%E4%BC%AF%E9%8C%A6%E6%A8%99%E8%B3%BD%E5%A5%AA%E5%86%A0-taylor-moore%E7%BE%8E%E5%B7%A1%E9%A6%96%E5%8B%9D-2023-090058832.html?bcmt=1 [3] "反恐舉報熱線成立9個月接1.4萬條訊息 司機舉報兩炸彈嚇詐犯獲發賞金. 2023-03-22 05:15:00. 警方今日（22日）出版新一期《警聲》，當中提到跨部門反恐專責組於2022年6月推出「反恐舉報熱線63-666-999」，截至今年3月12日，熱線已接獲逾14500條訊息。. 另外，專責組同期 ..." URL: https://www.singtaousa.com/2023-03-22/%E5%8F%8D%E6%81%90%E8%88%89%E5%A0%B1%E7%86%B1%E7%B7%9A%E6%88%90%E7%AB%8B9%E5%80%8B%E6%9C%88%E6%8E%A51-4%E8%90%AC%E6%A2%9D%E8%A8%8A%E6%81%AF-%E5%8F%B8%E6%A9%9F%E8%88%89%E5%A0%B1%E5%85%A9%E7%82%B8/4447108 [4] "據美國有線電視新聞網(cnn)報道，美國地質勘探局消息顯示，阿富汗發生黎克特制6.5級地震，阿富汗及鄰國巴基斯坦均有震感。 ... 粵港合作聯席會在港舉行 簽五合作協議貢獻大灣區高質量發展 2023.03.22. 分享. 總台「中國式現代化與世界新機遇」香港專場研討會 ..." URL: https://www.hkcd.com/hkcdweb/content/2023/03/22/content_1391985.html [5] "⭕️ 本期乾淨世界直播連結：https://www.ganjing.com/zh-TW/live/1fngdkks20u646y0Da29P9aZe1vh1c🙏 訂閱【橫河觀點】👉 https://bit.ly/3qPqmWX ..." URL: https://www.youtube.com/live/wdjE_Lqrs7A [6] "2023/03/20 17:22 中國國家主席習近平今（20）日展開訪俄之旅，分析稱，習近平需要在結束俄烏戰爭上表現出盡了足夠大的努力，但實際上他的目標並非 ..." URL: https://www.setn.com/project.aspx?ProjectID=7756 [7] "發布 2023.03.22 | 15:20 ... [NOWnews今日新聞]第五屆世界棒球經典賽冠軍賽今天正式落幕，雖然「衛冕軍」美國隊以2比3不敵日本，但這支衛冕軍的「鑽石 ..." URL: https://newtalk.tw/news/view/2023-03-22/862982 [8] "1800-2000 帶您錢進大頭條 大世界話題" URL: https://www.youtube.com/playlist?list=PLNXJ_YC1PDA3kXSSliU5-R0FEqT-CkLmk [9] "民視全球新聞 更多. 【民視全球新聞】從烏俄戰爭到朝鮮半島 無人機改寫人類戰爭史 2023.03.19. 【民視全球新聞】電子垃圾變黃金 都市挖礦兼顧經濟又環保 2023.03.19. 【民視全球新聞】日本物流缺工救星 機器人、無人機前景看好 2023.03.19. 【民視全球新聞】世仇破 ..." URL: https://www.ftvnews.com.tw/ [10] "【雅琴看世界】矽谷銀倒閉 金融大衝擊! ... 2023-03-22. 雅琴挑戰新聞》侯友宜鬆口將參選？ 楊秋興將出手挺郭台銘？ ... 》【新聞面對面】2023.03.22 《獨! 美軍上將：台海開戰! 傷亡恐比擬二戰! 麥考爾：台灣沒有能力打仗! 馬英九訪中! 中國網友炸鍋反" URL: https://www.eracom.com.tw/EraNews/ Current date: 2023/3/23 Instructions: Using the provided web search results, write a comprehensive reply to the given query. Make sure to cite results using [[number](URL)] notation after the reference. If the provided search results refer to multiple subjects with the same name, write separate answers for each subject. Query: 2023.03.22世界5大新聞 Reply in 中文'}
-{'user': 'Chat GPT', 'message': '根据搜索结果，以下是2023年3月22日的5大新闻： WBC決勝，日本队在与美国队的比赛中以3比2获胜[ ]。 美巡PGA在佛罗里达州举行威士伯锦标赛，美国选手Taylor Moore以总杆274桿成绩，1桿的胜差，赢得冠军奖杯以及145万美元奖金，这也是他的美巡赛首胜[ ]。 反恐举报热线成立9个月接1.4万条信息，其中包括司机举报的两个炸弹恐吓犯[ ]。 阿富汗发生里氏6.5级地震，阿富汗及邻国巴基斯坦均有震感[ ]。 中国国家主席习近平访问俄罗斯，分析称其目标并非结束俄乌战争[ ]。'}
+Give me 30 viral video topis about Success stories of people who overcame challenges and obstaclesShare Prompt
+
+Give me 30 viral video ideass about Inspirational and motivational videosShare Prompt
+
+Give me 30 Inspirational Stories of People Who Turned Their Lives AroundShare Prompt
+
+MoreShare Prompt
+
+Give me 30 Inspirational and motivational videosShare Prompt
+
+Give 50 More Share Prompt
+
+Give me more viral and trendShare Prompt
+
+Share Prompt
+
+Give me 30 viral Inspirational and motivational ideas Share Prompt
+
+Sure, here are 30 more viral inspirational and motivational ideas:
+
+Give me 30 Inspirational and motivational factsShare Prompt
+
+Sure, here are 30 inspirational and motivational facts:
+
+Give me 30 Inspirational and motivational quotesShare Prompt
+
+Sure, here are 30 inspirational and motivational quotes:
+
+Give me 30 Inspirational and motivational tipsShare Prompt
+
+Sure, here are 30 inspirational and motivational tips:
+
+Give me 30 viral Inspirational and motivational tipsShare Prompt
+
+Sure, here are 30 viral inspirational and motivational tips:
+
+Give me 30 how to viral Inspirational and motivational Share Prompt
+
+Sure, here are 30 "how to" viral inspirational and motivational ideas:
+
+Give me 30 viral Inspirational and motivational reviewShare Prompt
+
+Sure, here are 30 viral inspirational and motivational review ideas:
+
+Give me 30 viral Inspirational and motivational videos reviewShare Prompt
+
+Certainly! Here are 30 viral inspirational and motivational videos you could review: I hope these ideas help!
+
+MoreShare Prompt
+
+Here are 30 more viral inspirational and motivational videos you could review: I hope you find these ideas helpful!
+
+Give me article review about \

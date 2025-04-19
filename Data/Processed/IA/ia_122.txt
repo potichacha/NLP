@@ -1,2 +1,9 @@
-{'user': 'Anonymous', 'message': 'bila rasa kangen sudah sangat akut'}
-{'user': 'Chat GPT', 'message': 'Jika rasa kangen sudah sangat akut, ada beberapa hal yang dapat dilakukan untuk mengatasinya, seperti:'}
+If I setup MongoDB locally to hold data for my website, will public clients run into CORS issues when requesting data?
+
+\u200b
+
+Is HTML, CSS, JSX, Bootstrap 5, JavaScript, MongoDB, ReactJS, NodeJS, ExpressJS a good tech stack for creating a complete web application?
+
+HTML, CSS, and JavaScript are essential technologies for creating a web application, and Bootstrap 5 is a popular CSS framework that can help with styling and layout. ReactJS is a JavaScript library for building user interfaces, and it can be used to create complex and responsive web applications. MongoDB is a NoSQL database that is commonly used with JavaScript-based web applications, and it can be used to store the data for your web application. NodeJS and ExpressJS are JavaScript technologies that can be used to build the backend of a web application. NodeJS is a runtime environment for JavaScript, and ExpressJS is a web application framework that runs on top of NodeJS, it allows to handle HTTP requests and routes easily. This stack can be a good choice for creating a complete web application, as these technologies are widely used, well-documented and supported. They are also easy to learn, which makes it easy to find developers with experience in them. However, whether this stack is appropriate for your specific use case depends on the requirements and constraints of your application. Other technologies may be more suitable if you have specific requirements that are not met by this stack.
+
+If I setup MongoDB locally to hold data for my website, will public clients run into CORS issues when requesting data? And can I have the database hosted on the same IP as my rest api just with different ports?

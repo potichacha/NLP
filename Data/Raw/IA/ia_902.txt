@@ -1,0 +1,1 @@
+{'user': 'Chat GPT', 'message': 'JavaScript Ajax Request : load data from php'}

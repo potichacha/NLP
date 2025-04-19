@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'bila rasa kangen sudah sangat akut'}
+{'user': 'Chat GPT', 'message': 'Jika rasa kangen sudah sangat akut, ada beberapa hal yang dapat dilakukan untuk mengatasinya, seperti:'}

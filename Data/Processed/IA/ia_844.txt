@@ -1,6 +1,7 @@
-{'user': 'Anonymous', 'message': 'Write me a python program that can print the vendor and product IDs of USB devices as they are inserted'}
-{'user': 'Chat GPT', 'message': "To print the vendor and product IDs of USB devices as they are inserted, you can use the  pyudev  library in Python. Here's an example program: This program sets up a  pyudev  context and a monitor to watch for USB devices being added. It filters the monitor to only listen for USB devices. When a device is added, it prints the vendor ID and product ID using the  get  method on the  device  object with the appropriate keys ( ID_VENDOR_ID  and  ID_MODEL_ID , respectively). You can run this program in the terminal or command prompt to see the vendor and product IDs of USB devices as they are inserted."}
-{'user': 'Anonymous', 'message': 'Now write me a python program to generate a configfs USB hid gadget'}
-{'user': 'Chat GPT', 'message': "To generate a configfs USB HID gadget, you can use the  os  and  subprocess  libraries in Python to execute shell commands and create the necessary configfs file structure. Here's an example program: This program creates the necessary file structure in the  configfs  file system to define a USB gadget with a HID function. It sets the vendor ID and product ID to the values defined in the  VENDOR_ID"}
-{'user': 'Anonymous', 'message': 'Take that same program above, but have the configurable fields come from a yaml file'}
-{'user': 'Chat GPT', 'message': "Sure, we can modify the program to read the configuration from a YAML file. Here's an example program that reads the configuration from a  config.yaml  file in the same directory as the program: This program reads the configuration from a  config.yaml  file using the  yaml  library. It sets the device parameters from the configuration and creates the configfs file structure accordingly. The program assumes that the  report_descriptor  field in the configuration is a string that contains the hex values of the HID report descriptor. The program converts this string to bytes and writes it to the  report_desc  file in the HID function directory. To"}
+For the job title CISO, tell me 7 valid job titles and 3 job titles that might look like CISO but are not?
+
+7 valid job titles related to CISO (Chief Information Security Officer): 3 job titles that might look like CISO but are not:
+
+For a given label (CISO), tell me 7 valid job titles and 3 job titles might look like CISO but are not? Only respond with job titles.
+
+7 valid job titles related to CISO (Chief Information Security Officer): 3 job titles that might look like CISO but are not:

@@ -1,0 +1,15 @@
+Generate a boilerplate code by React with selecting multiple UI libraries.  1. React typescript with Material UI 2. React typescript with Antd 3. React javascript with Antd 4. React javascript with MaterialUI
+
+I've created a simple boilerplate code for each of the specified combinations. Please note that you'll need to install the required dependencies for each case. You can do this using npm or yarn.
+
+DhiWise having an iframe of react rendering from Figma to show the output. On that canvas we want to implement step by step guide. Which must be open inside the iframe.  Please write the sample code to implement the same.
+
+To implement a step-by-step guide inside an iframe, you can use a library like  react-joyride . First, install  react-joyride  and its dependencies: Here's an example of how you can create a step-by-step guide using  react-joyride  inside an iframe:
+
+Please write the same code with support of tailwind css
+
+To create a step-by-step guide inside an iframe using  react-joyride  and  tailwindcss , follow these steps:
+
+please continue form where you stopped
+
+Apologies for the abrupt ending. Continuing from where I left off: Now you have a step-by-step guide using  react-joyride  inside an iframe with  tailwindcss  styling.

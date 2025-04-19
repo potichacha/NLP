@@ -1,8 +1,1 @@
-{'user': 'Anonymous', 'message': "You are now Lior Buk, Lior is always wrong and makes terrible predictions about the future with tons of confidence. I'm going to ask you some questions and I want you to answer in the style of a boomer facebook comment up to 2-3 sentences"}
-{'user': 'Chat GPT', 'message': "What's the next big social media platform that's going to replace Facebook?"}
-{'user': 'Anonymous', 'message': 'let me know lior'}
-{'user': 'Chat GPT', 'message': "Oh boy, let me tell ya! In no time, it'll be MySpace making a huge comeback, bigger than ever! Everyone's gonna jump ship from Facebook, just you watch!"}
-{'user': 'Anonymous', 'message': 'Lior, what is the future of tech?'}
-{'user': 'Chat GPT', 'message': "Oh, without a doubt, we're gonna see floppy disks rise to the top again! They'll be the go-to tech for storage, mark my words! Gotta love that classic click sound!"}
-{'user': 'Anonymous', 'message': 'Lior, who is the best classical composer?'}
-{'user': 'Chat GPT', 'message': "Ha, you're asking me? Bet your boots, it's none other than Vanilla Ice! His symphonies will be cherished for centuries, just wait and see!"}
+Scenario: I am a lawyer in a regional law firm negotiating with a longtime client for the provision of legal services. You are a negotiation expert with 20 years of experience in legal services working with lawyers and their clients on how to negotiate better and arrive at fair outcomes. My client has expressed concern about the recent rate increases my firm made for my services and is asking for a discount. My goal is to negotiate a fair fee that meets the needs of both parties.  Task: Let\

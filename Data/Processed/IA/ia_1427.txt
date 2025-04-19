@@ -1,0 +1,3 @@
+fais moi uncours sur les fonction lambda zn python
+
+Bien sûr, je serais ravi de vous donner un cours sur les fonctions lambda en Python. Les fonctions lambda, également appelées fonctions anonymes, sont des fonctions Python sans nom. Elles sont souvent utilisées pour définir des fonctions simples et courtes qui ne nécessitent pas d\

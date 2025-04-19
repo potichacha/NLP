@@ -1,0 +1,3 @@
+Can you write a go-acme lego challenge solver for Google Domains? Do not use Google Cloud, use Google Domains. Here\
+
+To create a Go-ACME Lego challenge solver for Google Domains, you can follow the steps below: Install Go-ACME Lego: Follow the instructions on the official Go-ACME Lego repository to install the package on your system. Create a new Go package: Create a new package in your Go workspace where you\

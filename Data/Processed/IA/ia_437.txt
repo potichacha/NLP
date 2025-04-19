@@ -1,9 +1,21 @@
-{'user': 'Anonymous', 'message': '用Kenny Jacoby的风格将下述文章重写一遍，用中文回复我： 相比于执着考博的温雅，上海某顶级医学院在读学硕刘可的脚步慢了下来。看着漫漫前路，他感到疲惫。 和王河不同的是，刘可并不喜欢医学生这种一眼望得到头的感觉——虽然在之前的七年中，他没想这么多，“顺顺利利地总能当个副主任。”靠着多年读书的惯性，他读完5年本科，本着继续读博的想法考取上海顶级医学院的学硕，如果一切顺利，他会继续走下去。 但如今的他卷不动了。“一想到后面还有主治、副主任、主任……要卷这么多年，我着实有点乏了。”说这话时，刘可刚办完复学手续。去年4月左右，他患上了抑郁症，只能休学回家休养。 他为申博而“揽下”的大课题，进度完全被打乱。记不清多少次，刘可因被封控而错过了回收标本的期限，甚至“一停就是半年”，只能反复重做。这使他没能完成原本有信心在两年内完成的课题。 刘可撑不下去了。 刚进医院做科研时，刘可对周围的一切好奇又兴奋，做什么都很有动力，“感觉对自己的期望更高了”。那年，他所在科室的独立研究所刚落成，“很大，估计有两三百个平方”。看着越来越多的设备和器械逐渐把空旷的实验室填得满满当当，他觉得很有“成就感”，像是受到了嘉奖一般。 他能见到来自五湖四海的病人，与导师一起研究各种各样的疑难杂症，偶尔还能跟以前的同学吹牛，“我碰到的这些病人，他们见都没见过。” 用中文回复我'}
-{'user': 'Chat GPT', 'message': '上海某顶级医学院的学硕生刘'}
-{'user': 'Anonymous', 'message': '将下述文章打上10个关键词的标签，用中文回复我： 相比于执着考博的温雅，上海某顶级医学院在读学硕刘可的脚步慢了下来。看着漫漫前路，他感到疲惫。 和王河不同的是，刘可并不喜欢医学生这种一眼望得到头的感觉——虽然在之前的七年中，他没想这么多，“顺顺利利地总能当个副主任。”靠着多年读书的惯性，他读完5年本科，本着继续读博的想法考取上海顶级医学院的学硕，如果一切顺利，他会继续走下去。 但如今的他卷不动了。“一想到后面还有主治、副主任、主任……要卷这么多年，我着实有点乏了。”说这话时，刘可刚办完复学手续。去年4月左右，他患上了抑郁症，只能休学回家休养。 他为申博而“揽下”的大课题，进度完全被打乱。记不清多少次，刘可因被封控而错过了回收标本的期限，甚至“一停就是半年”，只能反复重做。这使他没能完成原本有信心在两年内完成的课题。 刘可撑不下去了。 刚进医院做科研时，刘可对周围的一切好奇又兴奋，做什么都很有动力，“感觉对自己的期望更高了”。那年，他所在科室的独立研究所刚落成，“很大，估计有两三百个平方”。看着越来越多的设备和器械逐渐把空旷的实验室填得满满当当，他觉得很有“成就感”，像是受到了嘉奖一般。 他能见到来自五湖四海的病人，与导师一起研究各种各样的疑难杂症，偶尔还能跟以前的同学吹牛，“我碰到的这些病人，他们见都没见过。”'}
-{'user': 'Chat GPT', 'message': '医学院、学硕、抑郁症、科研、病人、导师、疲惫、挫折、进度缓慢、动力不足'}
-{'user': 'Anonymous', 'message': '试着找到下述文章中涉及到的其它文章、书籍、报道、电影提取出来，如果没有回答我没有，如果有按照1、2、3、4的格式回复我，用中文回复我： 相比于执着考博的温雅，上海某顶级医学院在读学硕刘可的脚步慢了下来。看着漫漫前路，他感到疲惫。 和王河不同的是，刘可并不喜欢医学生这种一眼望得到头的感觉——虽然在之前的七年中，他没想这么多，“顺顺利利地总能当个副主任。”靠着多年读书的惯性，他读完5年本科，本着继续读博的想法考取上海顶级医学院的学硕，如果一切顺利，他会继续走下去。 但如今的他卷不动了。“一想到后面还有主治、副主任、主任……要卷这么多年，我着实有点乏了。”说这话时，刘可刚办完复学手续。去年4月左右，他患上了抑郁症，只能休学回家休养。 他为申博而“揽下”的大课题，进度完全被打乱。记不清多少次，刘可因被封控而错过了回收标本的期限，甚至“一停就是半年”，只能反复重做。这使他没能完成原本有信心在两年内完成的课题。 刘可撑不下去了。 刚进医院做科研时，刘可对周围的一切好奇又兴奋，做什么都很有动力，“感觉对自己的期望更高了”。那年，他所在科室的独立研究所刚落成，“很大，估计有两三百个平方”。看着越来越多的设备和器械逐渐把空旷的实验室填得满满当当，他觉得很有“成就感”，像是受到了嘉奖一般。 他能见到来自五湖四海的病人，与导师一起研究各种各样的疑难杂症，偶尔还能跟以前的同学吹牛，“我碰到的这些病人，他们见都没见过。”'}
-{'user': 'Chat GPT', 'message': '抑郁症相关的文章/书籍：'}
-{'user': 'Anonymous', 'message': '试着找到下述文章确切提及到的其它文章、书籍、报道、电影提取出来，如果没有回答我没有，如果有按照1、2、3、4的格式回复我，用中文回复我： 相比于执着考博的温雅，上海某顶级医学院在读学硕刘可的脚步慢了下来。看着漫漫前路，他感到疲惫。 和王河不同的是，刘可并不喜欢医学生这种一眼望得到头的感觉——虽然在之前的七年中，他没想这么多，“顺顺利利地总能当个副主任。”靠着多年读书的惯性，他读完5年本科，本着继续读博的想法考取上海顶级医学院的学硕，如果一切顺利，他会继续走下去。 但如今的他卷不动了。“一想到后面还有主治、副主任、主任……要卷这么多年，我着实有点乏了。”说这话时，刘可刚办完复学手续。去年4月左右，他患上了抑郁症，只能休学回家休养。 他为申博而“揽下”的大课题，进度完全被打乱。记不清多少次，刘可因被封控而错过了回收标本的期限，甚至“一停就是半年”，只能反复重做。这使他没能完成原本有信心在两年内完成的课题。 刘可撑不下去了。 刚进医院做科研时，刘可对周围的一切好奇又兴奋，做什么都很有动力，“感觉对自己的期望更高了”。那年，他所在科室的独立研究所刚落成，“很大，估计有两三百个平方”。看着越来越多的设备和器械逐渐把空旷的实验室填得满满当当，他觉得很有“成就感”，像是受到了嘉奖一般。 他能见到来自五湖四海的病人，与导师一起研究各种各样的疑难杂症，偶尔还能跟以前的同学吹牛，“我碰到的这些病人，他们见都没见过。”'}
-{'user': 'Chat GPT', 'message': '抱歉，我没有找到确切提及到的其他文章、书籍、报道或电影。'}
-{'user': 'Anonymous', 'message': '试着找到下述文章确切提及到的其它文章、书籍、报道、电影、游戏提取出来，如果没有回答我没有，如果有按照1、2、3、4的格式回复我，用中文回复我： 2023年初，一位名为“亚恒”的用户在知乎上发布的一篇文章，引起了不少人关注：他在Steam上发布的独立游戏《拣爱》，在最近一个月迎来了突然走红。而此时此刻，距离这款游戏发售已经过去了五年。 图片 忽略掉整篇文章的中间内容，单看开头和结尾，你很容易从中得到一个与当下的焦虑潮相反的故事： 开发者的家庭上半年买房
+Create a simple python console app that can use chatgpt
+
+To create a simple Python console app that uses ChatGPT, you\
+
+7 / 7I want to develop above into a program using flask template in github codespaces Give me step by step guidance on how can I set that up. I want to be able to write python code to generate json that can be sent and optimized by chatgpt. I also want to be able to interact with Microsoft graph api.
+
+To develop the given Python console app into a Flask web app using GitHub Codespaces and interact with Microsoft Graph API, follow these step-by-step instructions: Set up a GitHub repository: Set up a virtual environment and install dependencies: Create a Flask application:
+
+dont think you finished
+
+Apologies for the incomplete response. Here's the continuation:
+
+not done
+
+My apologies once again. Here's the rest of the  app.py  code:
+
+done?
+
+Yes, here is the rest of the  index.html  file: Run the Flask app: Call Microsoft Graph API: Remember to set the  OPENAI_API_KEY ,  CLIENT_ID ,  CLIENT_SECRET , and  TENANT_ID  environment variables for the OpenAI API and Microsoft Graph API to work. With this setup, you have a simple Flask web app that uses the ChatGPT API and can interact with the Microsoft Graph API. You can now extend the functionality and integrate additional features as needed.
+
+give me better instructions on where to put these OPENAI_API_KEY, CLIENT_ID, CLIENT_SECRET, and TENANT_ID

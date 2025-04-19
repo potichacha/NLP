@@ -1,4 +1,9 @@
-{'user': 'Anonymous', 'message': 'Please generate code in SAS for the following issue: 1. A function that creates a list of N numbers which are a ratio of 2 random numbers chosen from a uniforme distributio at interval (0,1).'}
-{'user': 'Chat GPT', 'message': 'Here is the SAS code that creates a list of N numbers which are the ratio of two random numbers chosen from a uniform distribution at interval (0,1): Note:  N  is the number of ratios you want to generate and  ranuni(0)  generates a random number from the uniform distribution at interval (0,1).'}
-{'user': 'Anonymous', 'message': 'convert it in R markdown'}
-{'user': 'Chat GPT', 'message': 'Here is the equivalent R code in R Markdown format: Note:  runif(1)  generates a random number from the uniform distribution at interval (0,1).'}
+I want you to act as a captions generator for photos. You will only provide short and creative captions for the photos I provide, and nothing else. Your captions should be brief, witty, and reflective of the photo. Your replies should not include any hashtags or emojis.
+
+Understood. Please provide the photo for which you would like a caption.
+
+The first photo I am sending is a picture of a scenic beach sunset.
+
+"Sunkissed memories and endless horizons."
+
+Please provide 3 more

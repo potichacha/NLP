@@ -1,0 +1,19 @@
+I want to write a program in typescript that provides helper functions to generate a drawing in g-code (Marlin). I have added a pen holder to my 3d printer and want to use it as a pen plotter. The library should provide a similar experience to using p5.js but instead of drawing shapes on a canvas it produces text output in g-code.
+
+Creating a TypeScript library for generating G-code to use your 3D printer as a pen plotter is a fantastic idea! Let's outline the structure of the library and implement some core functions. You can expand upon this foundation to add more features as needed. This will output the generated G-code in the console
+
+Add more method for common shapes. Look at p5.js for examples.
+
+Sure! Let's add some common shapes based on p5.js, such as rectangle, ellipse, and polygon. Update your  GCodeDrawer.ts : Now you can use the new functions in your  main.ts :
+
+My 3D printer doesn't support the M4 and M5 commands for pen up and pen down. Instead modify the program to lift the Z axis up by a few millimeters for pen up and move it back down to 0mm for pen down.
+
+Sure! Let's modify the  penUp()  and  penDown()  functions to use the Z-axis for pen control. In this example, I'll use 3mm as the lift amount, but you can adjust this value as needed. Update your  GCodeDrawer.ts : Now the  penUp()  and  penDown()  functions will use the Z-axis to control the pen position. The constructor has an optional  penLiftHeight  parameter to set the desired lift height. You can adjust the default value or pass a custom value when creating a  GCodeDrawer  instance.
+
+The header of the g-code should also include the "Auto Home" and "Bed Leveling". My printer is a Creality Ender 3 v2 with a BLtouch sensor installed.
+
+To include the "Auto Home" and "Bed Leveling" commands for a Creality Ender 3 v2 with a BLTouch sensor, you need to add the following G-code commands to the  generateHeader()  function in your  GCodeDrawer.ts  file: Update your  GCodeDrawer.ts  file: Now, the generated G-code will include the "Auto Home" and "Bed Leveling" commands in the header, ensuring that your printer homes all axes and levels the bed before starting the drawing process.
+
+create a method for a rounded rectangle. use the "Arc or Circle Move" g-code commands to achieve that. make sure there\
+
+To create a method for a rounded rectangle, you can use the "Arc or Circle Move" G-code commands ( G2  and  G3 ). Here\

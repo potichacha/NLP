@@ -1,0 +1,5 @@
+Act as a web developer and legal consultant to create a comprehensive outline for a static website designed to showcase Reuticom's projects, which will be hosted on Firebase. Please provide a step-by-step guide that covers the technical aspects of building the website, such as the necessary HTML, CSS, and JavaScript structure, as well as incorporating any legal requirements, like a privacy policy, terms of service, and cookie consent. Make sure to include suggestions for responsive design, accessibility, and SEO best practices to ensure the website is user-friendly and discoverable. Also, the website shall be available in English and German.
+
+Sure, I can help you create a comprehensive outline for a static website designed to showcase Reuticom\
+
+continue

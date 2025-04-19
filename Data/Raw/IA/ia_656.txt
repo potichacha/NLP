@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'witaj'}
+{'user': 'Chat GPT', 'message': 'W'}

@@ -1,0 +1,9 @@
+Mol Cell . 2019 Feb 7;73(3):429-445.e7. doi: 10.1016/j.molcel.2018.11.018. Epub 2019 Jan 3.
+
+The citation you provided refers to a research article published in the journal Molecular Cell in 2019. The title of the article is not included in your citation, but the authors reported on research involving cell signaling and gene expression in yeast cells. The article can be found at the following link:  The article is behind a paywall, but the abstract is available for free and provides a summary of the research findings.
+
+DSS-induced colitis mouse mode
+
+DSS-induced colitis mouse model is a widely used experimental model to study colitis and inflammatory bowel diseases (IBD) in mice. DSS stands for dextran sulfate sodium, which is a chemical compound that, when added to the drinking water of mice, induces colonic inflammation, leading to symptoms similar to human IBD. In this model, mice are given DSS in their drinking water for a period of several days to induce acute colonic inflammation. The severity of colitis is assessed by measuring weight loss, stool consistency, and the presence of blood in the stool. Histological analysis of the colon is also performed to evaluate the extent of inflammation. The DSS-induced colitis mouse model is widely used to study the underlying mechanisms of IBD and to test potential therapeutic agents. The model has some limitations, such as the acute nature of the inflammation, but it remains a valuable tool for IBD research.
+
+The role of Human IRGM??

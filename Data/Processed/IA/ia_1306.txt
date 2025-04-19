@@ -1,0 +1,13 @@
+hi i need a script for a app that lets ai control interface, media player and browser , play pause, forward back , search , refresh and scroll up down
+
+Sure, here's a sample script in Python that uses the pyautogui library to control the interface, media player, and browser: Note that this is just a sample script and may need to be modified to fit your specific needs or environment. Additionally, depending on the platform you're running this on, you may need to install additional libraries or tools to get it to work correctly.
+
+C:\\Users\\Dan.QTIS>python C:\\Users\\Dan.QTIS\\Desktop\\Dan-Special\\Tests\\Tests2 ewtestaiapp2.py Traceback (most recent call last):  File "C:\\Users\\Dan.QTIS\\Desktop\\Dan-Special\\Tests\\Tests2 ewtestaiapp2.py", line 30, in   send_key(\
+
+The error message indicates that the  'enter'  key is not defined in the  keys  dictionary. To fix this error, you can add the  'enter'  key to the dictionary like this: Alternatively, you can replace  send_key('enter')  with  pyautogui.press('enter')  to directly press the 'enter' key without looking up its mapping in the  keys  dictionary.
+
+ok so its interesting ,, it pops up a command prompt window ,, but enters random input into my computer not only that web browser, and it looks like it gives commands as text idk if error.
+
+I'm sorry to hear that the script didn't work as expected. It's possible that there's a problem with the script, or there may be other factors at play. To help diagnose the issue, can you provide some more information about what exactly happened when you ran the script? For example: With this additional information, I may be able to provide more specific guidance on how to troubleshoot the issue.
+
+ok so it opened up a google chrome web browser and put in these words by itself "ctrl + tyoutube.comr gonna give you upenter" and then it state on other words like its commands like "Enter , Left" ,, gonnna give you up is a song from youtube ,, usually a default but idk where it got it from could be my computer I have a copy.

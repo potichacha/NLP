@@ -1,2 +1,11 @@
-{'user': 'Anonymous', 'message': '2 / 2create a script for google apps scripts that, based on the content from a specific cell, checks the presence of a similar profile on LinkedIn using the Google Custom Search API and, if a match is found, returns a link to the found profile in the specified cell.'}
-{'user': 'Chat GPT', 'message': 'searchQuery'}
+Do you know CARLA, the ADAS simulator ?
+
+Yes, I am aware of CARLA (Car Learning to Act), which is an open-source autonomous driving simulator developed by the Computer Vision Center (CVC) at the Universitat Autonoma de Barcelona (UAB). CARLA is designed to provide a flexible and realistic environment for testing and developing autonomous driving systems, including advanced driver-assistance systems (ADAS). CARLA offers a variety of features, including a high-fidelity rendering engine, support for sensor simulation (such as cameras, lidars, and radars), customizable weather and lighting conditions, and a comprehensive API for controlling and interacting with the simulation. It also includes pre-built scenarios for testing various driving scenarios, and the ability to create custom scenarios and maps. CARLA has become a popular tool in the autonomous driving research community, and it has been used in a number of academic and industrial research projects.
+
+I want to run the server with low quality render, do you know how to do it ?
+
+Yes, you can adjust the graphics quality settings in CARLA to reduce the rendering quality and improve the simulation performance. Here's how to do it: These settings will disable several graphics features and reduce the view distance and mesh quality. Note that reducing the graphics quality may affect the realism of the simulation, and some features may not work correctly. You can experiment with different settings to find the right balance between performance and realism for your specific use case.
+
+And if I want just to use low quality render for the environment, other cars and pedestrians, but maintain the hero car that I'm driving with high quality. Any guess how to do it ?
+
+Yes, it\

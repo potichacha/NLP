@@ -1,4 +1,15 @@
-{'user': 'Anonymous', 'message': '소방 공무원이 관제탑 등 주요 시설을 방문했습니다. 이후 상황과 주변 풍경을 묘사해주세요.번역결과Fire officials visited key facilities such as the control tower. Please describe the situation and the surrounding landscape afterward.'}
-{'user': 'Chat GPT', 'message': "I'm sorry, but I do not have enough information about the specific incident you are referring to. Could you please provide more context or specify which facilities and control tower you are referring to? I will be happy to help with more information. 죄송하지만 말씀하신 특정 사건에 대한 정보가 충분하지 않습니다. 더 많은 맥락을 제공하거나 어떤 시설과 관제탑을 언급하고 있는지 명시해 주시겠습니까? 더 많은 정보를 제공해 드리겠습니다."}
-{'user': 'Anonymous', 'message': '국제 공항의 관제탑입니다.번역결과The control tower of an international airport.'}
-{'user': 'Chat GPT', 'message': 'An international airport control tower is a tall structure that serves as the central hub for air traffic control operations at the airport. Air traffic controllers working in the control tower use radar and other equipment to track the movement of aircraft on the ground and in the air, and to communicate with pilots to ensure safe and efficient takeoffs and landings. After a visit from fire officials, the control tower and surrounding facilities, such as the runway, taxiways and aprons should be inspected for any damage or potential hazards. Depending on the outcome of the inspection, the airport may need to be closed temporarily for repairs or maintenance, or the control tower may need to be evacuated until the situation is resolved. 국제공항 관제탑은 공항에서 항공 교통 관제 운영을 위한 중앙 허브 역할을 하는 높은 구조물입니다. 관제탑에서 근무하는 관제사는 레이다 등의 장비를 활용해 지상과 공중에서 항공기의 움직임을 추적하고 조종사와 통신해 안전하고 효율적인 이착륙을 보장한다. 소방공무원 출동 후 관제탑과 활주로, 유도로, 계류장 등 주변시설물에 대한 손상이나 위험요소가 없는지 점검한다. 점검 결과에 따라 수리 또는 유지 보수를 위해 공항을 일시적으로 폐쇄하거나 상황이 해결될 때까지 관제탑을 대피시켜야 할 수도 있습니다.'}
+does t-test requires normal distribution?
+
+The t-test assumes normality of the population for the data being analyzed, but does not require it for the sample data. If the sample size is large enough (typically n >= 30), the t-test can still provide accurate results even if the data is not normally distributed.
+
+what if the sample is small?
+
+If the sample size is small (typically n < 30), the t-test assumes normality of the population, and violation of this assumption can lead to inaccurate results. In this case, it's recommended to use a non-parametric test or transform the data to meet the normality assumption before using the t-test.
+
+can you provide a few examples?
+
+Yes, a few examples of non-parametric tests that can be used when the normality assumption is violated are: Wilcoxon Signed-Rank Test: This test is used to compare the median of two paired or related samples. Mann-Whitney U Test: This test is used to compare the median of two independent samples. Kruskal-Wallis H Test: This test is used to compare the median of more than two independent samples. Friedman Test: This test is used to compare the median of more than two related or paired samples.
+
+are these test implemented in MS Excel?
+
+No, these non-parametric tests are not directly implemented in Microsoft Excel, but you can use Excel to perform the calculations needed for these tests and then interpret the results. You can also use other software like R or SAS that have implementations of these tests.

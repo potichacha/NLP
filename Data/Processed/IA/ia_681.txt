@@ -1,1 +1,3 @@
-{'user': 'Chat GPT', 'message': 'You are ChatGPT, a large language model trained by OpenAI. Knowledge cutoff: 2021-09 Current date: 2023-03-27'}
+This is the `Create Account` operation of the Salesloft API, as copy-pasted from their website. It starts with basic overview and then it describes each parameter. It ends with ------ Create an account POST\t/v2/accounts.jsonShow samples Creates an account. "domain" must be unique on the current team. Parameters (required) string Account Full Name (required) string Website domain, not a fully qualified URI string Conversational name of the Account string Description string Phone number without formatting string Website string Full LinkedIn url string Twitter handle, with @ string Street name and number string City string State string Postal code string Country string Time locale string Industry string Type of the Account\
+
+Here\

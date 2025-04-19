@@ -1,6 +1,27 @@
-{'user': 'Anonymous', 'message': "I'm building a startup called Minutes, it is an asynchronous communication platform that let's remote teams send voice or video messages to communicate asynchronously and more effectively. Right now, it is a desktop menubar app where a user can come onboard and create a new async meeting and give it a title based on what is to be discussed in the meeting, then add participants to that meeting. After that, the user can just send voice or screen recordings to communicate the matter with the members in that meeting. What do you think of the idea so far?"}
-{'user': 'Chat GPT', 'message': "I think that your idea for Minutes sounds like a useful tool for remote teams. Asynchronous communication can be a great way for team members to communicate effectively without having to coordinate their schedules for real-time meetings. The ability to send voice or video messages is a nice touch and can help make communication feel more personal. It's also a good idea to allow users to create meetings with specific titles, as this can help team members quickly identify the purpose of each meeting and determine which ones they need to be a part of. Overall, I think that your idea has a lot of potential and could be a valuable resource for remote teams."}
-{'user': 'Anonymous', 'message': 'On Minutes, the goal is to minimize the dependency on sync meetings and make more meetings async making it convenient for people to work remotely and helps them to massively improve their work-life balance. Right now, the messages sent in a meeting on minutes stays there forever in the meeting, although there is an archive meeting option. But to replicate the ephemerality of sync meetings, do you think we should make meetings ephemeral on Minutes, as in: archive meetings that have been inactive for over 48 hours or so?'}
-{'user': 'Chat GPT', 'message': 'Whether or not to make meetings on Minutes ephemeral is ultimately up to you and your team. However, I think that there could be some potential benefits to making meetings on your platform ephemeral. By automatically archiving meetings that have been inactive for a certain period of time, you can help ensure that the platform remains organized and easy to navigate. This could be especially useful if your platform becomes popular and is used by a large number of teams. Additionally, making meetings ephemeral could help encourage users to communicate in a more focused and deliberate way, as they would know that the messages they send will eventually be archived and may no longer be accessible.'}
-{'user': 'Anonymous', 'message': "Now imagine you're the founder of Minutes, and you're pitching the idea to me (a potential customer). I ask you that Slack is a versatile tool that already exists which has video and audio communication options and is effectively being used by many people around the world, so why should I use Minutes instead of Slack or any other tool on the market?"}
-{'user': 'Chat GPT', 'mess
+Teach me how to analyze DNA data in Python. I don't know a whole lot, so you'll need to walk me through the code and the science.
+
+ok now show me some code
+
+How could I automatically detect likely mutation sites?
+
+ok cool, do that in the code
+
+show me how the output might look
+
+how should I interpret that?
+
+So, specifically, what does the output you showed me mean? The part where it talks about sequences producing significant alignments
+
+so that lets us match up a sequence fragment with where it likely came from?
+
+It looks like it searches across the genomes of multiple species. I can guess what BOVIN and HUMAN correspond to, but what is GORGO?
+
+Oh makes sense. Is there a database where I can match up genes with e.g. predisposition to a particular disease (like a type of cancer or MS)
+
+Is there a way of accessing it programmatically?
+
+Show me how
+
+show me a cample output
+
+Does it also return the DNA sequence of the gene?

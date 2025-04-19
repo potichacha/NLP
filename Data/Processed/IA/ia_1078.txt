@@ -1,0 +1,5 @@
+Here\
+
+rhyming scheme: B A B B C D D A C labels used so far = _ repeat from X1 to XN current label ? B B in _ ? no list ending words of previous lines: words that DO NOT RHYME with : tree, sky, sun best choice among tree, sky, sun: sky new poem line ending with sky: In the evening, I gaze at the sky labels used so far = _ | B labels used so far = B go to next label current label ? A A in B ? no list ending words of previous lines: sky words that DO NOT RHYME with sky: hope, dream, smile best choice among hope, dream, smile: hope new poem line ending with hope: My heart is filled with endless hope labels used so far = B | A labels used so far = B A go to next label current label ? B B in B A ? yes last line using B: In the evening, I gaze at the sky ending word of line: sky word that rhymes with ending word: by new poem line ending with by: As the stars come out one by one nearby go to next label current label ? B B in B A B ? yes last line using B: As the stars come out one by one nearby ending word of line: nearby word that rhymes with ending word: high new poem line ending with high: Their twinkle reaches far and
+
+Please continue
