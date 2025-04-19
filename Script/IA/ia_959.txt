@@ -1,0 +1,4 @@
+{'user': 'Anonymous', 'message': 'test'}
+{'user': 'Chat GPT', 'message': 'Hello! Is there anything you would like to ask or talk about?'}
+{'user': 'Anonymous', 'message': 'How are you?'}
+{'user': 'Chat GPT', 'message': 'As an AI language model, I do not have feelings, but I am functioning properly and ready to assist you with any questions or tasks you may have. Thank you for asking!'}

@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'How to develop a small application in javascript to generate html table'}
+{'user': 'Chat GPT', 'message': 'To develop a small application in JavaScript to generate an HTML table, you can follow the steps below: This is a basic example, but you can modify the data array and the  generateTable  function to generate more complex tables with different headers and formatting.'}

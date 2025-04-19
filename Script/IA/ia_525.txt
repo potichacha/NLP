@@ -1,0 +1,3 @@
+{'user': 'Chat GPT', 'message': 'Feedback on poor assignment'}
+{'user': 'Chat GPT', 'message': 'teacher feedback for poorly constructed assignment'}
+{'user': 'Chat GPT', 'message': 'teacher feedback for poorly constructed assignment'}

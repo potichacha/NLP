@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'Scrivi un saluto a Roberto'}
+{'user': 'Chat GPT', 'message': 'Ciao Roberto, come stai? Spero che tu stia passando una bella giornata. Se hai bisogno di qualcosa o se hai qualche domanda, non esitare a chiedere!'}

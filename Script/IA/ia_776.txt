@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'surry canada weather in markdown table for whole year month on month with snow, rain, summer, wind and other aspect avg summary'}
+{'user': 'Chat GPT', 'message': 'Note:'}

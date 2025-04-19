@@ -1,7 +1,7 @@
 import re
 import os
 
-INPUT_DIR = "../Data/Processed/IA"
+INPUT_DIR = "../Data/Raw/IA"
 OUTPUT_DIR = "../Data/Processed/IA"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)

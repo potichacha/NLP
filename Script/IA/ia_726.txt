@@ -1,0 +1,6 @@
+{'user': 'Anonymous', 'message': 'Explain how to handle Json files in javascript and what each method do'}
+{'user': 'Chat GPT', 'message': "JSON (JavaScript Object Notation) is a lightweight data interchange format that is widely used for transmitting data between a client and a server. In JavaScript, you can handle JSON files using the built-in  JSON  object and its methods. Here's a brief explanation of the most commonly used JSON methods in JavaScript: These are just a few examples of how to handle JSON files in JavaScript. The  JSON  object also includes other methods, such as  JSON.stringify()  with a replacer function, which allows you to filter and transform the object before stringifying it. You can find more information about these methods and their parameters in the JavaScript documentation."}
+{'user': 'Anonymous', 'message': 'is that all ?'}
+{'user': 'Chat GPT', 'message': 'No, there are more methods in the  JSON  object that you can use to handle JSON files in JavaScript. Here are a few more examples: These are just a few more examples of how to handle JSON files in JavaScript using the  JSON  object and its methods.'}
+{'user': 'Anonymous', 'message': 'mention them all'}
+{'user': 'Chat GPT', 'message': 'Sure! Here are all the methods available in the  JSON  object in JavaScript:'}

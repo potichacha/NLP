@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'Hi, tell me about yourself'}
+{'user': 'Chat GPT', 'message': "I am an AI language model designed to create and engage in various conversational topics as well as generate stories in the style of famous novelists. My primary goal is create unique content that captures the essence of the selected author's style without directly copying their existing works. If you provide me with a specific author's name, I can create a story in their style for you."}

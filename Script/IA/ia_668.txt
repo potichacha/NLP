@@ -1,0 +1,1 @@
+{'user': 'Chat GPT', 'message': 'Escribe un ensayo sobre el cólera en el país, de estructura problema-solución de 800 palabras, Presentación, abstracto de 150 palabras y un vocabulario temático de 10 palabras.'}

@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': '2 / 2do you believe aliens exists? .'}
+{'user': 'Chat GPT', 'message': 'It is impossible for me to have a belief on the existence of aliens as I'}

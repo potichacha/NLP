@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'tweat'}
+{'user': 'Chat GPT', 'message': "I'm sorry, I'm not able to tweet as I'm an AI language model and I don't have access to social media platforms. However, I can help you generate text that you can use as a tweet. What would you like to tweet about?"}

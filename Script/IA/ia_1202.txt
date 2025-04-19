@@ -1,0 +1,2 @@
+{'user': 'Chat GPT', 'message': 'HI'}
+{'user': 'Chat GPT', 'message': 'HOW YO CREATE A SMIPLE APP FOR SALE'}

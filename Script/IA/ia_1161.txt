@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'create a 9 day itinerary for manila with a daily schedule for each, take into account the distance between locations within each day and make sure none of them are too far apart.'}
+{'user': 'Chat GPT', 'message': 'Sure, here is a suggested 9-day itinerary for Manila with a daily schedule for each day: Day 1: Historical Tour of Intramuros'}

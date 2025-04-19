@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'Working with react, this is my App.js file, where can I put the handleLogin function to make it cleaner? What is the standard ?'}
+{'user': 'Chat GPT', 'message': 'There are different ways to organize your code in React, and there is no one "right" way to'}

@@ -1,0 +1,4 @@
+{'user': 'Anonymous', 'message': 'Please generate code in SAS for the following issue: 1. A function that creates a list of N numbers which are a ratio of 2 random numbers chosen from a uniforme distributio at interval (0,1).'}
+{'user': 'Chat GPT', 'message': 'Here is the SAS code that creates a list of N numbers which are the ratio of two random numbers chosen from a uniform distribution at interval (0,1): Note:  N  is the number of ratios you want to generate and  ranuni(0)  generates a random number from the uniform distribution at interval (0,1).'}
+{'user': 'Anonymous', 'message': 'convert it in R markdown'}
+{'user': 'Chat GPT', 'message': 'Here is the equivalent R code in R Markdown format: Note:  runif(1)  generates a random number from the uniform distribution at interval (0,1).'}

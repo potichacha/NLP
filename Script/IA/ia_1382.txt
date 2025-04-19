@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'Can you create a user flow for the [forgot PIN feature that is a good UX considered best practice for apps]?'}
+{'user': 'Chat GPT', 'message': 'Sure, here\'s a user flow for a "Forgot PIN" feature that follows UX best practices: Sign-in screen Forgot PIN screen Email sent confirmation screen Email received Reset PIN screen (accessed via the email link) PIN successfully reset screen Notes:'}

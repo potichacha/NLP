@@ -1,0 +1,4 @@
+{'user': 'Anonymous', 'message': "I'm thinking of buying a cat treadmill. Can you get me some options for that on Klarna? Preferred budget is less than $300"}
+{'user': 'Chat GPT', 'message': "I'm sorry, but it looks like there are currently no cat treadmills available within your preferred budget of $300 on Klarna. Is there anything else I can assist you with? Perhaps you'd like to explore other pet products or increase your budget to find more options? Let me know how I can help!"}
+{'user': 'Anonymous', 'message': 'Yes, can I search other pet products and lift the budget?'}
+{'user': 'Chat GPT', 'message': "Sure! Here are some other pet products available on Klarna:  - Price: $131.53  - Price: $154.00  - Price: $124.95  - Price: $263.75  - Price: $33.99 Feel free to explore these options and let me know if there's anything specific you're looking for. I'm here to help!"}

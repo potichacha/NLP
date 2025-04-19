@@ -1,0 +1,1 @@
+{'user': 'Chat GPT', 'message': 'Prediction bitcoin april 2023'}

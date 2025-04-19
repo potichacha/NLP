@@ -1,0 +1,10 @@
+{'user': 'Chat GPT', 'message': 'tes uji'}
+{'user': 'Chat GPT', 'message': 'Maaf, saya tidak memahami apa yang dimaksud dengan "tes uji". Bisakah Anda memberi saya informasi lebih lanjut atau menjelaskan topik yang ingin dibicarakan? Saya akan mencoba membantu sebaik mungkin.'}
+{'user': 'Chat GPT', 'message': 'apakah dapat menggunakan chatgpt api secara gratis?'}
+{'user': 'Chat GPT', 'message': 'ChatGPT API dapat digunakan secara gratis melalui OpenAI Playground. Di sini, Anda dapat mencoba berinteraksi dengan model ChatGPT, memasukkan input teks, dan melihat output model. Namun, ada beberapa keterbatasan pada penggunaan gratis, seperti jumlah permintaan API per hari. Jika Anda memerlukan penggunaan yang lebih serius atau penyesuaian yang lebih lanjut untuk kebutuhan bisnis Anda, OpenAI juga menyediakan layanan berbayar. Anda dapat melihat informasi lebih lanjut tentang layanan berbayar pada situs web mereka.'}
+{'user': 'Chat GPT', 'message': 'coba sharegpt'}
+{'user': 'Chat GPT', 'message': 'apakah yang dinamakan kamu'}
+{'user': 'Chat GPT', 'message': 'Saya adalah ChatGPT, sebuah model bahasa alami yang dibuat dan dilatih oleh OpenAI. Saya dirancang untuk merespons bahasa manusia seperti halnya obrolan antara dua orang manusia. Jadi, Anda dapat menganggap saya sebagai program komputer yang pintar untuk berkomunikasi dengan Anda.'}
+{'user': 'Chat GPT', 'message': 'coba aja deh'}
+{'user': 'Chat GPT', 'message': 'Tentu saja, ada yang bisa saya bantu? Anda bisa bertanya atau berbicara dengan saya tentang apa saja yang ingin Anda diskusikan.'}
+{'user': 'Chat GPT', 'message': 'tuliskan satu kalimat panjang tentang chatgpt'}

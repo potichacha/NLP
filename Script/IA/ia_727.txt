@@ -1,0 +1,4 @@
+{'user': 'Chat GPT', 'message': ',,,'}
+{'user': 'Chat GPT', 'message': 'hej'}
+{'user': 'Chat GPT', 'message': 'Delo99'}
+{'user': 'Chat GPT', 'message': 'sk-...8cTw'}

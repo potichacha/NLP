@@ -1,0 +1,1 @@
+{'user': 'Chat GPT', 'message': 'Data shows that the amount of water you can access sufficient for drinking, cooking and the most basic hygiene needs. Minimum of 15 liters per person per day out of total 375 participants, 299 have access and 76 have no access.'}

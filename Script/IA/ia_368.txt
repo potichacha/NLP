@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'can you convert this'}
+{'user': 'Chat GPT', 'message': "Sure, here's the converted code for jQuery DataTables to server-side version using Laravel backend: You'll need to create a new route named  invoices.data  to handle the server-side request and return the data in JSON format. Here's an example of how to do that in Laravel: Then in your  InvoiceController , you can define the  data  method like this: Note that you'll need to install the  yajra/laravel-datatables-oracle  package to use  Datatables::of  method."}

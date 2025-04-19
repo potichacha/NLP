@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'give the concise of research abstract meaning in a table format'}
+{'user': 'Chat GPT', 'message': "Sure, here's an example table format for a research abstract: Note: This is just an example format and the actual information included in a research abstract may vary depending on the specific study and journal requirements."}

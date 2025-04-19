@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': '2 / 2rounded corners uiimageview swiftui. using the visual editor'}
+{'user': 'Chat GPT', 'message': "To add rounded corners to a UIImageView in SwiftUI using the visual editor, you can follow these steps: Here's a screenshot of the Attributes Inspector with the Clip Shape dropdown menu open:"}

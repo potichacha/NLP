@@ -1,0 +1,4 @@
+{'user': 'Anonymous', 'message': 'hi'}
+{'user': 'Chat GPT', 'message': 'Hello! How can I assist you today?'}
+{'user': 'Anonymous', 'message': 'hell'}
+{'user': 'Chat GPT', 'message': '\u200b'}

@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': 'create a badly written but functional golang function'}
+{'user': 'Chat GPT', 'message': "Sure, here's an example of a badly written but functional Golang function: This function takes two integer arguments,  x  and  y , and returns their sum. However, it's poorly written for several reasons: Despite these issues, the function will still work correctly for most inputs. For example,  Add(2, 3)  will return  6 ."}

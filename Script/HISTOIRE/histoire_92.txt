@@ -1,0 +1,42 @@
+168
+CLMET3_1_2_168.txt
+1780-1850
+1825-1849
+1840s
+1843
+Treatise
+treat
+A system of logic
+Mill, John Stuart
+M
+1806
+
+http://www.gutenberg.org/files/27942/27942-h/27942-h.html
+04-02-2013
+
+
+
+Introduction .
+
+
+ß 1 .
+There is as great diversity among authors in the modes which they have adopted of defining logic , as in their treatment of the details of it .
+This is what might naturally be expected on any subject on which writers have availed themselves of the same language as a means of delivering different ideas .
+Ethics and jurisprudence are liable to the remark in common with logic .
+Almost every writer having taken a different view of some of the particulars which these branches of knowledge are usually understood to include ; each has so framed his definition as to indicate beforehand his own peculiar tenets , and sometimes to beg the question in their favor .
+
+
+This diversity is not so much an evil to be complained of , as an inevitable and in some degree a proper result of the imperfect state of those sciences .
+It is not to be expected that there should be agreement about the definition of any thing , until there is agreement about the thing itself .
+To define , is to select from among all the properties of a thing , those which shall be understood to be designated and declared by its name ; and the properties must be well known to us before we can be competent to determine which of them are fittest to be chosen for this purpose .
+Accordingly , in the case of so complex an aggregation of particulars as are comprehended in any thing which can be called a science , the definition we set out with is seldom that which a more extensive knowledge of the subject shows to be the most appropriate .
+Until we know the particulars themselves , we can not fix upon the most correct and compact mode of circumscribing them by a general description .
+It was not until after an extensive and accurate acquaintance with the details of chemical phenomena , that it was found possible to frame a rational definition of chemistry ; and the definition of the science of life and organization is still a matter of dispute .
+So long as the sciences are imperfect , the definitions must partake of their imperfection ; and if the former are progressive , the latter ought to be so too .
+As much , therefore , as is to be expected from a definition placed at the commencement of a subject , is that it should define the scope of our inquiries : and the definition which I am about to offer of the science of logic , pretends to nothing more than to be a statement of the question which I have put to myself , and which this book is an attempt to resolve .
+The reader is at liberty to object to it as a definition of logic ; but it is at all events a correct definition of the subject of this volume .
+
+
+ß 2 .
+Logic has often been called the Art of Reasoning .
+A writer3 who has done more than any other person to restore this study to the rank from which it had fallen in the estimation of the c

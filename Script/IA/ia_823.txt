@@ -1,0 +1,2 @@
+{'user': 'Anonymous', 'message': "give a few code examples of how unexpected JS is in terms of type conversions. for example:  typeof NaN -> 'number'"}
+{'user': 'Chat GPT', 'message': "Sure, here are some examples of unexpected JavaScript type conversions: These examples demonstrate some of the unexpected type conversions that can occur in JavaScript. It's important to be aware of these quirks so you can avoid them and write more robust and reliable code."}
