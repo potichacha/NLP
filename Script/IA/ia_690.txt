@@ -1,1 +1,0 @@
-{'user': 'Chat GPT', 'message': 'To improve the sales of its products, Kylie cosmetics is considering between two options Option 1: increase advertising using social media Option 2: increase the number of products that are only available for a limited amount of time Justify why Kylie cosmetics should choose option one.(9 marks)'}

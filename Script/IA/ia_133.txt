@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': "Let us know if there's anything else you think should be in the service agreement."}
-{'user': 'Chat GPT', 'message': 'Some common items that are typically included in a service agreement include: It is important to note that the specific terms of a service agreement can vary greatly depending on the nature of the services being provided, the parties involved, and applicable laws. It is always recommended to have a lawyer review and draft such agreements to ensure they are legally binding and meet the needs of both parties.'}

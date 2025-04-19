@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'Having in mind the Outcome-Driven Innovation perspective, can you please come up with a big list of jobs that gets done by an SEO Specialist and format all the statements as a verb + the object of the verb + contextual clarifier, without mentioning any solution?'}
-{'user': 'Chat GPT', 'message': 'Sure, I can provide you with a list of jobs that an SEO specialist can do, presented in the format you requested:'}

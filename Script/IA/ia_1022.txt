@@ -1,1 +1,0 @@
-{'user': 'Chat GPT', 'message': 'ich habe eine webseite mit dem Programm "httrack" in eine lokale kopie gespeichert und möchte daraus ein Reddit Forum erzeugen gibt es tools die dies vereinfachen?'}

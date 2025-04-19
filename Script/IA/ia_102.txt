@@ -1,8 +1,0 @@
-{'user': 'Anonymous', 'message': 'can you send me some interview questions for a frontend developer working in fintech that is focused on next.js, react, victorycharts, and d3.js'}
-{'user': 'Chat GPT', 'message': 'Sure, here are some potential interview questions for a frontend developer working in fintech and experienced in Next.js, React, VictoryCharts, and D3.js:'}
-{'user': 'Anonymous', 'message': "give me some more next.js questions that's more indepth"}
-{'user': 'Chat GPT', 'message': 'Sure, here are some additional, more in-depth interview questions specifically focused on Next.js:'}
-{'user': 'Anonymous', 'message': 'what about questions to test his soft-skills'}
-{'user': 'Chat GPT', 'message': "Here are some potential interview questions that may help evaluate a frontend developer's soft skills:"}
-{'user': 'Anonymous', 'message': 'how can i test to see if he is a good fit for remote work environment'}
-{'user': 'Chat GPT', 'message': "Here are some potential interview questions that may help evaluate a candidate's suitability for a remote work environment: Additionally, you can also ask him if he has experience working with remote teams and if he could give you some examples of how he has handled the challenges of remote work. You could also ask him what measures he takes to ensure effective communication with his team and his manager."}

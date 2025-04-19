@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'Chat, are you fine?'}
-{'user': 'Chat GPT', 'message': "As an artificial intelligence, I don't have feelings, so I don't experience emotions like humans do. However, I am functioning properly and ready to assist you with any questions or concerns you may have. How can I assist you today?"}

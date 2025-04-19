@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'Why would a DJ have to be verified?'}
-{'user': 'Chat GPT', 'message': 'A DJ may be verified for various reasons, such as to establish their identity, prove their credibility, or gain access to certain privileges. Verification can be performed by a relevant authority, such as a music streaming platform, or by a professional organization, such as the International DJ Association. Verification can also help a DJ build their reputation and increase their visibility, making it easier for them to find new opportunities and connect with fans.'}

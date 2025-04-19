@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': '2 / 2create a script for google apps scripts that, based on the content from a specific cell, checks the presence of a similar profile on LinkedIn using the Google Custom Search API and, if a match is found, returns a link to the found profile in the specified cell.'}
-{'user': 'Chat GPT', 'message': 'searchQuery'}

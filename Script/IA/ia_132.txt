@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'In C# I have a Newtonsoft.Json.Linq.JToken. How to check that multiple fields are not null ?'}
-{'user': 'Chat GPT', 'message': 'You can check multiple fields of a Newtonsoft.Json.Linq.JToken object for null values using the  IsNull  method along with the  &&  (and) operator. For example, if you have a JToken object named  jToken  and you want to check if the fields "field1", "field2", and "field3" are not null, you can use the following code: You can also use a loop to check all the fields in an array'}

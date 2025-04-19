@@ -1,1 +1,0 @@
-{'user': 'Chat GPT', 'message': 'schreibe eine kurz Biographie über Marie curie'}

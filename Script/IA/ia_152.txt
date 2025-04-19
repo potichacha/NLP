@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'write the equivalent command for apprunner AIRPORT=cdg COGNITO_PARTITION=aws COGNITO_ACCOUNT=538779473471 COGNITO_ID=eu-west-3_hTrzin7zC COGNITO_ARN=arn:${COGNITO_PARTITION}:cognito-idp:$(get_region_for_airport $AIRPORT):${COGNITO_ACCOUNT}:userpool/${COGNITO_ID} for AZ in $(get_waf_azs_for_airport $AIRPORT); do  mechanic_ca execute goku -r cdg-prod gokutools goku-admin-cli --args "-s prod -r eu-west-3 getCustomerMappingByResource -r $COGNITO_ARN -z $AZ -a $COGNITO_ACCOUNT" done'}
-{'user': 'Chat GPT', 'message': '\u200b'}

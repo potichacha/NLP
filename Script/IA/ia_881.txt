@@ -1,3 +1,0 @@
-{'user': 'Chat GPT', 'message': 'Who or what inspires you and why?'}
-{'user': 'Chat GPT', 'message': 'accounting job application'}
-{'user': 'Chat GPT', 'message': 'the sum of all of your customer accounts receiveble is listed as part of on your balance sheet'}

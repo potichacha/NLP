@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'How do I make an HTTP request in Javascript?'}
-{'user': 'Chat GPT', 'message': '\u200b'}

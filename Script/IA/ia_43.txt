@@ -1,1 +1,0 @@
-{'user': 'Anonymous', 'message': 'Here is a sample program that demonstrates how to print out the amount of VAC bans and the last VAC ban date of a Steam user using their Steam64ID in C#:'}

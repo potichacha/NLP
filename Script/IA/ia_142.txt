@@ -1,4 +1,0 @@
-{'user': 'Anonymous', 'message': 'create an article about cats using this markdown template " # [Title] [description] ### Facts - [fact] "'}
-{'user': 'Chat GPT', 'message': "Cats are beloved pets for millions of people around the world, but despite their popularity, many people don't know much about what makes these fascinating creatures tick. From their unique body language to their playful antics, there's a lot to learn about cats."}
-{'user': 'Anonymous', 'message': 'Now update this article with this new markdown template and put "@TODO" in places you can\'t fill in " # [Title] **By: [Author] [description]'}
-{'user': 'Chat GPT', 'message': "**By: ChatGPT (OpenAI) Cats are beloved pets for millions of people around the world, but despite their popularity, many people don't know much about what makes these fascinating creatures tick. From their unique body language to their playful antics, there's a lot to learn about cats. @TODO"}

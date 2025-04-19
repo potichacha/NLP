@@ -1,4 +1,0 @@
-{'user': 'Chat GPT', 'message': 'Tables in HTML'}
-{'user': 'Chat GPT', 'message': 'HTML'}
-{'user': 'Chat GPT', 'message': 'what is colspan and rowspan'}
-{'user': 'Chat GPT', 'message': 'what is salesforce?'}

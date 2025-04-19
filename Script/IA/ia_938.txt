@@ -1,2 +1,0 @@
-{'user': 'Chat GPT', 'message': 'translate this into python:'}
-{'user': 'Chat GPT', 'message': "This is a C++ code that counts the number of unique points in a set of rectangles. Here's the equivalent Python code:"}

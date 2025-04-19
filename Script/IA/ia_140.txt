@@ -1,3 +1,0 @@
-{'user': 'Anonymous', 'message': 'Business'}
-{'user': 'Anonymous', 'message': 'Online Business'}
-{'user': 'Anonymous', 'message': 'ChatGPT'}

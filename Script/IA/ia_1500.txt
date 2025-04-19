@@ -1,1 +1,0 @@
-{'user': 'Chat GPT', 'message': 'Ramazan'}

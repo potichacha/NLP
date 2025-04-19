@@ -1,1 +1,0 @@
-{'user': 'Chat GPT', 'message': 'what are the AWS used protocols and services'}

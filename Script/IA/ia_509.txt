@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'Oi'}
-{'user': 'Chat GPT', 'message': '\u200b'}

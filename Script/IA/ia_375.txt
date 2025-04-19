@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'Please write 10 examples of original, appropriate topics for Part one and Part 2, and Part 3 of the IELTS speaking exam?'}
-{'user': 'Chat GPT', 'message': 'Sure, here are ten original and appropriate topics for each part of the IELTS speaking exam:'}
