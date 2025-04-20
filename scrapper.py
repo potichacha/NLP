@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import unicodedata
 import requests
 import json
-import symbols
 from unidecode import unidecode
 import re
 headers = {
@@ -29,7 +28,7 @@ my_global_variable = load_variable()
 def clean(text):
     # Remove accents
     # Encode to ASCII with placeholder, decode back
-    text1 = text.replace("â€™","'").encode('latin1').decode('utf-8').replace("?", "").replace(' ndeg '," numero ").replace('deg','e')
+    text1 = text.replace("â€™","'").replace("?", "").replace(' ndeg '," numero ").replace('deg','e')
     text2 = unidecode(text1)
     # Collapse all whitespace into a single space
     return re.sub(r'\s+', ' ', text2).strip()
@@ -51,14 +50,14 @@ def download_html(url, output_filename):
 
 # Clean and parse HTML
 def scrap_text(url):
-    output = f"Data/Processed/SciencesEtAvenir/{load_variable()}.txt"
+    output = f"Data/Tests/Marmiton/test_marmiton_{load_variable()}.txt"
     download_html(url, "currentfile.txt")
 
     with open("currentfile.txt", "r", encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
 
     # Find the step list container
-    step_div = soup.find('div',attrs={"itemprop":"articleBody"} )
+    step_div = soup.find('div',attrs={"class":"recipe-step-list"} )
 
     if step_div:
         # Remove empty tags
@@ -77,3 +76,8 @@ def scrap_text(url):
         print(f"{load_variable()} file scrapped : {output}")
         save_variable(load_variable() + 1)
 
+scrap_text("https://www.marmiton.org/recettes/recette_veloute-de-potiron-au-gingembre_53746.aspx")
+scrap_text("https://www.marmiton.org/recettes/recette_far-breton-de-ma-belle-mere_53733.aspx")
+scrap_text("https://www.marmiton.org/recettes/recette_choucroute-pour-20-personnes_53662.aspx")
+scrap_text("https://www.marmiton.org/recettes/recette_baeckeoffe-de-canard-aux-epices-de-noel-et-fruits-secs_53647.aspx")
+save_variable(0)
