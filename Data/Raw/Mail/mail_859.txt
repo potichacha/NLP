@@ -1,8 +1,0 @@
-Dear John,
-
-We apologize for the delay.  After investigating this issue, we've identified a known bug in the Mercury Language runtime that affects how IAM roles are interpreted.  We have a fix scheduled for release within the next two weeks.  In the meantime, you can work around this issue by implementing a manual role check within your Mercury functions. You can find more information about the bug and workaround here: [link to documentation]
-
-We apologize for any inconvenience this may cause.
-
-Sincerely,
-Aetheros Support

@@ -1,8 +1,0 @@
-Dear John,
-
-Thank you for providing that information. Our engineers have identified the root cause of this issue and implemented a fix. Your deployments should now be successful. 
-
-We apologize for the inconvenience caused by this outage. Please don't hesitate to contact us if you experience any further problems.
-
-Sincerely,
-Aetheros Support Team

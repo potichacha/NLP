@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I'm encountering some difficulties integrating Mercury with our existing API. Specifically, I'm struggling with data serialization between our API (built with Python/Django) and a new microservice we're developing using Mercury. 
-
-Could you provide some guidance or documentation on best practices for this type of integration? Any examples showcasing data exchange between Mercury and Python would be incredibly helpful.
-
-Thanks,
-John Doe

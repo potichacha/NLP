@@ -1,1 +1,0 @@
-We are facing a critical issue with integrating Mercury language into our existing API, developed with Aetheros last year. The documentation seems outdated and we are experiencing frequent crashes. This is causing a major disruption to our services. We need immediate assistance to resolve this.

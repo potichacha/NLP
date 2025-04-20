@@ -1,8 +1,0 @@
-Hello John,
-
-Thank you for reaching out to Aetheros Support. We appreciate your interest in our services.
-
-We'll need some more time to look into your question about granular rate limiting tied to IAM roles. We'll get back to you within 2 business days.
-
-Regards,
-The Aetheros Support Team

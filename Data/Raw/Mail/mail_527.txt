@@ -1,3 +1,0 @@
-Dear John, 
-
-Thank you for contacting Aetheros Support. We understand that you are experiencing intermittent downtime with your production API.  We are currently investigating this issue with high priority.  We will provide you with an update within the next 30 minutes.

@@ -1,8 +1,0 @@
-Hi,
-
-The issue occurs when we try to deploy a new version of our application which uses Mercury for its API. The deployment pipeline seems to hang during the build phase, specifically when it tries to access resources managed by your cloud platform. 
-
-Additionally, we are considering building a new API for another application using Mercury.  Are there any specific considerations or best practices for designing APIs with Mercury to ensure seamless integration with your cloud management tools?
-
-Regards,
-John

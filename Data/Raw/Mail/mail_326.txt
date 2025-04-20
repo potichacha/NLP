@@ -1,8 +1,0 @@
-Hi Aetheros Support Team,
-
-We've been experiencing intermittent high latency with our API that's connected to your API monitoring service for the past few hours.  This is causing significant performance degradation for our users. 
-
-We've checked our end and everything seems to be functioning correctly. Can you please investigate this issue urgently and provide an update?
-
-Thanks,
-John Doe

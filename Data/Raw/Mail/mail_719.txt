@@ -1,6 +1,0 @@
-Dear John,
-
-Thank you for contacting Aetheros Support. We understand you're experiencing a critical outage. We've identified an issue on our end affecting cloud instances in your region. Our engineers are working to resolve this as quickly as possible. We will keep you updated on the progress.
-
-Sincerely,
-Aetheros Support

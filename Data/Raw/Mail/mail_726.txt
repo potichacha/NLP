@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-We've been experiencing some performance issues with our application, particularly during peak hours. We suspect it might be related to our cloud resource scaling configuration. 
-
-We are currently using your Cloud Management service and are on the Basic plan. Could you advise on best practices for instance optimization to improve our application's responsiveness?
-
-Thanks,
-John Doe

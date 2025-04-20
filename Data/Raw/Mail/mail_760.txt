@@ -1,8 +1,0 @@
-Dear John,
-
-Thank you for contacting Aetheros Support. We apologize for the inconvenience you are experiencing. 
-
-Could you please provide more details about your IAM integration needs? Knowing the specific IAM solution you are using would help us direct you to the most relevant resources. 
-
-Best regards,
-The Aetheros Support Team

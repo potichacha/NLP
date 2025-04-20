@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'Fix all the grammar errors in the text below. Only fix grammar errors, do not change the text style. I love AI a very many'}
-{'user': 'Chat GPT', 'message': 'I love AI very much.'}

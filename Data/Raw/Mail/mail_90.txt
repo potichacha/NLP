@@ -1,5 +1,0 @@
-Our team is experiencing critical issues with accessing the API monitoring dashboards since this morning. We believe this is related to our IAM configuration, as users are receiving "Access Denied" errors. 
-
-We rely heavily on the API monitoring tools for our operations, and this downtime is severely impacting our business. We need this resolved urgently.
-
-Can you please investigate and provide an update as soon as possible?

@@ -1,8 +1,0 @@
-We are experiencing an issue with an IAM role in our production environment. 
-
-We recently made changes to the permissions associated with this role and are now encountering authentication errors when trying to access our API endpoints.  This is causing significant disruption to our services. 
-
-Could you please investigate this issue as a matter of urgency and provide a solution as soon as possible?
-
-Thanks,
-John Doe

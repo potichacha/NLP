@@ -1,6 +1,0 @@
-Dear John,
-
-Thank you for contacting Aetheros Support. We understand you're facing challenges integrating Mercury language with your cloud infrastructure. To better assist you, could you please provide more details about the specific issues you're encountering with the deployment pipelines?
-
-Regards,
-The Aetheros Support Team

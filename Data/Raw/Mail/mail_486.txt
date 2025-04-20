@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I'm having trouble finding clear documentation on how to implement custom authentication using Mercury Language for our API. Specifically, I'm looking for examples on how to integrate with our existing OAuth 2.0 provider.
-
-Could you point me in the right direction?
-
-Thanks,
-John Doe

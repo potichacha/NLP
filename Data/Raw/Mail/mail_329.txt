@@ -1,8 +1,0 @@
-Dear John,
-
-Thank you for contacting Aetheros Support. We understand you are experiencing a critical issue with your production environment on our cloud management platform. 
-
-We have escalated this to our highest priority and our engineers are actively investigating the cause of the outage. We will keep you updated on the situation and provide an ETA for resolution as soon as possible.
-
-Sincerely,
-Aetheros Support Team

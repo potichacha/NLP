@@ -1,6 +1,0 @@
-Dear John,
-
-Thank you for reaching out.  We understand you're experiencing issues with Mercury Language and IAM integration.  We're looking into this and will provide an update within 24 hours.
-
-Sincerely,
-Aetheros Support

@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-We've been experiencing frequent timeouts with the API monitoring service for the past few hours.  Our API endpoint for [redacted] is intermittently failing, and the monitoring dashboard isn't providing consistent data.  
-
-This is impacting our live production environment, and we need this resolved ASAP. Please advise on next steps.
-
-Thanks,
-John Doe

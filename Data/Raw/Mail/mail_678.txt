@@ -1,4 +1,0 @@
-Dear John,
-Thank you for contacting Aetheros Support. We understand you are experiencing issues with the API Monitoring service showing false downtime.  We are currently looking into this issue and will provide an update as soon as possible.
-Regards,
-Aetheros Support Team

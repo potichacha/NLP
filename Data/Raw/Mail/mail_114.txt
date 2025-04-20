@@ -1,8 +1,0 @@
-Hi Support Team,
-
-I managed to resolve the issue. It turned out to be a logic error in my code related to handling the asynchronous responses. I didn't properly implement a mechanism to ensure the responses were processed in the correct order. 
-
-Thanks for your assistance anyway.
-
-Regards,
-Isiah

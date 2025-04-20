@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I'm having trouble adding users to a specific group within the IAM service. I've followed the documentation, but I keep encountering an error message. 
-
-Could you please help me with this?
-
-Thanks,
-John Doe

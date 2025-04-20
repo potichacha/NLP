@@ -1,7 +1,0 @@
-We are experiencing critical issues with our API integrated with your platform. Since this morning, we've seen a huge spike in error rates, particularly 500 errors, and the latency has become extremely inconsistent, sometimes reaching several minutes. This is severely impacting our live operations and causing major disruption to our services.
-
-The issue seems related to the following endpoints: 
-- /api/v2/orders
-- /api/v3/products
-
-We have checked our end and can confirm there are no issues on our side. We desperately need this resolved ASAP. Please investigate immediately and provide an update.

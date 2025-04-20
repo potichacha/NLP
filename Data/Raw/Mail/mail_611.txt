@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I'm having a bit of trouble understanding how to assign specific permissions to a custom role I created in the IAM service. I want to give a team read-only access to certain cloud resources. Could you please provide some guidance on how to achieve this?
-
-Thanks,
-John Doe

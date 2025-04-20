@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'can you give me the prices of this list based on amazon.com database and availability ?'}
-{'user': 'Chat GPT', 'message': "I'm happy to help you with that! However, I'll need you to provide me with the list of items you're interested in so I can check their availability and prices on Amazon.com. Please provide me with the list, and I'll do my best to assist you."}

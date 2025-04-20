@@ -1,8 +1,0 @@
-Hi Support Team,
-
-I figured out the issue. It turns out there was a null value for the "name" property in one of the objects within `someList`. My apologies for the false alarm.
-
-However, it would be helpful if the Mercury language provided a more descriptive error message in such cases, perhaps indicating the index of the problematic object within the list.
-
-Regards,
-John

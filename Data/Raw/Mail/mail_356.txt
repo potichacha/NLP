@@ -1,8 +1,0 @@
-Hi,
-
-Thanks for the response.  I've checked the documentation, but it doesn't specifically address the serialization issues I'm facing with Python. Are there any code examples or more detailed guides available?  
-
-This is holding up our development, so a quicker resolution would be greatly appreciated.
-
-Regards,
-John

@@ -1,8 +1,0 @@
-Dear John,
-
-Our team has investigated the scaling issues you reported. We've identified a configuration issue within your cloud environment that was preventing resources from scaling properly during peak hours. We have corrected this configuration.
-
-Please monitor your application's performance over the next few days and let us know if you encounter any further problems.
-
-Best regards,
-Aetheros Support Team

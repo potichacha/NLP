@@ -1,2 +1,0 @@
-{'user': 'Chat GPT', 'message': 'tescb'}
-{'user': 'Chat GPT', 'message': 'OpenAI_API'}

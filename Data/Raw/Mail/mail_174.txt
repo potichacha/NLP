@@ -1,7 +1,0 @@
-Here are the details you requested:
-
-* Affected API endpoints: /orders, /users, /products
-* Time period: Since approximately 2023-10-26T09:30:00Z
-* Recent changes: We deployed a minor code update at 2023-10-26T09:15:00Z. 
-
-Please let me know if you need any further information.  We need to resolve this quickly.

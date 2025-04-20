@@ -1,8 +1,0 @@
-Dear John Doe,
-
-We have identified the issue causing the API access errors and monitoring dashboard outage. It was related to a recent security update that inadvertently impacted access permissions. Our team has implemented a fix, and API access should be restored now. The monitoring dashboard will be available shortly.
-
-We apologize for the inconvenience this outage caused.
-
-Sincerely,
-The Aetheros Support Team

@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I'm having trouble understanding how role inheritance works in your IAM service. Specifically, if I have a role that inherits permissions from another role, and I then revoke one of those permissions from the parent role, does that change also apply to the child role?
-
-Thanks,
-John Doe

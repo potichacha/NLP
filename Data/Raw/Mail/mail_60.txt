@@ -1,3 +1,0 @@
-We are experiencing a critical issue with the API you developed for our e-commerce platform. The integration is completely failing, causing a complete halt in our online orders. 
-
-We need this resolved immediately as this is costing us significant revenue every hour. Please advise on the next steps ASAP.

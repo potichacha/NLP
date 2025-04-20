@@ -1,6 +1,0 @@
-We are experiencing a critical issue with our API access.  Users are randomly losing access to specific API endpoints, even though their permissions in the Aetheros IAM seem correct. This is causing major disruptions to our services. We need this resolved ASAP.
-
-Can you please advise on how to troubleshoot this?
-
-Application ID: app-7895462
-Affected API: /orders/{orderID}

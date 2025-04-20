@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-Attached are the requested details regarding the IAM role assignment and Mercury deployment issues.
-
-Please let us know if you require any further information. We need a resolution to this as soon as possible.
-
-Regards,
-John Doe

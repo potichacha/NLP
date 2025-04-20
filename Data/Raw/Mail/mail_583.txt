@@ -1,6 +1,0 @@
-We are experiencing critical issues with our Aetheros integration.
-
-1.  Our monitoring dashboards are showing "Access Denied" errors for several API endpoints that were working previously. This is causing major disruption to our operations.
-2.  We are also unable to manage user roles within the IAM service.  Attempts to change permissions are resulting in errors.  
-
-This is a high-priority issue. We need immediate assistance to resolve this. Please contact us as soon as possible.

@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I'm having a bit of trouble understanding how the automatic scaling works with your Cloud Management service. Specifically, what metrics are used to trigger scaling up? Is it possible to adjust the sensitivity of the scaling triggers?
-
-Thanks,
-John Doe

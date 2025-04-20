@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-We've implemented the instance sizing changes and configured autoscaling as per your suggestions, and it seems to have improved the performance significantly. Thank you so much for your help!
-
-However, we now have a quick question regarding our API monitoring. We've noticed some unusual spikes in request latency in the API Monitoring dashboard even during off-peak hours. Is this something to be concerned about, or could it be related to the recent changes we made?
-
-Thanks again,
-John Doe

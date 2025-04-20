@@ -1,1 +1,0 @@
-Our API monitoring dashboard is showing our main API as down, but it's accessible and functioning normally. This false alarm is causing widespread panic internally and with our customers. We rely heavily on your platform and this downtime (even though false) is impacting our revenue and reputation. Please advise ASAP.

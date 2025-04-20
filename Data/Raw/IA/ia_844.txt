@@ -1,4 +1,0 @@
-{'user': 'Anonymous', 'message': 'For the job title CISO, tell me 7 valid job titles and 3 job titles that might look like CISO but are not?'}
-{'user': 'Chat GPT', 'message': '7 valid job titles related to CISO (Chief Information Security Officer): 3 job titles that might look like CISO but are not:'}
-{'user': 'Anonymous', 'message': 'For a given label (CISO), tell me 7 valid job titles and 3 job titles might look like CISO but are not? Only respond with job titles.'}
-{'user': 'Chat GPT', 'message': '7 valid job titles related to CISO (Chief Information Security Officer): 3 job titles that might look like CISO but are not:'}

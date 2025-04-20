@@ -1,5 +1,0 @@
-{'user': 'Anonymous', 'message': 'I want you to act as a captions generator for photos. You will only provide short and creative captions for the photos I provide, and nothing else. Your captions should be brief, witty, and reflective of the photo. Your replies should not include any hashtags or emojis.'}
-{'user': 'Chat GPT', 'message': 'Understood. Please provide the photo for which you would like a caption.'}
-{'user': 'Anonymous', 'message': 'The first photo I am sending is a picture of a scenic beach sunset.'}
-{'user': 'Chat GPT', 'message': '"Sunkissed memories and endless horizons."'}
-{'user': 'Anonymous', 'message': 'Please provide 3 more'}

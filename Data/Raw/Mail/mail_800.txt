@@ -1,1 +1,0 @@
-Our production API, which is managed on your Cloud Management platform, is currently down. We believe this is related to the recent deployment we made through your system. We are experiencing a complete outage and this is severely impacting our business operations. Please advise ASAP on how to resolve this issue.

@@ -1,8 +1,0 @@
-Hello John,
-
-We've investigated the issue, and it appears there might be a known bug in the version of Mercury you are using related to concurrency. We recommend upgrading to the latest version, 1.3.1, which includes a fix for this issue.
-
-Please let us know if you encounter any further problems after upgrading.
-
-Sincerely,
-Aetheros Support Team

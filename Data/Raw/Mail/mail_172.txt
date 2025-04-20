@@ -1,3 +1,0 @@
-We are experiencing critical issues with API performance. Our monitoring dashboards show massive latency spikes, and our services are intermittently failing. This is causing major disruption to our operations. 
-
-We need immediate assistance to identify the root cause and resolve this problem as quickly as possible.

@@ -1,8 +1,0 @@
-Hi Aetheros Support Team,
-
-I've been noticing some unusual latency spikes on our API monitoring dashboard for the past few hours. The spikes seem to be intermittent and don't appear to be tied to any specific endpoint or user action.  
-
-Could you please take a look and advise if there's anything we need to be concerned about or if any action is required from our side?
-
-Thanks,
-Isiah Cronin

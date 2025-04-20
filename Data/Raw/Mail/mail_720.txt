@@ -1,8 +1,0 @@
-Dear John,
-
-We understand the urgency and the impact this outage is having. Our engineers have identified the root cause and are implementing a fix. We expect services to be restored within the next 30 minutes. 
-
-We sincerely apologize for the inconvenience caused. 
-
-Sincerely,
-Aetheros Support

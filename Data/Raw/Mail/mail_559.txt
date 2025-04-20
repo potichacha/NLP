@@ -1,8 +1,0 @@
-Hi John,
-
-The issue with function deployments has been resolved. You should now be able to deploy your function without any problems.
-
-Please let us know if you encounter any further difficulties.
-
-Best regards,
-Aetheros Support Team

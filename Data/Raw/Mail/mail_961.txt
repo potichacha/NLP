@@ -1,7 +1,0 @@
-We are experiencing critical compiler errors with the Mercury language in our production environment. This is causing a complete outage of our services. We have tried restarting the compiler and checking our code, but the errors persist. 
-
-We need urgent assistance to resolve this issue as soon as possible. Please advise on any immediate steps we can take or if there is a known issue with the current version.
-
-Error Message:
-[Mercury Compiler] Fatal Error: Unexpected token '...' on line 123
-...

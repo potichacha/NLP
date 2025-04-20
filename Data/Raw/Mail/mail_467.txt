@@ -1,8 +1,0 @@
-Hi John,
-
-Thank you for your interest in our API development services. We'd be happy to discuss your specific needs and provide you with a tailored solution.
-
-Could you please tell us more about the existing systems you're looking to integrate with and the functionalities you envision for the custom API?
-
-Best regards,
-Aetheros Support Team

@@ -1,6 +1,0 @@
-Thanks for the response, but I couldn't find the specific information I was looking for in the documentation. Can you please elaborate on how to use your IAM service to control access to specific API endpoints?
-
-For example, if we want to restrict certain API endpoints to only authenticated users with specific roles, how can we achieve that using your IAM service?
-
-Thanks,
-John

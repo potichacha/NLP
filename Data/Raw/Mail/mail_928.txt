@@ -1,6 +1,0 @@
-Hi,
-
-The workaround you suggested did not work. We are still unable to assign the role. This is causing significant disruption to our operations. Can you please provide an ETA for the fix?
-
-Thanks,
-John

@@ -1,3 +1,0 @@
-After further investigation on our end, we found that the issue was related to a misconfiguration in our caching layer that interacted poorly with the Aetheros IAM token validation. It wasn't directly an issue with your service. 
-
-We've corrected the problem on our side. Thanks for your attempted assistance.

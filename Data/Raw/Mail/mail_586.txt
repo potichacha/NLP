@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I'm encountering difficulties deploying a Mercury application to AWS using Aetheros Cloud Management. The deployment process seems to hang indefinitely after the initial resource provisioning. I've double-checked my configuration files and they appear to be in order. 
-
-Could you please advise on how to troubleshoot this?
-
-Thanks,
-John Doe

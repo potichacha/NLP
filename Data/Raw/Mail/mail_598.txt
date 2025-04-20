@@ -1,5 +1,0 @@
-Dear John,
-
-We have identified that the issue was caused by a spike in traffic from an unanticipated source. We have implemented rate limiting to mitigate the issue and are monitoring the situation closely. Our team is also working on scaling up our infrastructure to handle future traffic spikes more effectively.
-
-While API performance has improved, we will continue to monitor the situation.  Please let us know if you experience any further issues.

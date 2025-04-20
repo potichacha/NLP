@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I'm working on integrating our Mercury-based API with the Aetheros IAM service. We're encountering an issue where the API doesn't seem to be properly recognizing the roles assigned to users through the IAM. 
-
-Specifically, users who should have access to certain API endpoints based on their roles are getting denied access. Could you please provide some guidance on how to troubleshoot this?
-
-Thanks,
-John Doe

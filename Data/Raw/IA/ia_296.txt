@@ -1,6 +1,0 @@
-{'user': 'Anonymous', 'message': 'How many words are in this sentence?'}
-{'user': 'Chat GPT', 'message': 'There are nine words in your question: "How many words are in this sentence?"'}
-{'user': 'Anonymous', 'message': 'What is 78945*5678'}
-{'user': 'Chat GPT', 'message': '78945 multiplied by 5678 is equal to 448,791,210.'}
-{'user': 'Anonymous', 'message': 'What is (4+5)*22^4'}
-{'user': 'Chat GPT', 'message': 'Using the order of operations (PEMDAS), we first calculate the exponentiation, then the addition inside parentheses, and finally the multiplication. So, (4+5)*22^4 = 9 * 22^4 = 9 * 22 * 22 * 22 * 22 = 37,748,736. Therefore, (4+5)*22^4 is equal to 37,748,736.'}

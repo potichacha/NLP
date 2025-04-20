@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I've been noticing some discrepancies between the data displayed on my API monitoring dashboard and the actual performance I'm experiencing. Specifically, the response times shown on the dashboard seem to be consistently lower than what I'm seeing in my application logs.
-
-Could you please look into this? 
-
-Thanks,
-John Doe

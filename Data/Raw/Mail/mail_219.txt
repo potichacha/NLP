@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I'm working with the Mercury language for a new API endpoint, and I'm having trouble finding clear documentation on how to implement custom authorization logic.  Is there a specific section in the docs, or could you provide some guidance on how to achieve this?
-
-Thanks,
-John Doe

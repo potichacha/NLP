@@ -1,6 +1,0 @@
-Hi Aetheros Support Team,
-
-I'm working on a project using Mercury, and I'm having some trouble understanding how the async functionality works, specifically with concurrent requests. Could you provide some documentation or examples on how to best utilize async in Mercury for concurrent operations?
-
-Thanks,
-John Doe

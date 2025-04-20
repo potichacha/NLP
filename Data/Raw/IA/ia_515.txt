@@ -1,2 +1,0 @@
-{'user': 'Chat GPT', 'message': 'suggest me a best name for facebook page related to online business'}
-{'user': 'Chat GPT', 'message': 'hafeez'}

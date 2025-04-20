@@ -1,6 +1,0 @@
-Hi,
-
-Please find the information you requested attached. We also noticed inconsistent behavior in the API monitoring logs related to authorization attempts. It seems some requests are not being logged at all. Could this be related?
-
-Thanks,
-John

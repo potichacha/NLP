@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'can you speak tagalog?'}
-{'user': 'Chat GPT', 'message': 'Opo, marunong po akong mag-Salita ng Tagalog. Ano po ang gusto ninyong malaman o katanungan na nais ninyong sagutin?'}

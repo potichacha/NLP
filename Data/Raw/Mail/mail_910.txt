@@ -1,8 +1,0 @@
-Hi John,
-
-Thank you for the information. We have investigated this further and found a solution. You can find detailed instructions on integrating our IAM service with AWS S3 bucket policies in our documentation: [link to documentation].
-
-Please let us know if you have any further questions.
-
-Best regards,
-Aetheros Support

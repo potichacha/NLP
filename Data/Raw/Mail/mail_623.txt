@@ -1,8 +1,0 @@
-Dear John,
-
-Thank you for contacting Aetheros Support. We understand you're facing urgent issues with your cloud infrastructure and IAM roles.
-
-We are currently investigating the issue and will get back to you with an update within 24 hours.
-
-Best regards,
-Aetheros Support Team

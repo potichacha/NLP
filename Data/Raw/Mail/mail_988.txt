@@ -1,3 +1,0 @@
-Thanks for the quick response and the link to the documentation. That's helpful!
-
-One more question - do you have any recommendations for managing cloud resources across multiple accounts using the IAM service?

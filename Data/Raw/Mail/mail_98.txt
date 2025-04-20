@@ -1,8 +1,0 @@
-Hello John,
-
-Thank you for reaching out to Aetheros Support. We are happy to assist you with your inquiry about API rate limits. 
-
-Could you please provide your account ID or the email address associated with your Aetheros account so we can look into your specific subscription details? 
-
-Best regards,
-The Aetheros Support Team

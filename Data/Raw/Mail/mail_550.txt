@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-We've been experiencing some difficulties scaling our cloud resources effectively through your platform. Our application experiences significant slowdowns during peak hours, and we believe it's related to resource limitations. 
-
-Could you please advise on how to best diagnose and address this issue?
-
-Thanks,
-John Doe

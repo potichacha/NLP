@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-We've been experiencing intermittent high latency issues with the API you developed for us. These latency spikes are significantly impacting our application performance and user experience.
-
-We've checked our end, and the issue seems to originate from the API side. Could you investigate this urgently and provide an update?
-
-Best regards,
-John Doe

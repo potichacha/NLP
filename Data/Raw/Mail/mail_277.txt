@@ -1,8 +1,0 @@
-Hi John,
-
-Thank you for contacting Aetheros Support. We understand you're experiencing issues with async calls in Mercury. 
-
-Can you please provide us with a code snippet illustrating how you're making these async calls? This will help us better understand the issue and provide a more accurate solution.
-
-Best regards,
-The Aetheros Support Team

@@ -1,9 +1,0 @@
-Thank you for contacting Aetheros Support. We understand the urgency of this issue and are committed to assisting you in resolving it. 
-
-To better understand the problem, could you please provide the following information:
-
-* The specific error messages you're encountering in the deployment logs.
-* The version of Mercury Language you are using.
-* Any recent changes made to your API code or cloud configuration prior to the issue occurring.
-
-Once we have this information, our team can investigate further and provide guidance.

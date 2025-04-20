@@ -1,8 +1,0 @@
-Hi,
-
-I'm having trouble adding a new development team to my project's permissions in the IAM service. I've created the team and assigned roles, but they still can't access the resources.
-
-Could you please help me with this?
-
-Thanks,
-John Doe

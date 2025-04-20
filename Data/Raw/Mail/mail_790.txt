@@ -1,5 +1,0 @@
-Environment Name: prod-us-east-1
-Issue Start Time: Approximately 2023-10-26 03:00 UTC
-Recent Changes: No deployments or configuration changes in the past 24 hours.
-
-This is a critical outage for us.  Please advise on the estimated time to resolution.

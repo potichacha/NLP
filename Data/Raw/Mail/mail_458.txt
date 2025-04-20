@@ -1,8 +1,0 @@
-Hello Aetheros Support,
-
-I'm working with the Mercury language for our API development, and I'm having trouble finding clear documentation on how to implement custom error handling. Specifically, I want to define unique error codes and messages to return from my API. 
-
-Could you point me to the relevant documentation or provide an example?
-
-Thanks,
-John Smith

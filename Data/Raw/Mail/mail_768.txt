@@ -1,8 +1,0 @@
-Dear John,
-
-Thank you for contacting Aetheros Support. We understand the urgency of this issue and are actively investigating the root cause of the API response time degradation.
-
-We will keep you updated on our progress and provide a resolution timeline as soon as possible.
-
-Best regards,
-Aetheros Support Team

@@ -1,6 +1,0 @@
-Dear John,
-
-Thank you for reaching out. To help us investigate, could you please provide more details about your current cloud configuration and the specific resources you are having trouble scaling?
-
-Sincerely,
-Aetheros Support

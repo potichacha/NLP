@@ -1,7 +1,0 @@
-We are experiencing a critical issue in our production environment with the Mercury API. We are seeing extremely high latency and frequent 500 errors. This is causing major disruption to our services.
-
-We are currently using Mercury language version 1.2.5 and our API is deployed on AWS.
-
-We have checked our API logs and can't seem to pinpoint the root cause. The issue started around [mention approximate time] today.
-
-We need immediate assistance to resolve this issue. Please contact us as soon as possible.

@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'Voor welk bedrijf zou de domeinnaam www.poolsverkeersbureau.nl interessant kunnen zijn en kun je wat namen noemen?'}
-{'user': 'Chat GPT', 'message': 'De domeinnaam   kan interessant zijn voor bedrijven die actief zijn in de reis- en toerismebranche en zich richten op Polen als bestemming. Hier zijn enkele mogelijke bedrijfsnamen die bij deze domeinnaam zouden kunnen passen:'}

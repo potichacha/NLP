@@ -1,8 +1,0 @@
-Dear John,
-
-Thank you for contacting Aetheros Support. We understand the urgency of the situation and are currently investigating the issue with your API Monitoring alerts.
-
-We will keep you updated on our progress and provide a resolution as soon as possible.
-
-Sincerely,
-Aetheros Support Team

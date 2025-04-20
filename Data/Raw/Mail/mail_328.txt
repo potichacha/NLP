@@ -1,3 +1,0 @@
-Our production environment hosted on your cloud management platform is currently down. This is a major outage impacting all of our customers. We need this resolved ASAP. 
-
-Can you please provide an ETA and keep us updated on the situation?

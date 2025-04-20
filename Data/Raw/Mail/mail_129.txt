@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I'm having some trouble understanding the limitations of custom roles within the IAM service. Specifically, I want to create a role that can manage cloud resources but only within a specific region. Is this possible with the current feature set?
-
-Thanks,
-John Doe

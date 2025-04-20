@@ -1,9 +1,0 @@
-Thank you for contacting Aetheros Support. We understand your production environment is facing a critical outage, and we're here to help.
-
-We've received your request and escalated it to our senior engineers. They are currently investigating the issue with the IAM service and its integration with your cloud resources. We'll provide updates as soon as we have more information.
-
-In the meantime, could you please share the following details to aid our investigation:
-
-* Timestamp of when the issue first occurred
-* Any recent changes made to your IAM roles or policies
-* Error messages you are encountering

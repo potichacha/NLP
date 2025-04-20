@@ -1,8 +1,0 @@
-Hi,
-
-It's been several days and we haven't received any updates. Our API is still experiencing slow response times. This is unacceptable and is causing significant damage to our business.
-
-We need a concrete timeline for the resolution. When can we expect this issue to be fully resolved?
-
-Regards,
-John

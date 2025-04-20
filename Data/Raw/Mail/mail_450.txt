@@ -1,8 +1,0 @@
-Dear John,
-
-The issue with your production server (srv-4829xyz) has been resolved.  Please confirm if you are able to access your server without any problems. 
-
-We apologize again for the inconvenience caused.
-
-Best Regards,
-Aetheros Support Team

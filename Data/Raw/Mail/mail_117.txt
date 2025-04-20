@@ -1,8 +1,0 @@
-Hi Aetheros Support Team,
-
-I'm experiencing an issue deploying a Mercury Language application on the Aetheros Cloud platform. I followed the documentation steps but encountered an error during the deployment stage.
-
-Can you please advise?
-
-Thanks,
-John Doe

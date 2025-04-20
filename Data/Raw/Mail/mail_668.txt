@@ -1,8 +1,0 @@
-Aetheros Support Team,
-
-Thank you for the quick response and the provided information. We managed to implement the auto-scaling feature, and it seems to be handling the traffic increase well. The API documentation was also helpful in resolving our token refresh implementation.
-
-We appreciate your efficient support.
-
-Sincerely,
-Isiah Schmeler

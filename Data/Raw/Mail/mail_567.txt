@@ -1,6 +1,0 @@
-Thank you for contacting Aetheros Support.  We understand the urgency of the situation. Can you please provide more details about the issue, including:
-
-*  The specific permissions affected
-*  The approximate number of users impacted
-*  The time this issue began occurring
-*  Any recent changes made to your IAM configuration

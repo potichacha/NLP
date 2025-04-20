@@ -1,8 +1,0 @@
-Hi John,
-
-Thank you for reaching out. We are aware of some intermittent latency issues affecting a small number of customers. Our engineers are currently working on a fix. 
-
-We will keep you updated on the situation and let you know as soon as we have more information.
-
-Best regards,
-Aetheros Support

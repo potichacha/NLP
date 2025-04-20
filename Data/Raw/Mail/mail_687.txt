@@ -1,8 +1,0 @@
-Dear John,
-
-We apologize for the delay. Our engineers have identified the issue and are currently working on a fix. We have found that this error can occur under certain rare conditions with the latest version of the Mercury compiler. We recommend reverting back to version 1.2.2 until a permanent fix is released. You can find the download link for version 1.2.2 here: [link]
-
-We will keep you updated on the progress of the fix. 
-
-Sincerely,
-Aetheros Support

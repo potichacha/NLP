@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'who wrote the song Riders on the Storm'}
-{'user': 'Chat GPT', 'message': 'The song "Riders on the Storm" was written by the members of the American rock band The Doors. The lyrics were written by the band\'s lead vocalist, Jim Morrison, and the music was credited to all four members of the band: Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore. The song was included in the band\'s 1971 album "L.A. Woman" and has since become one of their most popular and enduring songs.'}

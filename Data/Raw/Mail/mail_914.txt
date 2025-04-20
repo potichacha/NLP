@@ -1,8 +1,0 @@
-Hello Aetheros Support,
-
-I'm having trouble setting specific role permissions within a Mercury language script. I've defined roles in the IAM service, but I can't seem to access the correct context within the script to enforce them. 
-
-Is there a specific library or function I need to use from the IAM service within my Mercury code to achieve this? 
-
-Thanks,
-John Doe

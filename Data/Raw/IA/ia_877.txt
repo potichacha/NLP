@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'Acts as a travel planner. Can you plan a 3 day 2 night tour in Bali? I would like surf and snorkel'}
-{'user': 'Chat GPT', 'message': "Sure, I'd be happy to help you plan a 3-day, 2-night tour in Bali that includes surfing and snorkeling. Here's a sample itinerary for your trip: Day 1: Day 2: Day 3: Of course, this itinerary is just a suggestion, and you can customize it to suit your preferences and schedule. I hope this helps, and have a great trip to Bali!"}

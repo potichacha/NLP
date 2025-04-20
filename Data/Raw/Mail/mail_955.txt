@@ -1,8 +1,0 @@
-Thank you for contacting Aetheros support. We understand you're experiencing issues with the Mercury compiler. Can you please provide the following information so we can assist you further:
-
-* Version of the Mercury compiler you are using
-* Operating system and version
-* A sample code snippet that reproduces the error
-* The complete error message you are seeing
-
-Awaiting your response to better understand the problem.

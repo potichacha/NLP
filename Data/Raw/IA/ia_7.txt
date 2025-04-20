@@ -1,1 +1,0 @@
-{'user': 'Anonymous', 'message': 'imagine um site para compartilhar o histórico de conversas feito no chatgpt e crie uma lista de 10 dominios com nome curto que eu poderia criar'}

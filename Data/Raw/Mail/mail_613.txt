@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I'm writing to suggest an improvement to the Cloud Management dashboard. It would be incredibly helpful if we could see a real-time visualization of resource consumption (CPU, memory, etc.) directly on the main dashboard. This would provide a quick and easy way to monitor the health of our deployments. 
-
-Thanks,
-John Doe

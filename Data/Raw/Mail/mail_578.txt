@@ -1,7 +1,0 @@
-Dear John, Thank you for contacting Aetheros Support. We understand you're facing difficulties assigning roles within the IAM service. To help us investigate, could you please provide the following information:
-
-* Specific error messages encountered
-* Affected user accounts and roles
-* Any recent changes made to your IAM configuration
-
-We will prioritize your case and work towards a swift resolution. Best regards, The Aetheros Support Team

@@ -1,8 +1,0 @@
-Aetheros Support,
-
-The IAM issue seems to be resolved. However, we haven't received any further updates on the Mercury deployment problem. Our team is still blocked by this, and it's been several days now.
-
-Could you please provide an ETA on when we can expect a resolution for this?
-
-Regards,
-John Doe

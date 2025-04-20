@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-import unicodedata
 import requests
 import json
 from unidecode import unidecode

@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I am facing issues assigning new roles within the IAM service.  I have tried multiple times, but the changes are not saving. This is preventing me from granting necessary permissions to my team.
-
-Could you please look into this urgently?
-
-Thanks,
-John Doe

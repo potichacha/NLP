@@ -1,8 +1,0 @@
-Hi John,
-
-Yes, our Cloud Management service fully supports automatic scaling for [Specific cloud provider] instances. You can configure it through the platform's dashboard or via our API.
-
-Let me know if you have any other questions.
-
-Kind regards,
-Aetheros Support

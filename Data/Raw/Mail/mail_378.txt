@@ -1,7 +1,0 @@
-We are experiencing a critical issue with deploying our Mercury application to our Aetheros cloud environment. We are encountering an error related to IAM permissions, specifically when the application tries to access a specific resource. 
-
-Here's the error message we're seeing: "Access Denied: User 'user-123' is not authorized to perform 'aetheros:resource:action' on resource 'arn:aetheros:resource:us-west-2:123456789012:resource/my-resource'."
-
-We have double-checked the IAM roles and policies assigned to the user and the application, and everything seems to be correctly configured according to the documentation.  We have not made any recent changes to our IAM setup.
-
-This is causing a complete halt to our deployment pipeline, and we need this resolved urgently. Please advise on how to troubleshoot and fix this issue as soon as possible.

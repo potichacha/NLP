@@ -1,5 +1,0 @@
-We are facing a critical issue with the IAM service integration within our Mercury language application. We have discovered a potential security vulnerability that could allow unauthorized access to sensitive data. 
-
-Specifically, the issue arises when using the `AuthorizeUser` function in Mercury with custom roles defined in the IAM service. We have observed that under certain conditions, users assigned to these custom roles can bypass intended access restrictions.
-
-This is a high-priority issue for us, and we require immediate assistance in resolving it. Please provide guidance on how to mitigate this vulnerability and ensure the security of our application.

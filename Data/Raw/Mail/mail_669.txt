@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I'm having trouble logging in as an administrator on our company's dashboard. I'm using the correct credentials, but I keep getting an error message saying "Access Denied." 
-
-Could you please help me resolve this issue?
-
-Thanks,
-John Doe

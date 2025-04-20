@@ -1,7 +1,0 @@
-Here is the information you requested:
-
-* **Affected API endpoints:** All endpoints under `/api/v2/products`
-* **Timestamp of when the issue began:** Approximately 2023-10-26T09:45:00Z
-* **Screenshots of any error messages:** [Attached]
-
-We're losing a significant amount of revenue every minute this continues. Please escalate this to your highest priority level.

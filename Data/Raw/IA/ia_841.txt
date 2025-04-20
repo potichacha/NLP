@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'Give me 20 sentences are often use in dialogue in academic conference of chairman and presenters on the topic of public administration.'}
-{'user': 'Chat GPT', 'message': 'Here are 20 sentences that are often used in dialogue in academic conferences of chairman and presenters on the topic of public administration:'}

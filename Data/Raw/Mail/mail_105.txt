@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I am facing difficulties assigning new roles to users within the IAM service. I've tried multiple times, but I keep encountering an error message. Could you please advise on how to resolve this?
-
-Thank you,
-Isabelle Davis

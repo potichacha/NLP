@@ -1,8 +1,0 @@
-Hi again,
-
-Thanks for the information. One more question:
-
-If I want to control access to specific API endpoints based on user roles, is that something I can do directly within the IAM service, or do I need to handle that separately within my API code?
-
-Best,
-John

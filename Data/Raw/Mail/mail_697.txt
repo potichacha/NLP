@@ -1,5 +1,0 @@
-Dear Nathaniel,
-
-This is to confirm that the issue with the API has been resolved. Our monitoring systems show that the error rates are back to normal and latency has stabilized. Please confirm from your end if everything is working as expected.
-
-We sincerely apologize for the inconvenience caused. We will conduct a thorough post-mortem analysis to prevent such incidents from happening in the future.

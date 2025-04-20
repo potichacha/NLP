@@ -1,3 +1,0 @@
-Dear John,
-
-We have identified the issue and are applying a fix.  We expect the API to be fully operational within the next 15 minutes. We sincerely apologize for the extended downtime and inconvenience caused.

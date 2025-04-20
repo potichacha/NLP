@@ -1,1 +1,0 @@
-We are experiencing a critical issue with our Aetheros services. Users are being randomly locked out of their accounts, and our API monitoring dashboard is completely blank. This is causing major disruptions to our operations. Please advise ASAP on how to resolve this.

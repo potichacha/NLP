@@ -1,1 +1,0 @@
-Thanks for the quick response. I'll take a look at the API monitoring service for this. It would still be very helpful to have more detailed documentation on Mercury's internal capabilities, though. Are there plans to expand this soon?

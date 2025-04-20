@@ -1,6 +1,0 @@
-Hello Aetheros Support,
-
-I'm encountering a rather perplexing issue while debugging a Mercury language program. The API monitoring logs show successful calls, but the data isn't being reflected in my application. Could you please advise on how to debug this further? I'm using the latest version of the Mercury SDK and my API monitoring dashboard is configured correctly.
-
-Thanks,
-John Doe

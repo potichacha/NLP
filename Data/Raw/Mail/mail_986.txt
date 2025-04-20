@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I'm working on a project where I need to define a large number of roles within the IAM service. Is there a limit on how many roles I can create?  Also, is there any documentation on best practices for managing a large number of roles?
-
-Thanks,
-John Doe

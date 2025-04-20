@@ -1,5 +1,0 @@
-{'user': 'Anonymous', 'message': 'From this list of email addresses return only the ones which are @johnpaulprep.org'}
-{'user': 'Chat GPT', 'message': "I'm sorry, but I cannot return a list of email addresses as I don't have access to any database or email system. However, I can provide you with a general solution to filter email addresses that match a specific domain. If you have a list of email addresses and"}
-{'user': 'Anonymous', 'message': 'From this list of names and email addresses return only the emails which are "@johnpaulprep.org". Family Behrle'}
-{'user': 'Chat GPT', 'message': 'The email addresses which are "@johnpaulprep.org" are:'}
-{'user': 'Anonymous', 'message': 'continue:'}

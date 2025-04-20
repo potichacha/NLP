@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I'm working on a project using Mercury Language, and I'm having a bit of trouble finding the most efficient way to do some complex string manipulations.  Specifically, I need to extract certain data from a long string based on a pattern. 
-
-Could you point me towards any documentation or examples that deal with this kind of string processing in Mercury?  
-
-Thanks,
-Isabella Davis

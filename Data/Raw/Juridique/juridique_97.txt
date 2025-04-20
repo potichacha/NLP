@@ -1,9 +1,0 @@
-Le présent arrêté fixe les prescriptions générales applicables aux installations mettant en œuvre l'hydrogène gazeux à l'intérieur d'une installation classée pour la protection de l'environnement pour alimenter des chariots à hydrogène gazeux, lorsque la quantité d'hydrogène présente au sein de l'établissement relève du régime de la déclaration pour la rubrique n° 4715.L'installation de ravitaillement en hydrogène gazeux de chariots définie dans l'annexe I (1) fonctionne dans le respect des valeurs maximales de débits et de pressions, volume et de puissance fixés dans les alinéas suivants.La pression maximale de fonctionnement de l'installation de d'hydrogène ne dépasse pas une pression équivalente à 700 bar à 15 °C.Le débit maximum, en fonctionnement normal de la borne de ravitaillement est limité à 23 g/s.Les différents équipements de l'installation sont, par conception, prévus pour respecter les valeurs suivantes en situation anormale :
-
-- le débit de fuite total du flexible connecté au réservoir de la semi-remorque de transport est limité à 60 g/s y compris en cas de rupture ;- le débit de fuite au niveau des tuyauteries externes au bâtiment est limité à 130 g/s y compris en cas de rupture ;- le débit de fuite au niveau des tuyauteries internes au bâtiment est limité à 45 g/s y compris en cas de rupture ;- le débit de fuite au niveau du fusible thermique du chariot en cas d'ouverture est limité à 50 g/s.
-
-Ces débits sont déterminés dans les conditions de température et de pression les plus défavorables.Le chariot à hydrogène présente les caractéristiques suivantes :
-
-- la pile lithium-ion est d'une capacité inférieure ou égale à 2 kWh ;- il est équipé d'un réservoir d'hydrogène gazeux respectant les deux conditions suivantes :
-
-1. le produit de la pression d'hydrogène à 85 °C (en bar) par le volume du réservoir (en m3) est inférieur à 33 ;2. la pression maximale de service du réservoir est au minimum de 250 bar.

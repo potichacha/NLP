@@ -1,5 +1,0 @@
-Dear John,
-
-Thank you for contacting Aetheros Support. We understand that your production environment is currently down and are investigating the issue. 
-
-We will provide an update as soon as we have more information.

@@ -1,7 +1,0 @@
-Here's the information you requested:
-
-* **Affected API IDs:** api-00482, api-99137, api-58201
-* **Impacted Cloud Region:** us-west-2
-* **Issue Start Time:** Approximately 11:55 AM PST 
-
-This is causing a major outage for us. Any updates are greatly appreciated.

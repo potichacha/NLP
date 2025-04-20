@@ -1,5 +1,0 @@
-We are experiencing a critical issue with the Aetheros IAM service.  A large number of our users are reporting that they are unable to access the resources they need.  
-
-This is causing significant disruption to our operations.  We need this resolved ASAP.
-
-Please advise on next steps.

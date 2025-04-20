@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I've been noticing some unusual latency spikes with my API over the past few days.  It's not consistent, but it's happening frequently enough to be concerning.
-
-Could you take a look and see if there's anything on the monitoring side that might be causing this?
-
-Thanks,
-John Doe

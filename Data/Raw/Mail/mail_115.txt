@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I'm working on a project using Mercury and I'm a bit stuck on some syntax. I'm trying to figure out how to properly handle asynchronous requests and the documentation isn't entirely clear on this. Could you provide some examples or point me in the right direction?
-
-Thanks,
-John Doe

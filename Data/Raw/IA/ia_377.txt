@@ -1,2 +1,0 @@
-{'user': 'Anonymous', 'message': 'hey'}
-{'user': 'Chat GPT', 'message': 'Hello! How can I assist you today?'}

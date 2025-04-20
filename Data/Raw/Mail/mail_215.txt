@@ -1,1 +1,0 @@
-Our production environment hosted on your cloud platform is completely down. We can't access our main application server. We've tried rebooting but are encountering errors. This is a critical issue impacting our business operations. Please advise ASAP.

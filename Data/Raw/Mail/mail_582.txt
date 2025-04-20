@@ -1,8 +1,0 @@
-Hello Isabella,
-
-Thank you for reaching out to Aetheros Support. We apologize for the missing documentation regarding asynchronous function calls in Mercury language.
-
-We are currently updating our documentation portal. In the meantime, could you please provide a code snippet of what you're trying to achieve? This will help us understand your specific use case and guide you better. 
-
-Best regards,
-The Aetheros Support Team

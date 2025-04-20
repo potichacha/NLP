@@ -1,8 +1,0 @@
-Hi John,
-
-Thanks for reaching out. Yes, if role "editor" inherits from role "viewer", any future permissions added to "viewer" will automatically be inherited by "editor".
-
-Please let us know if you have any other questions.
-
-Best regards,
-Aetheros Support

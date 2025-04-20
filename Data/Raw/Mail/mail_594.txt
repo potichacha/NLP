@@ -1,1 +1,0 @@
-Dear John, We have identified the cause of the issue and have implemented a fix for the user lockout problem. Your users should now be able to log in without any problems. We are still working on the API monitoring dashboard issue and will provide another update as soon as we have more information.

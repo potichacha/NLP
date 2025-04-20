@@ -1,1 +1,0 @@
-Our production environment hosted on your cloud platform is currently down. We are unable to reach our instances and our services are completely unavailable. This is causing significant disruption to our business operations. Please advise ASAP.

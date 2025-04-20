@@ -1,8 +1,0 @@
-Dear John,
-
-We have analyzed the logs you provided. It seems the issue stems from an incompatibility between Mercury runtime version 1.2.0 and the latest API gateway configuration. To resolve this, we recommend upgrading your Mercury runtime to version 1.2.6, which includes a fix for this incompatibility. 
-
-Please let us know if you face any issues with the upgrade or if the problem persists afterward.
-
-Sincerely,
-The Aetheros Support Team

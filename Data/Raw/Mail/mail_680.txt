@@ -1,4 +1,0 @@
-Dear John,
-This issue has been resolved.  The API Monitoring service is now functioning normally. We sincerely apologize for the prolonged downtime and any inconvenience it may have caused.
-Regards,
-Aetheros Support Team

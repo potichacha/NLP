@@ -1,1 +1,0 @@
-{'user': 'Chat GPT', 'message': 'Escreva meu perfil para um site de namoro. Meu nome é Nelson, sou viúvo e advogado. Estou procurando uma namorada que como eu ame a vida, a fotografia, o teatro, o cinema e viajas para lugares desconhecidos.'}

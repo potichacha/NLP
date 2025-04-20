@@ -1,7 +1,0 @@
-We are experiencing critical compiler errors in Mercury Language that are completely halting our project development. We have tried multiple solutions suggested in the documentation, but nothing seems to resolve the issue. We are on a tight deadline and need this resolved ASAP. 
-
-Here are the error codes we're encountering:
-* MLC-0034: Unexpected token '->'
-* MLC-0112: Cannot resolve symbol 'DataStream'
-
-We are using Mercury Language version 1.2.1 and our project is hosted on Aetheros Cloud. Please advise on how to proceed.

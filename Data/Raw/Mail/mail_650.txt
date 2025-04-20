@@ -1,1 +1,0 @@
-Thank you for contacting Aetheros Support. We understand you're experiencing a critical issue.  We've received your request and are currently looking into it. Can you please provide us with your Aetheros account ID and a brief description of any recent changes made to your IAM or Cloud Management configurations?

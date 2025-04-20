@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I've noticed that our cloud costs have been significantly higher than expected over the past few months. We're using your Cloud Management service and were hoping you could provide some insight into what might be driving these costs.
-
-Is there a way to get a more detailed breakdown of our resource usage?  Perhaps some recommendations for optimization?
-
-Thanks,
-John Doe

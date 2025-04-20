@@ -1,9 +1,0 @@
-Aetheros Support,
-
-Account ID: 87654321
-Issue started around: 2023-10-26 08:00 UTC
-Changes: We deployed a new version of our API (v2.3) at 07:45 UTC
-
-Let me know if you require any further information.
-
-John

@@ -1,7 +1,0 @@
-Our team has been experiencing a critical issue with Aetheros API Monitoring for the past few hours. 
-
-We are not seeing any data populated in the dashboard and, more concerningly, alerts configured for critical endpoints are not firing. 
-
-This is causing major disruption to our services as we lack visibility and are flying blind on potential issues. 
-
-Please advise on the situation and steps for immediate resolution ASAP.

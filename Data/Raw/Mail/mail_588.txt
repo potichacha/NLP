@@ -1,6 +1,0 @@
-Hi Support Team,
-
-Thanks for the quick response. I was able to resolve the issue. It turns out there was a permissions problem with the IAM role assigned to my deployment instance. After correcting the role, the deployment completed successfully. 
-
-Thanks for your help!
-John

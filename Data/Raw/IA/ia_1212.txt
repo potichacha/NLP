@@ -1,1 +1,0 @@
-{'user': 'Chat GPT', 'message': 'Ich will alle Chemie Labor Analyse für Pharmaindustrie Krebs Medikamente'}

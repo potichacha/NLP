@@ -1,7 +1,0 @@
-Here is the information you requested:
-
-* **Error Message:** "Mercury Runtime Error (Code: 1248): Unable to initialize connection pool. Invalid credentials provided." 
-* **Mercury Language Version:** 2.1.5 
-* **Recent Changes:** We updated our authentication service to use a new API key for increased security. This new key is being used in the API deployment.
-
-We suspect the issue might be related to the new API key not being properly propagated to the cloud environment. However, we've double-checked our configuration and everything seems to be in order.

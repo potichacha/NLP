@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-We're evaluating your API development and IAM services for our new project. One key requirement we have is to implement custom rate limiting based on specific IAM roles within our organization. 
-
-Essentially, we want different user groups to have varying API call limits. Can your platform accommodate this level of granular control over API access?
-
-Thanks,
-John Doe

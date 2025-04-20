@@ -1,5 +1,0 @@
-We are experiencing a critical issue with our application following an update to our IAM roles. 
-
-Since the update, users are unable to authenticate through our API, resulting in a complete outage of our services. We have verified that the API credentials are correct and that the issue started immediately after the IAM role changes.
-
-We require urgent assistance in resolving this issue as it is impacting our production environment. Please advise on the next steps to troubleshoot and resolve this problem as soon as possible.

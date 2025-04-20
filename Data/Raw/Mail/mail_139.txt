@@ -1,8 +1,0 @@
-Hello John,
-
-Apologies for the delayed response.  We do offer various options for rate limiting within our API development platform. You can find detailed information about the features and implementation in our documentation: [Link to Documentation].
-
-Please let us know if you have any specific questions after reviewing the documentation.  We're happy to assist further.
-
-Sincerely,
-The Aetheros Support Team

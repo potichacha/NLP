@@ -1,4 +1,0 @@
-{'user': 'Anonymous', 'message': 'hi'}
-{'user': 'Chat GPT', 'message': 'Hello! How can I assist you today?'}
-{'user': 'Anonymous', 'message': 'javascript code for recurssion'}
-{'user': 'Chat GPT', 'message': "Certainly! Here is an example of a simple recursive function in JavaScript: This function calculates the factorial of a given number using recursion. It checks if  n  is either 0 or 1, in which case it returns 1 (because the factorial of 0 and 1 is 1). If  n  is not 0 or 1, it multiplies  n  by the factorial of  n - 1  (which is calculated by calling the  factorial  function recursively with the argument  n - 1 ). Here's an example of how you can call the  factorial  function with an argument and log the result to the console: This will calculate the factorial of 5 (which is 5 * 4 * 3 * 2 * 1) and log the result (120) to the console."}

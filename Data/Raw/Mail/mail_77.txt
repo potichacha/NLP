@@ -1,8 +1,0 @@
-Hi,
-
-Thanks for the quick response. I figured out the issue. There was a typo in my function's configuration which was causing the deployment to fail.
-
-I apologize for the inconvenience.
-
-Regards,
-John Doe

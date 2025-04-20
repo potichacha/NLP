@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I'm working on an application that integrates with your API. I'm a bit confused about the rate limits. Could you please clarify what the limits are for our subscription level?
-
-Thanks,
-John Doe

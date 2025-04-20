@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-We are experiencing a critical issue where our API monitoring dashboard is showing our main API as down, but we are able to access it without issue.  We haven't changed any IAM roles or permissions recently. 
-
-This is causing false alarms and confusion. Please advise ASAP on how to resolve this issue.
-
-Regards,
-John Doe

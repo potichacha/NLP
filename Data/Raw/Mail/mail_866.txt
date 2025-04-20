@@ -1,8 +1,0 @@
-Dear John,
-
-This is a confirmation that the issue with the false positive alerts from your API monitoring service has been resolved. Our engineering team has implemented the fix, and our monitoring systems show that the alerts are no longer triggering incorrectly.
-
-We apologize again for any inconvenience this issue caused. Please don't hesitate to contact us if you have any further questions or require additional assistance.
-
-Sincerely,
-Aetheros Support Team

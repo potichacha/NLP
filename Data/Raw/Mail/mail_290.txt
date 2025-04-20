@@ -1,5 +1,0 @@
-Our production API, built using Aetheros API development services, has been experiencing intermittent downtime for the past hour. This is severely impacting our critical business operations. 
-
-We are seeing a large number of 500 errors and significantly increased latency.  We've also noticed unusual spikes in resource usage within our cloud environment managed by Aetheros.
-
-We require immediate assistance to identify and resolve the root cause of this issue. Please advise on the next steps.

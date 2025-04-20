@@ -1,9 +1,0 @@
-Hi Aetheros Support,
-
-My application, 'Foodie Reviews', deployed on your cloud platform, has been experiencing intermittent outages and slowdowns since this morning. We're seeing a huge spike in traffic that we anticipated, but your auto-scaling doesn't seem to be handling it properly.  
-
-Could you please look into this immediately? Our users are heavily impacted. We need this fixed ASAP.
-
-Thanks,
-John Doe
-Foodie Reviews

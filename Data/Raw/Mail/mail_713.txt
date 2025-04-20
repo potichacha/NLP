@@ -1,6 +1,0 @@
-Hi Aetheros Support,
-
-I'm having trouble finding clear documentation on how to implement custom error handling in Mercury. Specifically, I want to define my own error types and have them integrate with the API monitoring. Can you point me in the right direction?
-
-Thanks,
-John Doe

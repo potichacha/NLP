@@ -1,8 +1,0 @@
-Hi Support Team,
-
-Please find attached the error logs, configuration files, and a document outlining the troubleshooting steps we have taken. 
-
-We are available for a call if needed to discuss this further.
-
-Thanks,
-John

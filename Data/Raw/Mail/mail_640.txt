@@ -1,1 +1,0 @@
-Our production API, built using Aetheros API development services and hosted on your cloud platform, has been down for the past hour. This is causing a complete service outage for our customers. We need this resolved immediately.  Please advise on the current status and estimated time to resolution.

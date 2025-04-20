@@ -1,6 +1,0 @@
-Hi,
-
-Thanks for the quick response. I've had a look at the Mercury documentation, but I'm still a bit unclear on how to set rate limits dynamically based on the user's role. Is this possible?
-
-Thanks,
-Miguel

@@ -1,7 +1,0 @@
-We've been experiencing a significant increase in false positives from our API monitoring setup over the past few hours. 
-
-Specifically, we're seeing alerts for endpoint /v2/users that are reporting 500 errors, but upon investigation, the endpoint is functioning correctly and logs don't show any errors. 
-
-This is causing significant disruption to our operations team as they're constantly investigating these false alarms. 
-
-We need this resolved urgently. Please advise on next steps.

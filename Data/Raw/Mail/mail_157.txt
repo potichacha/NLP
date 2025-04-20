@@ -1,8 +1,0 @@
-Hi John,
-
-We have identified the issue. There was a temporary outage in our service that was causing the 502 error. The issue has now been resolved. Please try deploying your code again, and it should work as expected. 
-
-We apologize for any inconvenience this may have caused.
-
-Best regards,
-The Aetheros Support Team

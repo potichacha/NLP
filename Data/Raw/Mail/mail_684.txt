@@ -1,9 +1,0 @@
-We are experiencing a critical issue with our production system that utilizes the Mercury language. We are encountering a compiler error that is preventing our application from starting. This is a high-priority issue as it is causing a complete outage of our services. We need immediate assistance to resolve this.
-
-Error details:
-
-* Mercury Compiler version: 1.2.3
-* Error code: MC-0014
-* Error message: 'Unexpected token: <...>' 
-
-Please advise on how to proceed as soon as possible.

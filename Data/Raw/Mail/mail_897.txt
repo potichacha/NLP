@@ -1,8 +1,0 @@
-Dear John,
-
-We have identified the issue and implemented a fix. Your users should now be able to access their resources. We apologize for the inconvenience this may have caused. 
-
-Please let us know if you are still facing any issues.
-
-Sincerely,
-Aetheros Support Team

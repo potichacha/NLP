@@ -1,3 +1,0 @@
-We are experiencing a critical issue with the Aetheros IAM service.  Users are randomly losing their assigned roles, causing major disruptions to our workflows.  This is happening across different departments and seems to occur at random times.
-
-We need this addressed immediately. Please advise on any potential causes and solutions.

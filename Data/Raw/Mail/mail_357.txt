@@ -1,5 +1,0 @@
-Our production API developed by Aetheros is experiencing severe response timeouts and is effectively down.  We are seeing a huge spike in 504 errors.  This is a critical issue impacting our customers. Please advise ASAP.
-
---
-John Doe
-Lead Software Engineer

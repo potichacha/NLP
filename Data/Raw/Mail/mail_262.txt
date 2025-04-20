@@ -1,5 +1,0 @@
-We are experiencing a critical issue with our IAM role permissions in our production environment. The permissions we have configured for a specific role are not being applied correctly, causing disruptions to our application. 
-
-We have verified the role configuration multiple times and it appears to be correct. We have also checked for any conflicting policies, but couldn't find any. This issue started occurring approximately 2 hours ago and we need this resolved ASAP as it is impacting our customers.
-
-Can you please help us investigate and resolve this issue urgently?

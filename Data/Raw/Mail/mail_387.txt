@@ -1,6 +1,0 @@
-Attached are the deployment logs and the requested information.
-
-Account ID: 8472910
-Environment: Production-Phoenix-US-East
-
-We haven't been able to find any resource conflicts on our end.  Please advise if you need anything else from our side.

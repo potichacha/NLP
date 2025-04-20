@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-We've been experiencing some performance issues related to scaling our cloud resources during peak hours. We're using your Cloud Management service and believe there might be room for optimization in our instance configurations.
-
-Could you please advise on best practices for optimizing our instances to handle peak load more efficiently? 
-
-Thanks,
-John Doe

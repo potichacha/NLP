@@ -1,5 +1,0 @@
-Our production system is currently down. We are unable to access our cloud instances managed through Aetheros. 
-
-We are seeing error messages indicating a potential network outage. This is a critical issue as it is impacting our live services and causing significant disruption to our operations.
-
-Please advise on the status and estimated time for resolution.

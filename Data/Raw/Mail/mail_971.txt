@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-I'm having trouble setting specific role permissions within the Mercury language for a new API I'm developing. I've defined roles in the IAM service, but I can't seem to link them effectively within the Mercury code. 
-
-Is there specific syntax I'm missing, or is there a discrepancy between the IAM service and Mercury language integration?
-
-Thanks,
-John Doe

@@ -1,7 +1,0 @@
-Thank you for contacting Aetheros Support. We understand you are experiencing issues with your API. Can you please provide us with the following information so we can assist you further:
-
-* API endpoint experiencing the issue
-* Timestamps of the errors
-* Any error messages you are seeing
-
-We will investigate this issue with high priority.

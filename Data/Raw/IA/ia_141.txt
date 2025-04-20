@@ -1,4 +1,0 @@
-{'user': 'Anonymous', 'message': 'Write a trip plan for veinna for 3 days'}
-{'user': 'Chat GPT', 'message': 'Day 1: Day 2: Day 3:'}
-{'user': 'Anonymous', 'message': 'Write a trip plan for Prague for 2 days'}
-{'user': 'Chat GPT', 'message': 'Day 1: Day 2:'}

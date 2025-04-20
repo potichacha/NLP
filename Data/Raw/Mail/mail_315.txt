@@ -1,5 +1,0 @@
-Dear John,
-
-Thank you for contacting Aetheros Support. We understand the urgency of the situation and are prioritizing your case. Our engineers are actively investigating the issue with your cloud instance (i-0a1b2c3d4e5f6g7h8). 
-
-We will keep you updated on the progress and provide further instructions as soon as possible. In the meantime, please provide us with any recent changes or deployments made to the affected environment, which might be helpful in our diagnosis.

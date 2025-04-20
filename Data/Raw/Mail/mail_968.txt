@@ -1,6 +1,0 @@
-Hi John,
-
-We haven't been able to replicate the issue on our end.  Can you please provide more details about your setup and the specific timeframe when you experienced the latency?
-
-Best Regards,
-Aetheros Support Team

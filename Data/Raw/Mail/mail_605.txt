@@ -1,8 +1,0 @@
-Hi Aetheros Support,
-
-We're experiencing problems with assigning specific permissions to a custom role in the IAM service. The role is preventing our developers from accessing the resources they need. We've reviewed the documentation and haven't found a solution. 
-
-Could you provide some assistance?
-
-Thanks,
-John Doe

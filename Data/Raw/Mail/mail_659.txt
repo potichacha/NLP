@@ -1,8 +1,0 @@
-Dear John,
-
-We have identified the issue. It was a bug in our monitoring system. This has now been resolved. We sincerely apologize for the inconvenience.
-
-Let us know if you face any further issues.
-
-Best regards,
-Aetheros Support Team

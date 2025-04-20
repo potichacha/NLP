@@ -1,7 +1,0 @@
-Our production server managed through Aetheros Cloud Management is currently experiencing downtime. This is a critical issue impacting our operations. We need immediate assistance to resolve this. Please advise on the situation and estimated time to resolution.
-
-Server ID: srv-4829xyz
-
-Regards,
-John Doe
-Example Corp

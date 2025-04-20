@@ -1,6 +1,0 @@
-Hi Support Team,
-
-Please find attached a screenshot of the error. I have tried logging out and back in, as well as clearing my browser cache, but the issue persists. I am trying to assign the 'Data Analyst' role to three new users in our team.
-
-Thanks,
-Isabelle
