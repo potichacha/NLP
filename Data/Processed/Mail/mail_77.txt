@@ -1,0 +1,1 @@
+ Salut, merci pour la reponse rapide.J'ai compris le probleme.Il y avait une faute de frappe dans la configuration de ma fonction qui faisait echouer le deploiement.Je m'excuse pour l'inconvenient.Cordialement, John Doe

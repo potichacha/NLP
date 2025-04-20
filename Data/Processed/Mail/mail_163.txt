@@ -1,0 +1,1 @@
+ Notre ID de compte est 85742-91 et les points de terminaison affectes incluent API.example.com/v1/users, api.example.com/v1/products et api.example.com/v2/orders.Nous avons besoin d'une solution des que possible car cela a un impact sur nos operations commerciales.

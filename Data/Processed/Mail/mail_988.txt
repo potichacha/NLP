@@ -1,0 +1,1 @@
+ Merci pour la reponse rapide et le lien vers la documentation.C'est utile!Une autre question - avez-vous des recommandations pour gerer les ressources cloud sur plusieurs comptes en utilisant le service IAM

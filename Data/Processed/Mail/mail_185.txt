@@ -1,0 +1,1 @@
+ Salut Aetheros Support, nous avons connu des problemes de mise a l'echelle intermittents avec nos ressources cloud gerees par Aetheros.Plus precisement, notre application a du mal a gerer efficacement les pointes de circulation, entrainant des ralentissements et meme des pannes.Pourriez-vous s'il vous plait conseiller sur la facon de resoudre ce probleme le mieux, John Doe

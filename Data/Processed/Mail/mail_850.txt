@@ -1,0 +1,1 @@
+ Notre tableau de bord de surveillance de l'API montre que tous les services sont en baisse et nous obtenons des rapports selon lesquels les utilisateurs ne sont pas en mesure de se connecter.Cela semble etre lie a la fois a notre service API et IAM.Il s'agit d'un probleme critique affectant l'integralite de notre plate-forme.Veuillez conseiller des que possible.

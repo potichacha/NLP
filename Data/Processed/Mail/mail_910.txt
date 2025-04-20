@@ -1,0 +1,1 @@
+ Salut John, Merci pour l'information.Nous avons etudie cela plus avant et trouve une solution.Vous pouvez trouver des instructions detaillees sur l'integration de notre service IAM avec les politiques Bucket AWS S3 dans notre documentation: [Lien vers la documentation].Veuillez nous faire savoir si vous avez d'autres questions.Meilleures salutations, Aetheros Support

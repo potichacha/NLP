@@ -1,0 +1,1 @@
+ Salut Aetheros Support, nous avons rencontre des difficultes a l'echelle efficace de nos ressources cloud via votre plateforme.Notre application eprouve des pointes de trafic periodiques, et nous ne voyons pas la mise a l'echelle automatique que nous l'avions prevue.Pourriez-vous s'il vous plait conseiller sur la facon dont nous pouvons depanner cela merci, John Doe

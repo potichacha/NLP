@@ -1,0 +1,1 @@
+ Salut Aetheros Support, je travaille a la mise en place d'un controle d'acces plus granulaire pour notre equipe de developpement en utilisant votre service IAM.Nous aimerions restreindre certains points de terminaison de l'API en fonction des roles utilisateur.Est-ce quelque chose de possible avec Aetheros Iam merci, Isiah Okon

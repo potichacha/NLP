@@ -1,0 +1,1 @@
+ Nous rencontrons des problemes critiques avec les performances de l'API.Nos tableaux de bord de surveillance montrent des pics de latence massifs et nos services echouent par intermittence.Cela entraine une perturbation majeure de nos operations.Nous avons besoin d'une assistance immediate pour identifier la cause profonde et resoudre ce probleme le plus rapidement possible.

@@ -1,0 +1,1 @@
+ Les journaux de deploiement sont joints et les informations demandees.ID de compte: 8472910 Environnement: Production-Phoenix-US-East Nous n'avons pas pu trouver de conflits de ressources de notre cote.Veuillez vous conseiller si vous avez besoin de quelque chose d'autre de notre cote.

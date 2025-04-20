@@ -1,0 +1,1 @@
+ Oui, le probleme semble etre resolu.Cependant, nous sommes preoccupes par le temps d'arret que cela a cause.Nous avons besoin de plus d'informations sur ce qui a conduit a cette erreur de configuration et comment nous pouvons l'empecher de se reproduire.

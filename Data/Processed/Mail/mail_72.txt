@@ -1,0 +1,1 @@
+ Salut Aetheros Support, je suis confronte a un probleme urgent avec des cles d'API rotatives en utilisant le service IAM.J'ai suivi la documentation fournie, mais la nouvelle cle ne semble pas etre reconnue.Cela entraine une perturbation de notre application en direct.Pouvez-vous s'il vous plait conseiller sur la facon de resoudre cela rapidement merci, John Doe

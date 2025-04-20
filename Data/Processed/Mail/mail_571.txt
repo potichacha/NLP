@@ -1,0 +1,1 @@
+ Notre tableau de bord de surveillance de l'API est en baisse depuis l'heure.Nous sommes completement aveugles a ce qui se passe dans notre environnement de production.Il s'agit d'un probleme essentiel qui a un impact sur nos operations commerciales.Veuillez fournir un ETA pour la resolution des que possible.

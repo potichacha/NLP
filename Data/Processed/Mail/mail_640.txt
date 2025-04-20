@@ -1,0 +1,1 @@
+ Notre API de production, construite a l'aide des services de developpement AEATHOS API et hebergee sur votre plate-forme cloud, a ete en baisse depuis l'heure.Cela provoque une panne de service complete pour nos clients.Nous avons besoin de cela resolu immediatement.Veuillez conseiller sur l'etat actuel et le delai estime a la resolution.

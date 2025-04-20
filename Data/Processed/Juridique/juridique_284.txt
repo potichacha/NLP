@@ -1,0 +1,1 @@
+ La densite de construction est definie par le rapport entre la surface de plancher de cette construction et la surface de terrain sur laquelle elle est ou doit etre implantee. La superficie des terrains cedes gratuitement en application de l'article R. 332-16 est prise en compte pour la definition de la densite de construction.

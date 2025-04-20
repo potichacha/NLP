@@ -1,0 +1,1 @@
+ Nous avons identifie le probleme.Il y avait un bogue temporaire dans notre systeme de surveillance qui a provoque un faux statut de <<baisse>> pour certaines API.Cela a ete resolu et votre tableau de bord de surveillance devrait desormais refleter l'etat correct.Nous nous excusons sincerement pour les inconvenients et l'alarme que cela a causes.

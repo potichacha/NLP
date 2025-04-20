@@ -1,0 +1,1 @@
+ Salut Aetheros Support, je travaille sur un projet en utilisant Mercury et je suis un peu coince sur une syntaxe.J'essaie de comprendre comment gerer correctement les demandes asynchrones et la documentation n'est pas entierement claire a ce sujet.Pourriez-vous fournir quelques exemples ou me pointer dans la bonne direction merci, John Doe

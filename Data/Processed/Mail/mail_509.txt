@@ -1,0 +1,1 @@
+ Salut Aetheros Support, je travaille sur une application qui utilise vos services de developpement API.Je suis un peu confus par les limites de taux.Pouvez-vous s'il vous plait clarifier la limite de taux par defaut pour les appels d'API merci, John Doe

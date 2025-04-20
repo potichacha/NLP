@@ -1,0 +1,1 @@
+ Salut l'equipe d'assistance, merci pour la reponse rapide.J'ai pu resoudre le probleme.Il s'avere qu'il y avait un probleme d'autorisation avec le role IAM attribue a mon instance de deploiement.Apres avoir corrige le role, le deploiement s'est termine avec succes.Merci pour votre aide!John

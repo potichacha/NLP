@@ -1,0 +1,1 @@
+ Salut John, notre equipe a enquete sur le probleme et a identifie un goulot d'etranglement dans notre systeme qui provoquait les temps de reponse lents.Nous avons aborde le probleme et les performances de l'API devraient etre de retour a la normale.Veuillez nous faire savoir si vous continuez a rencontrer des problemes.Merci, l'equipe de soutien Aetheros

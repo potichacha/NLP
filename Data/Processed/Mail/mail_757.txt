@@ -1,0 +1,1 @@
+ Cher John, merci d'avoir contacte le soutien d'Aetheros.Nous comprenons que vous etes confronte a des defis integrant le langage de mercure a votre infrastructure cloud.Pour mieux vous aider, pourriez-vous s'il vous plait fournir plus de details sur les problemes specifiques que vous rencontrez avec les pipelines de deploiement Cordialement, l'equipe d'assistance Aetheros

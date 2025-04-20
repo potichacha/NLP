@@ -1,0 +1,1 @@
+ Bonjour, j'ai du mal a attribuer un role specifique a un utilisateur dans le service IAM.J'ai suivi la documentation, mais le role ne semble pas s'appliquer correctement.L'utilisateur n'est pas en mesure d'acceder a certaines ressources auxquelles il devrait avoir acces.Pourriez-vous s'il vous plait m'aider a resoudre ce probleme merci, Kenneth

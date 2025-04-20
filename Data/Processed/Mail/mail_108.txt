@@ -1,0 +1,1 @@
+ Salut Aetheros Prise en charge, j'ai du mal a mettre en place des roles utilisateur specifiques dans le service IAM.Je veux donner a certains membres de l'equipe un acces en lecture seule a une API specifique, mais je n'arrive pas a trouver la bonne combinaison d'autorisations pour y arriver.Pourriez-vous s'il vous plait conseiller sur la facon de realiser cela merci, John Doe

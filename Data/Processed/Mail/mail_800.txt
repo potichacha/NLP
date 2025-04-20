@@ -1,0 +1,1 @@
+ Notre API de production, geree sur votre plate-forme de gestion du cloud, est actuellement en baisse.Nous pensons que cela est lie au deploiement recent que nous avons effectue via votre systeme.Nous connaissons une panne complete et cela a un impact sur nos operations commerciales.Veuillez vous conseiller des que possible sur la facon de resoudre ce probleme.

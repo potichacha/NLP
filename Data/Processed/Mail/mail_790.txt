@@ -1,0 +1,1 @@
+ Nom de l'environnement: Prod-US-East-1 Temps de debut du numero: environ 2023-10-26 03:00 Modifications recentes UTC: Pas de deploiements ou de modifications de configuration au cours des dernieres 24 heures.C'est une panne critique pour nous.Veuillez conseiller sur le delai estime a la resolution.

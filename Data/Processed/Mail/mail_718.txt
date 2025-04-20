@@ -1,0 +1,1 @@
+ Notre tableau de bord de surveillance de l'API affiche l'ensemble de notre systeme, et nous ne pouvons pas acceder a nos instances de cloud.Il s'agit d'une panne majeure pour nous, ce qui a un impact sur tous nos clients.Nous avons besoin de cette ASAP fixe!S'il vous plait aviser.

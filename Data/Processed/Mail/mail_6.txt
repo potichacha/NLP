@@ -1,0 +1,1 @@
+ Le probleme avec les autorisations des utilisateurs a ete resolu.Nous avons deploye un correctif qui traite de l'incoherence dans les affectations de roles.Veuillez confirmer si vous rencontrez toujours des problemes.Nous nous excusons pour les inconvenients causes.

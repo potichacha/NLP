@@ -1,0 +1,1 @@
+ Salut Aetheros Support Team, je travaille sur un projet en utilisant Mercury, et j'ai du mal a comprendre comment fonctionne la fonctionnalite asynchrone, en particulier avec des demandes simultanees.Pourriez-vous fournir des documents ou des exemples sur la meilleure facon d'utiliser Async in Mercury pour les operations simultanees merci, John Doe

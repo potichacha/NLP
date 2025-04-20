@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai un peu de mal a comprendre comment la mise a l'echelle automatique fonctionne avec votre service de gestion de cloud.Plus precisement, les mesures sont utilisees pour declencher une mise a l'echelle est qu'il est possible d'ajuster la sensibilite des declencheurs de mise a l'echelle merci, John Doe

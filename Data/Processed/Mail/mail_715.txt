@@ -1,0 +1,1 @@
+ Salut, je ne sais pas comment l'environnement cloud est pertinent pour ma question sur les types d'erreur personnalises dans Mercure lui-meme.Je recherche simplement une documentation ou des exemples dans la langue Mercure elle-meme, quel que soit l'environnement de deploiement.Pouvez-vous s'il vous plait conseiller les salutations, John

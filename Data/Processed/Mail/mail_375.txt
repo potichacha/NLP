@@ -1,0 +1,1 @@
+ Notre equipe rencontre un probleme critique avec la surveillance de l'API.Nous ne voyons aucune donnee remplir dans le tableau de bord depuis environ 8h00 UTC.Cela a un impact sur notre capacite a surveiller nos performances d'API en direct.Nous avons besoin de cette resolution urgente.Veuillez vous conseiller sur la situation et l'heure estimee a la resolution.

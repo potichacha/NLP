@@ -1,0 +1,1 @@
+ Support Aetheros, nous avons egalement remarque des incoherences dans nos donnees de surveillance de l'API.Les tableaux de bord montrent des informations retardees et inexactes, ce qui rend difficile de surveiller efficacement nos performances de l'API.Pourriez-vous egalement examiner ce probleme merci, John Doe

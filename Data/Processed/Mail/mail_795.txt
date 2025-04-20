@@ -1,0 +1,1 @@
+ Merci pour l'information.Une autre question - nous envisageons egalement votre service de gestion du cloud.Dans quelle mesure le service IAM s'integre-t-il a celui de la gestion des autorisations dans notre infrastructure cloud

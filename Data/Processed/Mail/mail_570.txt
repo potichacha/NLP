@@ -1,0 +1,1 @@
+ Merci d'avoir contacte le support Aetheros.Nous comprenons que vous rencontrez des problemes avec votre API.Pouvez-vous nous fournir plus de details sur l'erreur que vous rencontrez egalement, veuillez partager le point de terminaison de l'API auquel vous essayez d'acceder.

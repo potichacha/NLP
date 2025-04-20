@@ -1,0 +1,1 @@
+ Salut Aetheros Support, je travaille sur un projet ou je dois definir un grand nombre de roles dans le service IAM.Y a-t-il une limite au nombre de roles que je peux egalement creer, y a-t-il une documentation sur les meilleures pratiques pour gerer un grand nombre de roles merci, John Doe

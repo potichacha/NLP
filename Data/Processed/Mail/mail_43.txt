@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a comprendre comment gerer au mieux les conversions de type de donnees dans Mercure.Plus precisement, j'essaie de convertir une representation de chaine d'une date et d'une heure en un format que je peux utiliser pour les calculs.Pourriez-vous me pointer vers toute documentation ou exemples pertinents merci, John Doe

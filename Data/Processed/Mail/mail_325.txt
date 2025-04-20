@@ -1,0 +1,1 @@
+ Salut, voici les informations que vous avez demandees: - API Point de terminaison: https://api.example.com/v1/users - iam Role Arn: Arn: AWS: IAM :: 123456789012: Role / MyApprole - TimeStamps: Le probleme a commence vers 2023-10-26T10: 00: 00z et est sur le plan.Cela a un impact sur notre environnement de production.Veuillez prioriser ce probleme.Cordialement, John

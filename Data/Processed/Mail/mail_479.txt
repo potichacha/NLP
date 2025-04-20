@@ -1,0 +1,1 @@
+ Salut Aetheros Support, nous avons connu des temps de reponse beaucoup plus lents de l'API que vous avez developpe pour nous au cours des derniers jours.Cela provoque des ralentissements majeurs dans notre application et un impact sur nos utilisateurs.Pourriez-vous s'il vous plait enqueter de maniere urgente et fournir une mise a jour des que possible merci, John Doe

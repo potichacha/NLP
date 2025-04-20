@@ -1,0 +1,1 @@
+ Salut, merci pour la reponse rapide.Le point de terminaison qui connait le probleme est: `/ api / v2 / processorder` J'ai joint les journaux d'API pertinents.Nous n'avons apporte aucune modification recente a notre code, mais nous avons mis a jour notre configuration AWS Load Balancer hier.Faites-moi savoir si vous avez besoin de plus d'informations.Merci, John

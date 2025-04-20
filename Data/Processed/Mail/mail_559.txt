@@ -1,0 +1,1 @@
+ Salut John, le probleme avec les deploiements de fonction a ete resolu.Vous devriez maintenant pouvoir deployer votre fonction sans aucun probleme.Veuillez nous faire savoir si vous rencontrez d'autres difficultes.Meilleures salutations, equipe de soutien a Aetheros

@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a comprendre les autorisations de role pour la plate-forme de surveillance de l'API.Plus precisement, j'essaie de creer un role qui peut afficher les tableaux de bord mais ne pas les modifier.Est-ce possible avec la configuration actuelle merci, John Doe

@@ -1,0 +1,1 @@
+ Bonjour Aetheros Support, nous sommes confrontes a un probleme critique deploiement de notre application Mercury sur la plate-forme cloud Aetheros.Nous avons suivi la documentation fournie, mais nous avons rencontre une erreur au cours de la derniere etape.Pourriez-vous s'il vous plait fournir une assistance pour resoudre ce probleme les meilleures salutations, Isiah Wuckert

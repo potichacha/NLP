@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a comprendre les limites des roles personnalises dans le service IAM.Plus precisement, je souhaite creer un role qui peut gerer les ressources cloud mais uniquement dans une region specifique.Est-ce possible avec l'ensemble de fonctionnalites actuel merci, John Doe

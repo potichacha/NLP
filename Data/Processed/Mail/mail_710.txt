@@ -1,0 +1,1 @@
+ Nous rencontrons un probleme critique avec le service Aetheros IAM.Nos utilisateurs rapportent qu'ils ne sont pas en mesure d'acceder aux ressources, meme s'ils ont les autorisations correctes qui leur sont attribuees.Cela entraine des perturbations majeures a nos operations.Nous avons besoin de cette resolution urgente.Veuillez conseiller sur les prochaines etapes.

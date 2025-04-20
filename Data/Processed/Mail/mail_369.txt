@@ -1,0 +1,1 @@
+ Cher Isabella, c'est pour confirmer que le probleme avec votre point de terminaison API (`/ api / v2 / produits`) a ete resolu.Nous avons corrige les parametres de l'equilibreur de charge et les erreurs 502 ne devraient plus se produire.N'hesitez pas a nous contacter si vous rencontrez d'autres problemes.Meilleures salutations, l'equipe de soutien Aetheros

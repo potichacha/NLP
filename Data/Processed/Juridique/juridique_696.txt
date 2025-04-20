@@ -1,0 +1,1 @@
+ L'agent du greffe penitentiaire habilite enregistre sans delai dans le fichier la date de mise sous ecrou et de liberation, l'adresse du domicile declare par la personne liberee, si elle est differente du dernier domicile enregistre et la date de la notification a laquelle il a ete procede.

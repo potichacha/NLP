@@ -1,0 +1,1 @@
+ Salut Aetheros Support, je travaille sur une application qui s'integre a votre API.Je suis un peu confus par les limites de taux.Pourriez-vous s'il vous plait clarifier quelles sont les limites pour notre niveau d'abonnement merci, John Doe

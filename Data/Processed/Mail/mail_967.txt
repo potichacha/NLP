@@ -1,0 +1,1 @@
+ Salut Aetheros Support, je vois une etrange pointe de latence pour que l'une de mes API soit surveillee par votre plateforme.Il a commence vers 9h30 HNE aujourd'hui.Rien n'a change de mon cote, donc je me demande s'il pourrait y avoir un probleme de plate-forme Nom de l'API: ProductCatalogapi merci, John Doe

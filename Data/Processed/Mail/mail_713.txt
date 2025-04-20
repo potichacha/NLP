@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a trouver une documentation claire sur la facon d'implementer la gestion des erreurs personnalisees dans Mercury.Plus precisement, je souhaite definir mes propres types d'erreur et les faire integrer a la surveillance de l'API.Pouvez-vous me pointer dans la bonne direction merci, John Doe

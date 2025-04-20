@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a deployer une fonction ecrite dans le langage Mercury.Il semble etre coince dans l'etat du <<deploiement>>, et je ne vois aucun message d'erreur dans les journaux.Pouvez-vous m'aider a depanner cette fonction Nom: Processorder Environment: Production Merci, John Doe

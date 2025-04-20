@@ -1,0 +1,1 @@
+ Voici les informations que vous avez demandees: * Roles IAM affectes: [Liste des roles affectes] * Mercury Script Snippet: `` `Mercury [Code Snippet montrant la mise a jour du role]` `` * Le probleme a commence a se produire autour de ce probleme et qu'il a un impact considerable sur nos operations commerciales.Veuillez conseiller des que possible.

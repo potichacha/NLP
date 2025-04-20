@@ -1,0 +1,1 @@
+ Merci d'avoir contacte le support Aetheros.Nous comprenons l'urgence de la situation.Pouvez-vous s'il vous plait fournir plus de details sur le probleme, notamment: * les autorisations specifiques affectees * Le nombre approximatif d'utilisateurs a touche * le moment ou ce probleme a commence a se produire * Toutes les modifications recentes apportees a votre configuration IAM

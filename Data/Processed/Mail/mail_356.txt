@@ -1,0 +1,1 @@
+ Salut, merci pour la reponse.J'ai verifie la documentation, mais elle n'aborde pas specifiquement les problemes de serialisation auxquels je suis confronte avec Python.Y a-t-il des exemples de code ou des guides plus detailles disponibles.Cordialement, John

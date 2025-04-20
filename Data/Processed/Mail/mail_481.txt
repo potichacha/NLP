@@ -1,0 +1,1 @@
+ Salut, voici les informations que vous avez demandees: * API Endpoints: / utilisateurs, / produits, / commandes * Demarrage approximatif: 24 octobre, vers midi * Aucune modification recente de notre application qui aurait pu avoir un impact sur l'API, faites-moi savoir si vous avez besoin de autre chose.John

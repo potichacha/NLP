@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a comprendre comment l'heritage des roles fonctionne avec votre service IAM.Plus precisement, si j'ai un role appele "editeur" qui herite des autorisations d'un role appele "telespectateur", le role "editeur" heritera egalement de toute permission future qui est affectee au role "telespectateur" merci, John Doe

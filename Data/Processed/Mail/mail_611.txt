@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai un peu de mal a comprendre comment attribuer des autorisations specifiques a un role personnalise que j'ai cree dans le service IAM.Je veux donner a une equipe un acces en lecture seule a certaines ressources cloud.Pourriez-vous s'il vous plait fournir des conseils sur la facon de realiser cela merci, John Doe

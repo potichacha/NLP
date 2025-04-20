@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a deployer une fonction Mercury Lambda dans mon environnement cloud gere.Le deploiement semble etre suspendu, puis final.J'ai verifie mes limites de ressources et tout semble etre en ordre.Pouvez-vous s'il vous plait conseiller merci, John Doe

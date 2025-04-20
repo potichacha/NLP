@@ -1,0 +1,1 @@
+ Salut Aetheros Support, nous avons connu des pointes de latence intermittentes avec nos API surveillees par votre plateforme depuis quelques heures.Cela cause des problemes de performances significatifs pour nos utilisateurs.Nous avons besoin de ce resolu des que possible.Veuillez conseiller sur la situation et le temps de resolution estime.Merci, John Doe

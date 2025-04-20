@@ -1,0 +1,1 @@
+ Notre environnement de production est actuellement en baisse.Nous connaissons une panne majeure et pensons qu'elle est liee au service de gestion du cloud.Nous avons essaye de redemarrer les instances affectees, mais le probleme persiste.Cela entraine une perturbation importante de nos operations commerciales.Veuillez conseiller ASAP sur les prochaines etapes de la resolution.

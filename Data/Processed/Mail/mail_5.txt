@@ -1,0 +1,1 @@
+ Nous avons identifie le probleme et nos ingenieurs travaillent sur un correctif.Nous avons trouve une incoherence dans la facon dont les affectations de role etaient appliquees apres les recentes mises a jour du service IAM.Nous vous tiendrons au courant des progres et offrons un delai estime a la resolution sous peu.

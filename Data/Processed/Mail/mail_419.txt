@@ -1,0 +1,1 @@
+ Salut, voici les informations que vous avez demandees: * ID de compte: AET12345 * Environnement: US-East-1, T3.Medium Instances * Extraits de journal: [Fichier journal joint] Faites-moi savoir si vous avez besoin d'autre chose.Cordialement, John

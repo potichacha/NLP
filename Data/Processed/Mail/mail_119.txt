@@ -1,0 +1,1 @@
+ Salut, voici les informations que vous avez demandees: 1.Message d'erreur: <<Le deploiement a echoue.Type d'instance incompatible avec les exigences de l'application. 2Mercury Language Version: 1.2.5 3.Aetheros Cloud Region: US-East-1 merci, John

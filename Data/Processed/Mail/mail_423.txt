@@ -1,0 +1,1 @@
+ Salut, voir des captures d'ecran et des details ci-dessous: * [Captures d'ecran jointes] * Roles: analyste de donnees, visionneuse de rapports * Utilisateurs: jane.doe@example.com, mike.smith@example.com Ce probleme entraine des retards importants.Veuillez conseiller sur une resolution des que possible.Cordialement, John

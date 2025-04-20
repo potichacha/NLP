@@ -1,0 +1,1 @@
+ Salut Aetheros Support, nous rencontrons des problemes en attribuant des autorisations specifiques a un role personnalise dans le service IAM.Le role est d'empecher nos developpeurs d'acceder aux ressources dont ils ont besoin.Nous avons examine la documentation et n'avons trouve aucune solution.Pourriez-vous fournir une assistance merci, John Doe

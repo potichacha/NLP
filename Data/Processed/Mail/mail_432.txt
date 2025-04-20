@@ -1,0 +1,1 @@
+ Salut, veuillez trouver les informations que vous avez demandees ci-jointes.Nous avons egalement remarque un comportement incoherent dans les journaux de surveillance de l'API lies aux tentatives d'autorisation.Il semble que certaines demandes ne soient pas du tout enregistrees.Cela pourrait-il etre lie merci, John

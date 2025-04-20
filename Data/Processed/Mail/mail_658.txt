@@ -1,0 +1,1 @@
+ Notre API (geree via Aetheros) s'affiche comme sur le tableau de bord de surveillance.Cependant, nous confirmons qu'il repond toujours aux demandes.Cet ecart provoque des sonnettes d'alarme importantes et nous en avons besoin immediatement.Veuillez conseiller des que possible.

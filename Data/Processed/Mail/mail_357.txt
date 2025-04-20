@@ -1,0 +1,1 @@
+ Notre API de production developpee par Aetheros connait des delais de reponse severes et est effectivement en baisse.Nous voyons un enorme pic dans 504 erreurs.Il s'agit d'un probleme essentiel qui a un impact sur nos clients.Veuillez conseiller des que possible.- Ingenieur logiciel John Doe

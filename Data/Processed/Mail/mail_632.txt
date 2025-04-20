@@ -1,0 +1,1 @@
+ Salut encore, merci pour l'information.Une autre question: si je veux controler l'acces a des points de terminaison API specifiques bases sur des roles utilisateur, c'est que je peux faire directement dans le service IAM, ou ai-je besoin de gerer cela separement dans mon code API au mieux, John

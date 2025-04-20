@@ -1,0 +1,1 @@
+ HI Prise en charge, voici les informations que vous avez demandees: * Message d'erreur: "Le deploiement a echoue.Veuillez reessayer plus tard. "* Version Mercury: 1.2.5 * ID de compte: 87654321 Ce probleme m'empeche de respecter une date limite critique.Toute aide serait grandement appreciee.Meilleures salutations, John

@@ -1,0 +1,1 @@
+ Cher John, nous avons identifie le probleme avec le groupe de securite et l'avons rectifie.Le port 3306 devrait desormais etre accessible.Pourriez-vous s'il vous plait verifier et confirmer que nous enquetons toujours sur le probleme IAM et que nous vous mettrons a jour des que nous avons plus d'informations.Cordialement, Aetheros Support Team

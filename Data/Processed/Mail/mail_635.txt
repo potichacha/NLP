@@ -1,0 +1,1 @@
+ Salut John, merci d'avoir tendu la main.Oui, si le role "Editor" herite du role "Viewer", toute autorisation future ajoutee a "Viewer" sera automatiquement heritee par "Editor".Veuillez nous faire savoir si vous avez d'autres questions.Meilleures salutations, Aetheros Support

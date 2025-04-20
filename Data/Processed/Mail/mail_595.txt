@@ -1,0 +1,1 @@
+ Cher John, nous avons resolu le probleme avec le tableau de bord de surveillance de l'API.Il s'agissait d'un probleme de synchronisation temporaire des donnees.Le tableau de bord devrait desormais etre rempli de donnees en temps reel.Nous nous excusons pour tout inconvenient que cela a pu causer.N'hesitez pas a nous contacter si vous rencontrez d'autres problemes.

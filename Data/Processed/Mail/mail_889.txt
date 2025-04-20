@@ -1,0 +1,1 @@
+ Salut Aetheros Support, je connais des pointes de latence irregulieres avec mon API surveillee via votre plate-forme.La plupart du temps, les temps de reponse sont super, mais je vois des pointes intermittentes jusqu'a plusieurs secondes.Pourriez-vous m'aider a enqueter sur ce qui pourrait causer cela merci, John Doe

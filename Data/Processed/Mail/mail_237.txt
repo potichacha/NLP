@@ -1,0 +1,1 @@
+ Salut, j'ai du mal a ajouter une nouvelle equipe de developpement aux autorisations de mon projet dans le service IAM.J'ai cree l'equipe et attribue des roles, mais ils ne peuvent toujours pas acceder aux ressources.Pourriez-vous s'il vous plait m'aider avec cela merci, John Doe

@@ -3,7 +3,8 @@ import unicodedata
 import requests
 import json
 import symbols
-
+from unidecode import unidecode
+import re
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -27,14 +28,11 @@ my_global_variable = load_variable()
 
 def clean(text):
     # Remove accents
-    text = ''.join(
-        c for c in unicodedata.normalize('NFD', text)
-        if unicodedata.category(c) != 'Mn'
-    )
     # Encode to ASCII with placeholder, decode back
-    text = text.encode('ascii', 'replace').decode().replace("?", "")
+    text1 = text.replace("â€™","'").encode('latin1').decode('utf-8').replace("?", "").replace(' ndeg '," numero ").replace('deg','e')
+    text2 = unidecode(text1)
     # Collapse all whitespace into a single space
-    return text
+    return re.sub(r'\s+', ' ', text2).strip()
 
 def download_html(url, output_filename):
     try:

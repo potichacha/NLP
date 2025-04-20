@@ -1,0 +1,1 @@
+ Salut John, nous avons identifie le probleme.Il y a eu une panne temporaire dans notre service qui provoquait l'erreur 502.Le probleme a maintenant ete resolu.Veuillez essayer de deployer a nouveau votre code et cela devrait fonctionner comme prevu.Nous nous excusons pour tout inconvenient que cela a pu causer.Meilleures salutations, l'equipe de soutien Aetheros

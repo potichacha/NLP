@@ -1,0 +1,1 @@
+ Merci d'avoir contacte le support Aetheros.Nous comprenons que vous rencontrez des difficultes a integrer le mercure a votre API.Pouvez-vous nous fournir les informations suivantes afin que nous puissions mieux vous aider: - Version du langage Mercury utilise - Journaux d'erreur et traces de pile - Extraits de code pertinents en attente de votre reponse pour poursuivre.

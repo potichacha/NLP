@@ -1,0 +1,1 @@
+ Salut Aetheros Prise en charge, j'ai remarque des ecarts entre les donnees affichees sur mon tableau de bord de surveillance de l'API et les performances reelles que je subis.Plus precisement, les temps de reponse indiques sur le tableau de bord semblent toujours inferieurs a ce que je vois dans mes journaux d'application.Pourriez-vous s'il vous plait regarder ce merci, John Doe

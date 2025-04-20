@@ -1,0 +1,1 @@
+ Notre serveur de production gere via Aetheros Cloud Management connait actuellement des temps d'arret.Il s'agit d'un probleme essentiel qui a un impact sur nos operations.Nous avons besoin d'une aide immediate pour resoudre ce probleme.Veuillez vous conseiller sur la situation et le delai estime a la resolution.ID de serveur: SRV-4829XYZ Cordialement, John Doe Exemple Corp

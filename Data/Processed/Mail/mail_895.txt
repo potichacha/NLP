@@ -1,0 +1,1 @@
+ Nous sommes confrontes a un probleme urgent avec notre service IAM.Apres avoir mis a jour les roles de plusieurs utilisateurs, ils ne sont desormais pas en mesure d'acceder aux ressources pour lesquelles ils etaient precedemment autorises.Cela entraine une perturbation importante de nos operations.Veuillez vous conseiller sur la facon de resoudre ce probleme des que possible.

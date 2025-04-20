@@ -1,0 +1,1 @@
+ Apres une enquete plus approfondie sur notre cote, nous avons constate que le probleme etait lie a une erreur de configuration de notre couche de mise en cache qui interagissait mal avec la validation du jeton Aetheros IAM.Ce n'etait pas directement un probleme avec votre service.Nous avons corrige le probleme de notre cote.Merci pour votre tentative d'aide.

@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a deployer une application Mercury a AWS en utilisant votre plateforme de gestion de cloud.Je recois une erreur de "limite de ressources depassee", mais je pense que je devrais avoir des ressources suffisantes disponibles dans mon compte.Pouvez-vous s'il vous plait m'aider a resoudre ce probleme merci, John Doe

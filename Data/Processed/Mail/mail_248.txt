@@ -1,0 +1,1 @@
+ Prise en charge de Aetheros, nous obtenons une erreur de serveur interne de 500.Nous n'avons apporte aucun changement recent a l'API ou a nos systemes.J'ai joint les journaux d'erreur comme demande.Cela a un impact sur nos operations et nous avons besoin de cette FIXE ASAP.Veuillez eenerer cela a vos ingenieurs seniors.Cordialement, John

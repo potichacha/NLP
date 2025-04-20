@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai realise que le probleme etait en fait avec ma configuration de base de donnees dans l'environnement Lambda.J'avais oublie de definir les variables d'environnement necessaires.Apres les avoir correctement definis, la connexion a ete reussie et le code fonctionne comme prevu.Merci pour votre aide et vos excuses pour les ennuis.Meilleur, John Doe

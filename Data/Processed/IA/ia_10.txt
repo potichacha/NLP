@@ -1,3 +1,1 @@
 How do I make an HTTP request in Javascript?
-
-\u200b

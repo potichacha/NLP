@@ -1,0 +1,1 @@
+ Salut, voici les informations que vous avez demandees: - ID de compte: 87654321 - Roles: <<Analyste de donnees>> et <<specialiste du marketing>> - pas de message d'erreur specifique, juste une roue qui ne termine jamais l'action.Faites-moi savoir si vous avez besoin d'autre chose.Cordialement, John

@@ -1,0 +1,1 @@
+ Au sens du present article, est appelee duration du passif d'une entreprise d'assurance une estimation prudente de l'echeance moyenne ponderee des paiements futurs relatifs aux engagements reglementes. Cette estimation doit etre un nombre entier et ne peut etre superieure a 8. Cette duration est calculee annuellement pour l'application de l'article A. 343-1-3.

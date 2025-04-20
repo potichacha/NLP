@@ -1,0 +1,1 @@
+ Nous sommes confrontes a un probleme critique avec l'integration du langage Mercure dans notre API existante, developpe avec Aetheros l'annee derniere.La documentation semble obsolete et nous connaissons des accidents frequents.Cela entraine une perturbation majeure de nos services.Nous avons besoin d'une aide immediate pour resoudre ce probleme.

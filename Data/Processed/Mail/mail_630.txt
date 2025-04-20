@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a comprendre comment fonctionne l'heritage des roles dans votre service IAM.Plus precisement, si j'ai un role qui herite des autorisations d'un autre role, et que je revoque ensuite l'une de ces autorisations du role parent, ce changement s'applique egalement au role d'enfant merci, John Doe

@@ -1,0 +1,1 @@
+ Cher John, nous avons identifie le probleme et nos ingenieurs travaillent a le resoudre.Il semble qu'il y ait un probleme de cluster de base de donnees qui a eu un impact sur plusieurs clients.Nous fournirons une autre mise a jour sous peu.Meilleures salutations, equipe de soutien a Aetheros

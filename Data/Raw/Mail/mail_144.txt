@@ -2,7 +2,7 @@ Hi Aetheros Support,
 
 Thanks for the quick response.
 
-Hereâ€™s the information you requested:
+Here's the information you requested:
 
 * Cloud Platform: AWS
 * Instance Type: We are currently using m5.large instances for our application servers.

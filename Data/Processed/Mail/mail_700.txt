@@ -1,0 +1,1 @@
+ Salut, merci pour la reponse!En fait, j'ai reussi a le comprendre en creusant un peu plus profondement dans les exemples de la page de documentation que vous avez liee.Tout fonctionne maintenant.Merci de m'avoir pointe dans la bonne direction!Cordialement, Isiah

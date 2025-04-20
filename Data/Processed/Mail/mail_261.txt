@@ -1,0 +1,1 @@
+ Salut Aetheros Support, merci pour la mise a jour.Nous avons soumis une demande d'augmentation du quota VCPU.En ce qui concerne la latence de l'API, nous le surveillerons de pres et vous fournirons les details demandes si le probleme persiste apres la resolution du deploiement.Merci pour votre aide!Meilleures salutations, John Smith

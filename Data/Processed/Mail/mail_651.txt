@@ -1,0 +1,1 @@
+ Nous avons identifie le probleme.Il y a eu une erreur de configuration avec les roles IAM attribues a vos serveurs cloud nouvellement provisionnes.Nous avons corrige la configuration et votre environnement de production devrait desormais etre accessible.Veuillez confirmer si le probleme est resolu de votre cote.

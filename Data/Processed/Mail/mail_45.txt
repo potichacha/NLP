@@ -1,0 +1,1 @@
+ Salut Aetheros Prise en charge, j'ai du mal a ajouter des utilisateurs a un groupe specifique au sein du service IAM.J'ai suivi la documentation, mais je continue de rencontrer un message d'erreur.Pourriez-vous s'il vous plait m'aider avec cela merci, John Doe

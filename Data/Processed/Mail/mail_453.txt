@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a comprendre comment la fonctionnalite de mise a l'echelle automatique fonctionne dans votre service de gestion de cloud.Plus precisement, les mesures sont utilisees pour declencher un evenement de mise a l'echelle est qu'il est possible de personnaliser ces seuils merci, John Doe

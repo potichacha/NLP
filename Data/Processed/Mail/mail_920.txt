@@ -1,0 +1,1 @@
+ Salut Aetheros Support, j'ai du mal a attribuer des roles specifiques aux utilisateurs de mon organisation.J'essaie de donner a un groupe de developpeurs l'acces a une API particuliere, mais l'affectation de role ne semble pas fonctionner correctement.Ils obtiennent toujours des erreurs d'autorisation.Pouvez-vous m'aider a depanner cela merci, John Doe
