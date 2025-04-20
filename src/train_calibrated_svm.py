@@ -28,11 +28,11 @@ def train_calibrated_svm():
         ('classifier', calibrated_svm)
     ])
 
-    print("🔄 Entraînement du modèle SVM calibré...")
+    print("Entraînement du modèle SVM calibré...")
     model.fit(X_train, y_train)
 
     joblib.dump(model, MODEL_PATH)
-    print(f"✅ Modèle calibré sauvegardé dans : {MODEL_PATH}")
+    print(f"Modèle calibré sauvegardé dans : {MODEL_PATH}")
 
 if __name__ == "__main__":
     train_calibrated_svm()

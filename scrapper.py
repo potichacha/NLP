@@ -50,14 +50,14 @@ def download_html(url, output_filename):
 
 # Clean and parse HTML
 def scrap_text(url):
-    output = f"Data/Tests/Marmiton/test_marmiton_{load_variable()}.txt"
+    output = f"Data/Processed/SciencesEtAvenir/test_science_{load_variable()}.txt"
     download_html(url, "currentfile.txt")
 
     with open("currentfile.txt", "r", encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html.parser")
 
     # Find the step list container
-    step_div = soup.find('div',attrs={"class":"recipe-step-list"} )
+    step_div = soup.find('div',attrs={"itemprop":"articleBody"} )
 
     if step_div:
         # Remove empty tags
@@ -76,8 +76,7 @@ def scrap_text(url):
         print(f"{load_variable()} file scrapped : {output}")
         save_variable(load_variable() + 1)
 
-scrap_text("https://www.marmiton.org/recettes/recette_veloute-de-potiron-au-gingembre_53746.aspx")
-scrap_text("https://www.marmiton.org/recettes/recette_far-breton-de-ma-belle-mere_53733.aspx")
-scrap_text("https://www.marmiton.org/recettes/recette_choucroute-pour-20-personnes_53662.aspx")
-scrap_text("https://www.marmiton.org/recettes/recette_baeckeoffe-de-canard-aux-epices-de-noel-et-fruits-secs_53647.aspx")
-save_variable(0)
+scrap_text("https://www.sciencesetavenir.fr/espace/carte-du-ciel-de-mai-2025-a-la-decouverte-de-l-asteroide-geant-vesta_185259")
+scrap_text("https://www.sciencesetavenir.fr/espace/univers/une-planete-detectee-en-orbite-perpendiculaire-autour-de-deux-etoiles-du-jamais-vu_185258")
+scrap_text("https://www.sciencesetavenir.fr/sante/accident-dans-une-salle-de-sport-qu-est-ce-que-la-cryotherapie_185252")
+scrap_text("https://www.sciencesetavenir.fr/politique/suicides-de-soignants-a-l-hopital-les-ministres-catherine-vautrin-et-elisabeth-borne-visees-par-une-plainte_185235")

@@ -1,0 +1,11 @@
+Qu'est-ce que l'apprentissage auto-supervisé ?
+
+L'apprentissage auto-supervisé est une approche de l'apprentissage automatique où le modèle apprend à partir de données non étiquetées, en générant lui-même des pseudo-étiquettes ou des tâches prétextes. C’est un pont entre l’apprentissage supervisé (avec étiquettes) et non supervisé (sans étiquettes). Par exemple, on peut entraîner un modèle à prédire une partie d’une image à partir d’une autre, ou à déterminer si deux extraits de texte viennent du même contexte.
+
+Et à quoi ça sert concrètement ?
+
+C’est très utile quand on a peu d’étiquettes disponibles. Par exemple, dans la vision par ordinateur ou le traitement du langage naturel, on peut pré-entraîner un modèle sur beaucoup de données brutes, puis le fine-tuner sur une petite base de données annotée. Cela permet souvent d’obtenir de bien meilleures performances que si on entraînait directement en supervisé sur un petit dataset.
+
+Donc c’est comme le pré-entraînement de BERT ?
+
+Exactement ! BERT est un excellent exemple d’apprentissage auto-supervisé : il apprend à prédire des mots masqués dans une phrase, ce qui lui permet d’apprendre une bonne représentation du langage sans étiquettes humaines.

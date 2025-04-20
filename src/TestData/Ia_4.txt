@@ -1,0 +1,11 @@
+C’est quoi une embedding dans le contexte du NLP ?
+
+Une embedding est une représentation vectorielle d’un mot, d’une phrase ou d’un document. Au lieu de représenter un mot comme une simple étiquette ou un index, on le transforme en un vecteur de nombres réels qui capture son sens ou son usage dans le langage. Cela permet aux modèles d’apprentissage automatique de mieux comprendre les relations sémantiques entre les mots.
+
+Donc c’est comme Word2Vec ?
+
+Exactement ! Word2Vec est l’un des premiers modèles populaires d’embeddings de mots. Il apprend à positionner les mots dans un espace vectoriel tel que les mots qui apparaissent dans des contextes similaires soient proches les uns des autres. Par exemple, “roi” et “reine” auront des vecteurs assez proches.
+
+Et les embeddings contextuels comme ceux de BERT, c’est différent ?
+
+Oui ! Contrairement à Word2Vec où chaque mot a une seule embedding fixe, les modèles comme BERT produisent des embeddings qui dépendent du contexte. Donc le mot “banc” n’aura pas la même embedding dans “je me suis assis sur un banc” et “j’ai ouvert un compte à la banque”. C’est une avancée majeure pour capturer le sens réel des mots dans une phrase.

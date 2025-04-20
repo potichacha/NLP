@@ -2,8 +2,8 @@ import os
 import joblib
 from preprocess import preprocess_text
 
-MODEL_PATH = "../models/classifier_linear_svm_calibrated.joblib"
-TEST_FOLDER = "../TestData"
+MODEL_PATH = "Models/classifier_linear_svm_calibrated.joblib"
+TEST_FOLDER = "src/TestData"
 
 def predict_category_with_proba(text):
     model = joblib.load(MODEL_PATH)
@@ -14,7 +14,7 @@ def predict_category_with_proba(text):
 
 def run_batch_prediction():
     model = joblib.load(MODEL_PATH)
-    print("🔍 Prédiction sur les fichiers de test...\n")
+    print("Prédiction sur les fichiers de test...\n")
 
     for root, _, files in os.walk(TEST_FOLDER):
         for file in files:
@@ -25,7 +25,7 @@ def run_batch_prediction():
 
                 results = predict_category_with_proba(content)
 
-                print(f"\n📄 {file}")
+                print(f"\n {file}")
                 for label, score in results:
                     print(f"  {label} : {score:.2%}")
 

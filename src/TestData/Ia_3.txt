@@ -1,0 +1,11 @@
+Comment fonctionne un transformeur ?
+
+Un transformeur est une architecture de réseau de neurones introduite par le papier “Attention is All You Need” en 2017. Il repose entièrement sur le mécanisme d’attention, notamment l’attention multi-tête, sans utiliser de réseaux récurrents ou convolutifs. Cela lui permet de traiter des séquences en parallèle et de mieux capturer les dépendances à long terme.
+
+C’est ce qui est utilisé dans GPT, non ?
+
+Oui exactement. GPT, BERT, T5, et d'autres modèles modernes de traitement du langage naturel sont tous basés sur des transformeurs. GPT, par exemple, utilise un transformeur auto-régressif, ce qui signifie qu’il prédit un mot à la fois en se basant sur les précédents.
+
+Et pourquoi c’est si efficace ?
+
+Parce que l’attention permet au modèle de se concentrer sur les parties les plus pertinentes de la séquence. En plus, l’entraînement peut se faire en parallèle, ce qui le rend beaucoup plus rapide que les anciens modèles séquentiels comme les LSTM. Résultat : des performances impressionnantes sur une grande variété de tâches NLP.

@@ -1,0 +1,11 @@
+Peux-tu m'expliquer ce qu'est le surapprentissage ?
+
+Le surapprentissage, ou overfitting en anglais, se produit lorsqu’un modèle apprend trop bien les données d'entraînement, y compris le bruit et les particularités, au point qu’il perd sa capacité à généraliser à de nouvelles données. En gros, il devient excellent sur son dataset d'entraînement, mais mauvais en dehors.
+
+Et comment on peut l’éviter ?
+
+Il y a plusieurs techniques : la régularisation (comme L2), la réduction de la complexité du modèle, le dropout, l’augmentation des données, ou encore l’utilisation de plus de données d’entraînement. Une autre méthode très courante est la validation croisée, qui permet de surveiller les performances du modèle sur des données qu’il n’a jamais vues.
+
+Et est-ce qu’un modèle trop simple peut aussi poser problème ?
+
+Oui, c’est ce qu’on appelle le sous-apprentissage (underfitting). Là, le modèle est trop simple pour capturer la structure des données. L’objectif est de trouver le bon équilibre : un modèle assez puissant pour apprendre, mais pas trop complexe pour qu’il généralise bien.
