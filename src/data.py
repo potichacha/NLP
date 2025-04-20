@@ -7,7 +7,8 @@ def load_data(data_dir):
         if os.path.isdir(category_path):
             for filename in os.listdir(category_path):
                 filepath = os.path.join(category_path, filename)
-                with open(filepath, 'r', encoding='utf-8') as file:
-                    texts.append(file.read())
-                    labels.append(category)
+                if os.path.isfile(filepath) and filename.endswith(".txt"):
+                    with open(filepath, 'r', encoding='utf-8') as file:
+                        texts.append(file.read())
+                        labels.append(category)
     return texts, labels

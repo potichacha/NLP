@@ -3,6 +3,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import LinearSVC
+from sklearn.calibration import CalibratedClassifierCV
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report
 import joblib
@@ -21,7 +22,7 @@ def train_and_evaluate_models():
     models = {
         'naive_bayes': MultinomialNB(),
         'random_forest': RandomForestClassifier(random_state=RANDOM_STATE),
-        'linear_svm': LinearSVC(random_state=RANDOM_STATE)
+        'linear_svm': CalibratedClassifierCV(LinearSVC(random_state=RANDOM_STATE))
     }
 
     for name, classifier in models.items():
