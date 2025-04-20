@@ -1,5 +1,5 @@
 # Pour pouvoir exécuter le code, il faut d'abord avoir installer les librairies python suivantes:
-ntlk, os, sys, joblib
+ntlk, joblib
 
 ## Pour verifier qu'elles sont installées faites:
 pip show nom-de-la-librairie
